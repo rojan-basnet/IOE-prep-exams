@@ -1,0 +1,1314 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Exam Results</title>
+
+    <!-- =========================
+         MATHJAX
+    ========================== -->
+
+    <script>
+        window.MathJax = {
+            tex: {
+                inlineMath: [
+                    ['$', '$'],
+                    ['\\(', '\\)']
+                ],
+                displayMath: [
+                    ['$$', '$$'],
+                    ['\\[', '\\]']
+                ]
+            }
+        };
+    </script>
+
+    <script
+        src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
+    </script>
+
+
+    <style>
+
+        /* =========================
+           THEME VARIABLES
+        ========================== */
+
+        :root {
+            --bg: #f5f7fa;
+            --card: #ffffff;
+
+            --text: #1f2937;
+            --muted: #6b7280;
+
+            --border: #e5e7eb;
+
+            --option-bg: #f8fafc;
+            --option-border: #e2e8f0;
+
+            --primary: #2563eb;
+            --primary-hover: #1d4ed8;
+
+            --correct-bg: #ecfdf5;
+            --correct-border: #86efac;
+            --correct-text: #166534;
+
+            --wrong-bg: #fef2f2;
+            --wrong-border: #fca5a5;
+            --wrong-text: #991b1b;
+
+            --nav-bg: rgba(255, 255, 255, 0.92);
+
+            --shadow: rgba(0, 0, 0, 0.08);
+        }
+
+
+        /* =========================
+           DARK THEME
+        ========================== */
+
+        html.dark {
+            --bg: #0f172a;
+            --card: #1e293b;
+
+            --text: #f1f5f9;
+            --muted: #94a3b8;
+
+            --border: #334155;
+
+            --option-bg: #263449;
+            --option-border: #3b4a60;
+
+            --primary: #3b82f6;
+            --primary-hover: #60a5fa;
+
+            --correct-bg: #052e1b;
+            --correct-border: #166534;
+            --correct-text: #86efac;
+
+            --wrong-bg: #3b1010;
+            --wrong-border: #991b1b;
+            --wrong-text: #fca5a5;
+
+            --nav-bg: rgba(30, 41, 59, 0.94);
+
+            --shadow: rgba(0, 0, 0, 0.35);
+        }
+
+
+        /* =========================
+           RESET
+        ========================== */
+
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
+
+
+        body {
+            font-family:
+                Arial,
+                Helvetica,
+                sans-serif;
+
+            background: var(--bg);
+            color: var(--text);
+
+            padding: 30px;
+            padding-bottom: 110px;
+
+            transition:
+                background 0.2s,
+                color 0.2s;
+        }
+
+
+        /* =========================
+           CONTAINER
+        ========================== */
+
+        .container {
+            max-width: 850px;
+            margin: auto;
+        }
+
+
+        .header {
+            margin-bottom: 25px;
+        }
+
+
+        .header h1 {
+            font-size: 30px;
+            margin-bottom: 7px;
+        }
+
+
+        .header p {
+            color: var(--muted);
+        }
+
+
+        /* =========================
+           QUESTION CARD
+        ========================== */
+
+        .question-card {
+            background: var(--card);
+
+            border: 1px solid var(--border);
+            border-radius: 16px;
+
+            padding: 25px;
+            margin-bottom: 18px;
+
+            box-shadow:
+                0 4px 15px var(--shadow);
+
+            transition:
+                background 0.2s,
+                border 0.2s;
+        }
+
+
+        .question-number {
+            color: var(--primary);
+
+            font-size: 14px;
+            font-weight: 700;
+
+            margin-bottom: 12px;
+        }
+
+
+        .question {
+            font-size: 18px;
+            line-height: 1.6;
+
+            margin-bottom: 20px;
+        }
+
+
+        /* =========================
+           OPTIONS
+        ========================== */
+
+        .options {
+            display: flex;
+
+            flex-direction: column;
+
+            gap: 10px;
+        }
+
+
+        .option {
+            padding: 14px 16px;
+
+            background: var(--option-bg);
+
+            border: 1px solid var(--option-border);
+
+            border-radius: 10px;
+
+            line-height: 1.5;
+
+            transition:
+                background 0.2s,
+                border 0.2s;
+        }
+
+
+        /* =========================
+           ANSWER AREA & SOLUTION
+        ========================== */
+
+        .answer-area {
+            margin-top: 18px;
+        }
+
+
+        .answer {
+            padding: 13px 16px;
+
+            border-radius: 10px;
+
+            margin-top: 8px;
+
+            line-height: 1.5;
+        }
+
+
+        .answer-label {
+            display: block;
+
+            font-size: 12px;
+
+            font-weight: 700;
+
+            text-transform: uppercase;
+
+            margin-bottom: 4px;
+        }
+
+
+        .correct-answer {
+            background: var(--correct-bg);
+
+            border: 1px solid var(--correct-border);
+
+            color: var(--correct-text);
+        }
+
+
+        .wrong-answer {
+            background: var(--wrong-bg);
+
+            border: 1px solid var(--wrong-border);
+
+            color: var(--wrong-text);
+        }
+
+        .solution-box {
+            margin-top: 15px;
+            padding: 16px;
+            background: var(--option-bg);
+            border: 1px solid var(--option-border);
+            border-left: 4px solid var(--primary);
+            border-radius: 6px 10px 10px 6px;
+            font-size: 15px;
+            line-height: 1.6;
+        }
+
+        .solution-label {
+            display: block;
+            font-size: 12px;
+            font-weight: 700;
+            text-transform: uppercase;
+            color: var(--primary);
+            margin-bottom: 8px;
+        }
+
+
+        /* =========================
+           SHOW ANSWER BUTTON
+        ========================== */
+
+        .show-answer-btn {
+            margin-top: 16px;
+            margin-bottom: 8px;
+
+            border: none;
+
+            background: var(--primary);
+
+            color: white;
+
+            padding: 10px 16px;
+
+            border-radius: 9px;
+
+            font-size: 14px;
+
+            font-weight: 600;
+
+            cursor: pointer;
+
+            transition:
+                background 0.2s,
+                transform 0.1s;
+        }
+
+
+        .show-answer-btn:hover {
+            background: var(--primary-hover);
+        }
+
+
+        .show-answer-btn:active {
+            transform: scale(0.97);
+        }
+
+
+        /* =========================
+           RESULT BADGE
+        ========================== */
+
+        .result {
+            margin-top: 14px;
+
+            padding: 10px;
+
+            border-radius: 9px;
+
+            text-align: center;
+
+            font-weight: 700;
+        }
+
+
+        .result.correct {
+            background: var(--correct-bg);
+
+            color: var(--correct-text);
+        }
+
+
+        .result.incorrect {
+            background: var(--wrong-bg);
+
+            color: var(--wrong-text);
+        }
+
+
+        /* =========================
+           HIDDEN
+        ========================== */
+
+        .hidden {
+            display: none;
+        }
+
+
+        /* =========================
+           EMPTY STATE
+        ========================== */
+
+        .empty {
+            background: var(--card);
+
+            border: 1px solid var(--border);
+
+            border-radius: 16px;
+
+            padding: 50px 25px;
+
+            text-align: center;
+
+            color: var(--muted);
+        }
+
+
+        .empty h2 {
+            color: var(--text);
+
+            margin-bottom: 8px;
+        }
+
+
+        /* =========================
+           MODES
+        ========================== */
+
+        .mode {
+            display: none;
+        }
+
+
+        .mode.active {
+            display: block;
+        }
+
+
+        /* =========================
+           FLOATING NAV
+        ========================== */
+
+        .floating-nav {
+            position: fixed;
+
+            bottom: 25px;
+            left: 50%;
+
+            transform: translateX(-50%);
+
+            display: flex;
+            align-items: center;
+
+            gap: 5px;
+
+            padding: 6px;
+
+            background: var(--nav-bg);
+
+            border: 1px solid var(--border);
+
+            border-radius: 15px;
+
+            box-shadow:
+                0 8px 30px var(--shadow);
+
+            backdrop-filter: blur(12px);
+
+            z-index: 1000;
+        }
+
+
+        .nav-btn {
+            border: none;
+
+            background: transparent;
+
+            color: var(--muted);
+
+            padding: 11px 16px;
+
+            border-radius: 10px;
+
+            font-size: 14px;
+
+            font-weight: 600;
+
+            cursor: pointer;
+
+            white-space: nowrap;
+        }
+
+
+        .nav-btn:hover {
+            background: var(--option-bg);
+
+            color: var(--text);
+        }
+
+
+        .nav-btn.active {
+            background: var(--primary);
+
+            color: white;
+        }
+
+
+        /* =========================
+           THEME BUTTON
+        ========================== */
+
+        .theme-btn {
+            border: none;
+
+            background: var(--option-bg);
+
+            color: var(--text);
+
+            width: 40px;
+            height: 40px;
+
+            border-radius: 10px;
+
+            cursor: pointer;
+
+            font-size: 18px;
+
+            display: flex;
+            align-items: center;
+            justify-content: center;
+
+            margin-left: 3px;
+        }
+
+
+        .theme-btn:hover {
+            background: var(--option-border);
+        }
+
+
+        /* =========================
+           LOADING
+        ========================== */
+
+        .loading {
+            text-align: center;
+
+            padding: 50px;
+
+            color: var(--muted);
+        }
+
+
+        /* =========================
+           MOBILE
+        ========================== */
+
+        @media (max-width: 600px) {
+
+            body {
+                padding: 15px;
+                padding-bottom: 100px;
+            }
+
+
+            .question-card {
+                padding: 18px;
+            }
+
+
+            .question {
+                font-size: 16px;
+            }
+
+
+            .floating-nav {
+                width: calc(100% - 30px);
+
+                justify-content: center;
+            }
+
+
+            .nav-btn {
+                flex: 1;
+
+                padding: 10px 6px;
+
+                font-size: 12px;
+            }
+
+
+            .theme-btn {
+                flex-shrink: 0;
+            }
+
+        }
+
+    </style>
+</head>
+
+
+<body>
+
+    <main class="container">
+
+
+        <!-- =========================
+             MODE 1
+             ALL QUESTIONS
+        ========================== -->
+
+        <section
+            id="mode-all"
+            class="mode active"
+        >
+
+            <div class="header">
+
+                <h1>All Questions</h1>
+
+                <p>
+                    Review the questions and reveal
+                    answers when needed.
+                </p>
+
+            </div>
+
+            <div id="all-questions">
+
+                <div class="loading">
+                    Loading questions...
+                </div>
+
+            </div>
+
+        </section>
+
+
+
+        <!-- =========================
+             MODE 2
+             INCORRECT
+        ========================== -->
+
+        <section
+            id="mode-incorrect"
+            class="mode"
+        >
+
+            <div class="header">
+
+                <h1>Incorrect Questions</h1>
+
+                <p>
+                    Questions you attempted incorrectly.
+                </p>
+
+            </div>
+
+            <div id="incorrect-questions"></div>
+
+        </section>
+
+
+
+        <!-- =========================
+             MODE 3
+             UNATTEMPTED
+        ========================== -->
+
+        <section
+            id="mode-unattempted"
+            class="mode"
+        >
+
+            <div class="header">
+
+                <h1>Unattempted Questions</h1>
+
+                <p>
+                    Questions you did not attempt.
+                </p>
+
+            </div>
+
+            <div id="unattempted-questions"></div>
+
+        </section>
+
+    </main>
+
+
+
+    <!-- =========================
+         FLOATING NAVIGATION
+    ========================== -->
+
+    <nav class="floating-nav">
+
+        <button
+            class="nav-btn active"
+            data-mode="mode-all"
+        >
+            All
+        </button>
+
+
+        <button
+            class="nav-btn"
+            data-mode="mode-incorrect"
+        >
+            Incorrect
+        </button>
+
+
+        <button
+            class="nav-btn"
+            data-mode="mode-unattempted"
+        >
+            Unattempted
+        </button>
+
+
+        <button
+            id="theme-toggle"
+            class="theme-btn"
+            title="Toggle theme"
+            aria-label="Toggle theme"
+        >
+            ◐
+        </button>
+
+    </nav>
+
+
+
+    <script>
+
+        /* ==================================================
+           DATA
+        ================================================== */
+
+        let quizData = [];
+
+
+        /* ==================================================
+           THEME
+        ================================================== */
+
+        const savedTheme =
+            localStorage.getItem("theme");
+
+        if (savedTheme === "dark") {
+
+            document.documentElement
+                .classList.add("dark");
+
+        }
+        else if (savedTheme === "light") {
+
+            document.documentElement
+                .classList.remove("dark");
+
+        }
+        else {
+
+            // No saved preference:
+            // Follow system preference
+
+            if (
+                window.matchMedia(
+                    "(prefers-color-scheme: dark)"
+                ).matches
+            ) {
+
+                document.documentElement
+                    .classList.add("dark");
+
+            }
+
+        }
+
+
+        const themeButton =
+            document.getElementById("theme-toggle");
+
+
+        function updateThemeIcon() {
+
+            const isDark =
+                document.documentElement
+                    .classList.contains("dark");
+
+            themeButton.textContent =
+                isDark ? "☀" : "☾";
+
+            themeButton.title =
+                isDark
+                    ? "Switch to light mode"
+                    : "Switch to dark mode";
+
+        }
+
+
+        updateThemeIcon();
+
+
+        themeButton.addEventListener(
+            "click",
+            () => {
+
+                const isDark =
+                    document.documentElement
+                        .classList.toggle("dark");
+
+
+                localStorage.setItem(
+                    "theme",
+                    isDark ? "dark" : "light"
+                );
+
+
+                updateThemeIcon();
+
+            }
+        );
+
+
+        /* ==================================================
+           LOAD DATA
+        ================================================== */
+
+        async function loadData() {
+
+            try {
+
+                const response =
+                    await fetch("exam1.json");
+
+
+                if (!response.ok) {
+
+                    throw new Error(
+                        `HTTP error: ${response.status}`
+                    );
+
+                }
+
+
+                quizData =
+                    await response.json();
+
+
+                renderAllQuestions();
+
+                renderIncorrectQuestions();
+
+                renderUnattemptedQuestions();
+
+
+                // Render LaTeX
+                if (window.MathJax) {
+
+                    await MathJax.typesetPromise();
+
+                }
+
+            }
+            catch (error) {
+
+                console.error(error);
+
+
+                document.getElementById(
+                    "all-questions"
+                ).innerHTML = `
+
+                    <div class="empty">
+
+                        <h2>Failed to load data</h2>
+
+                        <p>
+                            Make sure
+                            cleaned_data.json
+                            exists in the same folder.
+                        </p>
+
+                    </div>
+
+                `;
+
+            }
+
+        }
+
+
+        /* ==================================================
+           CHECK IF UNATTEMPTED
+        ================================================== */
+
+        function isUnattempted(question) {
+
+            return (
+                question.userAnswer === null ||
+                question.userAnswer === undefined ||
+                question.userAnswer === "" ||
+                question.userAnswer === "Not Answered"
+            );
+
+        }
+
+
+        /* ==================================================
+           CREATE ANSWER SECTION
+        ================================================== */
+
+        function createAnswerSection(
+            question,
+            showWrongAnswer = false
+        ) {
+
+            const answerArea =
+                document.createElement("div");
+
+            answerArea.className =
+                "answer-area";
+
+            // Generate solution HTML if available
+            const solutionHTML = question.solution ? `
+                <div class="solution-box">
+                    <span class="solution-label">Solution</span>
+                    <div>${question.solution}</div>
+                </div>
+            ` : "";
+
+            /*
+             * INCORRECT MODE
+             * Automatically show user's answer, correct answer, and solution
+             */
+            if (showWrongAnswer) {
+
+                answerArea.innerHTML = `
+                    <div class="answer wrong-answer">
+                        <span class="answer-label">Your Answer</span>
+                        ${question.userAnswer
+                            ? question.userAnswer.toUpperCase()
+                            : "Not Answered"
+                        }
+                    </div>
+
+                    <div class="answer correct-answer">
+                        <span class="answer-label">Correct Answer</span>
+                        ${question.correctAnswer
+                            ? question.correctAnswer.toUpperCase()
+                            : "N/A"
+                        }
+                    </div>
+
+                    ${solutionHTML}
+                `;
+
+                return answerArea;
+
+            }
+
+
+            /*
+             * ALL / UNATTEMPTED
+             * Hide correct answer and solution initially behind a button
+             */
+            const button = document.createElement("button");
+            
+            button.className = "show-answer-btn";
+            button.textContent = "Show Answer";
+
+            const hiddenSection = document.createElement("div");
+            hiddenSection.className = "hidden";
+
+            hiddenSection.innerHTML = `
+                <div class="answer correct-answer">
+                    <span class="answer-label">Correct Answer</span>
+                    ${question.correctAnswer
+                        ? question.correctAnswer.toUpperCase()
+                        : "N/A"
+                    }
+                </div>
+                
+                ${solutionHTML}
+            `;
+
+            button.addEventListener("click", () => {
+                const isHidden = hiddenSection.classList.toggle("hidden");
+                button.textContent = isHidden ? "Show Answer" : "Hide Answer";
+            });
+
+            answerArea.appendChild(button);
+            answerArea.appendChild(hiddenSection);
+
+            return answerArea;
+
+        }
+
+
+        /* ==================================================
+           CREATE QUESTION CARD
+        ================================================== */
+
+        function createQuestionCard(
+            question,
+            showWrongAnswer = false,
+            showAnswerButton = true
+        ) {
+
+            const card =
+                document.createElement("div");
+
+
+            card.className =
+                "question-card";
+
+
+            /* Question number */
+
+            const number =
+                document.createElement("div");
+
+
+            number.className =
+                "question-number";
+
+
+            number.textContent =
+                `Question ${question.questionNo}`;
+
+
+            /* Question */
+
+            const questionText =
+                document.createElement("div");
+
+
+            questionText.className =
+                "question";
+
+
+            questionText.innerHTML =
+                question.question;
+
+
+            /* Options */
+
+            const optionsContainer =
+                document.createElement("div");
+
+
+            optionsContainer.className =
+                "options";
+
+
+            question.options.forEach(
+                optionText => {
+
+                    const option =
+                        document.createElement("div");
+
+
+                    option.className =
+                        "option";
+
+
+                    option.innerHTML =
+                        optionText;
+
+
+                    optionsContainer.appendChild(
+                        option
+                    );
+
+                }
+            );
+
+
+            card.appendChild(number);
+
+            card.appendChild(questionText);
+
+            card.appendChild(optionsContainer);
+
+
+            /*
+             * Add answer section
+             */
+
+            if (showWrongAnswer) {
+
+                card.appendChild(
+                    createAnswerSection(
+                        question,
+                        true
+                    )
+                );
+
+            }
+            else if (showAnswerButton) {
+
+                card.appendChild(
+                    createAnswerSection(
+                        question,
+                        false
+                    )
+                );
+
+            }
+
+
+            return card;
+
+        }
+
+
+        /* ==================================================
+           RENDER
+        ================================================== */
+
+        function renderQuestions(
+            containerId,
+            questions,
+            showWrongAnswer = false
+        ) {
+
+            const container =
+                document.getElementById(containerId);
+
+
+            container.innerHTML = "";
+
+
+            if (questions.length === 0) {
+
+                container.innerHTML = `
+
+                    <div class="empty">
+
+                        <h2>No questions</h2>
+
+                        <p>
+                            There are no questions
+                            in this category.
+                        </p>
+
+                    </div>
+
+                `;
+
+                return;
+
+            }
+
+
+            questions.forEach(question => {
+
+                container.appendChild(
+                    createQuestionCard(
+                        question,
+                        showWrongAnswer
+                    )
+                );
+
+            });
+
+        }
+
+
+        /* ==================================================
+           MODE 1
+           ALL QUESTIONS
+        ================================================== */
+
+        function renderAllQuestions() {
+
+            renderQuestions(
+                "all-questions",
+                quizData,
+                false
+            );
+
+        }
+
+
+        /* ==================================================
+           MODE 2
+           INCORRECT QUESTIONS
+        ================================================== */
+
+        function renderIncorrectQuestions() {
+
+            const incorrect =
+                quizData.filter(question => {
+
+                    return (
+                        !isUnattempted(question) &&
+                        question.isCorrect === false
+                    );
+
+                });
+
+
+            renderQuestions(
+                "incorrect-questions",
+                incorrect,
+                true
+            );
+
+        }
+
+
+        /* ==================================================
+           MODE 3
+           UNATTEMPTED
+        ================================================== */
+
+        function renderUnattemptedQuestions() {
+
+            const unattempted =
+                quizData.filter(question =>
+                    isUnattempted(question)
+                );
+
+
+            renderQuestions(
+                "unattempted-questions",
+                unattempted,
+                false
+            );
+
+        }
+
+
+        /* ==================================================
+           NAVIGATION
+        ================================================== */
+
+        const navButtons =
+            document.querySelectorAll(
+                ".nav-btn"
+            );
+
+
+        const modes =
+            document.querySelectorAll(
+                ".mode"
+            );
+
+
+        navButtons.forEach(button => {
+
+            /*
+             * Ignore theme button
+             */
+
+            if (!button.dataset.mode) {
+                return;
+            }
+
+
+            button.addEventListener(
+                "click",
+                () => {
+
+                    const targetMode =
+                        button.dataset.mode;
+
+
+                    navButtons.forEach(btn => {
+
+                        btn.classList.remove(
+                            "active"
+                        );
+
+                    });
+
+
+                    modes.forEach(mode => {
+
+                        mode.classList.remove(
+                            "active"
+                        );
+
+                    });
+
+
+                    button.classList.add(
+                        "active"
+                    );
+
+
+                    document
+                        .getElementById(targetMode)
+                        .classList.add("active");
+
+
+                    window.scrollTo({
+                        top: 0,
+                        behavior: "smooth"
+                    });
+
+
+                    /*
+                     * Re-render MathJax after
+                     * changing mode
+                     */
+
+                    if (window.MathJax) {
+
+                        MathJax.typesetPromise();
+
+                    }
+
+                }
+            );
+
+        });
+
+
+        /* ==================================================
+           START
+        ================================================== */
+
+        loadData();
+
+    </script>
+
+</body>
+
+</html>

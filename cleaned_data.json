@@ -1,0 +1,1302 @@
+[
+  {
+    "questionNo": 1,
+    "question": "Oxidation number of nitrogen in $\\mathrm{NH_4NO_3}$ is:",
+    "options": [
+      "a) −3",
+      "b) +5",
+      "c) −1",
+      "d) +1"
+    ],
+    "userAnswer": "b",
+    "correctAnswer": "d",
+    "isCorrect": false
+  },
+  {
+    "questionNo": 2,
+    "question": "Which of the following intermediates have the complete octet around the carbon atom?",
+    "options": [
+      "a) carbonium ion",
+      "b) carbanion",
+      "c) free radical",
+      "d) carbene"
+    ],
+    "userAnswer": "c",
+    "correctAnswer": "b",
+    "isCorrect": false
+  },
+  {
+    "questionNo": 3,
+    "question": "$\\mathrm{CH}_{3}\\mathrm{CH}_{2}\\mathrm{OH}$ and $\\mathrm{CH}_{3}-\\mathrm{O}-\\mathrm{CH}_{3}$ are:",
+    "options": [
+      "a) functional isomers",
+      "b) chain isomers",
+      "c) metamers",
+      "d)Position Isomers"
+    ],
+    "userAnswer": "a",
+    "correctAnswer": "a",
+    "isCorrect": true
+  },
+  {
+    "questionNo": 4,
+    "question": "Which of the following has highest electronegativity?",
+    "options": [
+      "a) Cl",
+      "b) N",
+      "c) O",
+      "d) S"
+    ],
+    "userAnswer": "a",
+    "correctAnswer": "c",
+    "isCorrect": false
+  },
+  {
+    "questionNo": 5,
+    "question": "If an electron has spin quantum number of +1/2 and a magnetic quantum number of -1, it cannot be presented in:",
+    "options": [
+      "a) d-orbital",
+      "b) f-orbital",
+      "c) p-orbital",
+      "d) s-orbital"
+    ],
+    "userAnswer": "b",
+    "correctAnswer": "d",
+    "isCorrect": false
+  },
+  {
+    "questionNo": 6,
+    "question": "Copper turnings when heated with concentrated sulphuric acid will give:",
+    "options": [
+      "a) $\\mathrm{SO}_{2}$",
+      "b) $\\mathrm{SO}_{3}$",
+      "c) $\\mathrm{H}_{2}\\mathrm{~S}$",
+      "d) $\\mathrm{O}_{2}$"
+    ],
+    "userAnswer": "a",
+    "correctAnswer": "a",
+    "isCorrect": true
+  },
+  {
+    "questionNo": 7,
+    "question": "The mass of $112\\mathrm{~cm}^{3}$ of $\\mathrm{NH}_{3}$ gas at STP is:",
+    "options": [
+      "a) 0.085 g",
+      "b) 0.85 g",
+      "c) 8.5 g",
+      "d) 80.5 g"
+    ],
+    "userAnswer": null,
+    "correctAnswer": "a",
+    "isCorrect": false
+  },
+  {
+    "questionNo": 8,
+    "question": "The hydrocarbon which does not decolorize alkaline $\\mathrm{KMnO}_{4}$ solution and also does not give any precipitate with ammoniacal silver nitrate is:",
+    "options": [
+      "a) benzene",
+      "b) acetylene",
+      "c) propyne",
+      "d) 1-butyne"
+    ],
+    "userAnswer": null,
+    "correctAnswer": "a",
+    "isCorrect": false
+  },
+  {
+    "questionNo": 9,
+    "question": "An element $(\\mathrm{X})$ which occurs in the second period has an outer electronic configuration $s^{2}p^{1}$, what is the formula and nature of its oxide?",
+    "options": [
+      "a) $\\mathrm{XO}_{3}$, basic",
+      "b) $X_{2} O_{3}$, basic",
+      "c) $\\mathrm{XO}_{3}$, acidic",
+      "d) $\\mathrm{X}_{2}\\mathrm{O}_{3}$, acidic"
+    ],
+    "userAnswer": null,
+    "correctAnswer": "d",
+    "isCorrect": false
+  },
+  {
+    "questionNo": 10,
+    "question": "1.0 g of Magnesium is burnt with $0.56\\mathrm{~g}\\mathrm{O}_{2}$ in a closed vessel. Which reactant is left in excess and how much?",
+    "options": [
+      "a) Mg, 0.16 g",
+      "b) $\\mathrm{O}_{2},0.16\\mathrm{~g}$",
+      "c) Mg, 0.44 g",
+      "d) $\\mathrm{O}_{2},0.28\\mathrm{~g}$"
+    ],
+    "userAnswer": null,
+    "correctAnswer": "a",
+    "isCorrect": false
+  },
+  {
+    "questionNo": 11,
+    "question": "for the reaction equilibrium, $\\mathrm{N}_{2}\\mathrm{O}_{4}(\\mathrm{~g})\\rightleftharpoons2\\mathrm{NO}_{2}$, the concentration of $\\mathrm{N}_{2}\\mathrm{O}_{4}$ and $\\mathrm{NO}_{2}$ at equilibrium are $4.8\\times10^{-2}$ and $1.2\\times10^{-2}\\mathrm{~mol}\\mathrm{~L}^{-1}$ respectively. The value of $K_{c}$ for the reaction is:",
+    "options": [
+      "a) $3.3 \\times10^{2}\\mathrm{molL^{-1}}$",
+      "b) $3\\times10^{-3}\\mathrm{molL^{-1}}$",
+      "c) $3\\times10^{-2}\\mathrm{molL^{-1}}$",
+      "d) $3\\times10^{3}\\mathrm{molL^{-1}}$"
+    ],
+    "userAnswer": "a",
+    "correctAnswer": "b",
+    "isCorrect": false
+  },
+  {
+    "questionNo": 12,
+    "question": "Ultraviolet rays can be checked by",
+    "options": [
+      "[(a)] Flint glass",
+      "[(b)] Crooke&#39;s glass",
+      "[(c)] Soda glass",
+      "[(d)] Pyrex glass"
+    ],
+    "userAnswer": null,
+    "correctAnswer": "b",
+    "isCorrect": false
+  },
+  {
+    "questionNo": 13,
+    "question": "If a compound on analysis was found to contain $\\mathrm{C}=\\mathbf{18.5\\%},\\mathrm{H}=\\mathbf{1.55\\%},\\mathrm{Cl}=\\mathbf{55.04}\\%$ and $\\mathbf{O}\\boldsymbol{=}\\mathbf{24.81}\\boldsymbol{\\%}$, then its empirical formula is:",
+    "options": [
+      "[(a)] CHClO",
+      "[(b)] $\\mathrm{CH}_{2}\\mathrm{ClO}$",
+      "[(c)] $\\mathrm{C}_{2}\\mathrm{H}_{2}\\mathrm{OCl}$",
+      "[(d)] $\\mathrm{ClCH}_{2}\\mathrm{O}$"
+    ],
+    "userAnswer": null,
+    "correctAnswer": "a",
+    "isCorrect": false
+  },
+  {
+    "questionNo": 14,
+    "question": "In Victor Meyer&#39;s method, 0.2 g of an organic substance displaced 56 ml of air at STP. The molecular weight of the compound will be:",
+    "options": [
+      "(a) 56",
+      "(b) 112",
+      "(c) 80",
+      "(d) 28"
+    ],
+    "userAnswer": null,
+    "correctAnswer": "c",
+    "isCorrect": false
+  },
+  {
+    "questionNo": 15,
+    "question": "Beilstein&#39;s test is answered by:",
+    "options": [
+      "(a) Halogens",
+      "(b) Pyridine",
+      "(c) Thiourea",
+      "(d) All of the above"
+    ],
+    "userAnswer": null,
+    "correctAnswer": "d",
+    "isCorrect": false
+  },
+  {
+    "questionNo": 16,
+    "question": "How many position isomers are possible for dichlorobenzene?",
+    "options": [
+      "(a) 3",
+      "(b) 4",
+      "(c) 2",
+      "(d) 5"
+    ],
+    "userAnswer": "a",
+    "correctAnswer": "a",
+    "isCorrect": true
+  },
+  {
+    "questionNo": 17,
+    "question": "Cycloalkanes are isomeric with:",
+    "options": [
+      "(a) Olefins",
+      "(b) Alkynes",
+      "(c) Alkadienes",
+      "(d) All the three"
+    ],
+    "userAnswer": "c",
+    "correctAnswer": "a",
+    "isCorrect": false
+  },
+  {
+    "questionNo": 18,
+    "question": "In any fuel, the percentage of isooctane by volume in a mixture of isooctane and n-heptane which has the same anti-knocking properties as the fuel under examination is called:",
+    "options": [
+      "a. Octane number",
+      "b. Cetane number",
+      "c. Gold number",
+      "d. None of them"
+    ],
+    "userAnswer": "a",
+    "correctAnswer": "a",
+    "isCorrect": true
+  },
+  {
+    "questionNo": 19,
+    "question": "A fuel has an octane number of 75. It is as good as a mixture of:",
+    "options": [
+      "a. 75% n-heptane + 25% octane",
+      "b. 75% octane + 25% n-heptane",
+      "c. 75 litres of isooctane",
+      "d. 75% isooctane + 25% n-heptane"
+    ],
+    "userAnswer": "d",
+    "correctAnswer": "a",
+    "isCorrect": false
+  },
+  {
+    "questionNo": 20,
+    "question": "Branching of hydrocarbon chain:",
+    "options": [
+      "a. Increases the octane number",
+      "b. Decreases the octane number",
+      "c. Has no effect on octane number",
+      "d. All the three above"
+    ],
+    "userAnswer": null,
+    "correctAnswer": "a",
+    "isCorrect": false
+  },
+  {
+    "questionNo": 21,
+    "question": "Which of the following statement is correct?",
+    "options": [
+      "[a)] the value of g is same at all places",
+      "[b)] the value of g is more at the equator than at the poles",
+      "[c)] the value of g is more at thepoles than at the equator",
+      "[d)] the value of g is maximum at the center of the earth"
+    ],
+    "userAnswer": null,
+    "correctAnswer": "c",
+    "isCorrect": false
+  },
+  {
+    "questionNo": 22,
+    "question": "Which of the following is a scalar quantity?",
+    "options": [
+      "a) Electric field",
+      "b) Electrostatic potential",
+      "c) Angular momentum",
+      "d) Torque"
+    ],
+    "userAnswer": "c",
+    "correctAnswer": "b",
+    "isCorrect": false
+  },
+  {
+    "questionNo": 23,
+    "question": "Star twinkles due to:",
+    "options": [
+      "a) refraction",
+      "b) scattering",
+      "c) diffraction",
+      "d) dispersion"
+    ],
+    "userAnswer": "c",
+    "correctAnswer": "a",
+    "isCorrect": false
+  },
+  {
+    "questionNo": 24,
+    "question": "A small black spot is present on the metal plate and if the metal plate is heated to red hot and quickly placed in a dark room, then the spot:",
+    "options": [
+      "a) will appears red while plate appears black",
+      "b) will appears white while plate appears red",
+      "c)appear brighter than the rest of the metal plate.",
+      "d) will appears invisible while plate appears black"
+    ],
+    "userAnswer": null,
+    "correctAnswer": "c",
+    "isCorrect": false
+  },
+  {
+    "questionNo": 25,
+    "question": "A body is falling freely under the action of gravity alone in vacuum. Which of the following quantities remain constant during the fall?",
+    "options": [
+      "a) kinetic energy",
+      "b) potential energy",
+      "c) total mechanical energy",
+      "d) total linear momentum"
+    ],
+    "userAnswer": "a",
+    "correctAnswer": "c",
+    "isCorrect": false
+  },
+  {
+    "questionNo": 26,
+    "question": "An excess electron is on a spherical body of area $2mm^{2}$. The surface charge density is:",
+    "options": [
+      "a) $4\\times10^{-12}$",
+      "b) $8\\times10^{-12}$",
+      "c) $4\\times10^{-14}$",
+      "d) $8\\times10^{-14}$"
+    ],
+    "userAnswer": null,
+    "correctAnswer": "d",
+    "isCorrect": false
+  },
+  {
+    "questionNo": 27,
+    "question": "A lens behaves as a converging lens in air and diverging lens in water. The refractive index of material of lens is:",
+    "options": [
+      "a) equal to air",
+      "b) equal to water",
+      "c) more than air and less than water",
+      "d) more than water"
+    ],
+    "userAnswer": null,
+    "correctAnswer": "c",
+    "isCorrect": false
+  },
+  {
+    "questionNo": 28,
+    "question": "A parallel plate capacitor has a uniform electric field E in the space between the plates. If the distance between the plates is d and area of each plate is A, the energy stored in the capacitor is:",
+    "options": [
+      "a) $\\frac{1}{2}\\varepsilon_{0}E^{2}$",
+      "b) $\\frac{E^{2}Ad}{\\varepsilon_{0}}$",
+      "c) $\\frac{1}{2}\\varepsilon_{0}E^{2}Ad$",
+      "d) $\\varepsilon_{0}E^{2}Ad$"
+    ],
+    "userAnswer": "a",
+    "correctAnswer": "c",
+    "isCorrect": false
+  },
+  {
+    "questionNo": 29,
+    "question": "One end of a 0.25 m long metal bar is in steam and the other is in contact with ice. If 12 g of ice melts per minute, then the thermal conductivity of the metal is (cross-section of the bar $=5\\times10^{-4}\\mathrm{~m}^{2}$ and latent heat of ice $=80\\mathrm{cal}\\mathrm{g}^{-1}$ ):",
+    "options": [
+      "a) $20\\mathrm{cals}^{-1}m^{-1}{}^{\\circ}\\mathrm{C}^{-1}$",
+      "b) $10cals^{-1}m^{-1}{}^{\\circ}C^{-1}$",
+      "c) $40\\mathrm{cals}^{-1}m^{-1}{}^{\\circ}\\mathrm{C}^{-1}$",
+      "d) $80\\mathrm{cals}^{-1}\\mathrm{~m}^{-1{}^{\\circ}}\\mathrm{C}^{-1}$"
+    ],
+    "userAnswer": null,
+    "correctAnswer": "d",
+    "isCorrect": false
+  },
+  {
+    "questionNo": 30,
+    "question": "Real image of an object is formed at a distance of 20 cm from a lens. On putting another lens in contact with it, the image is shifted 10 cm towards the combination. The power of the lens is:",
+    "options": [
+      "a) 2 D",
+      "b) 5 D",
+      "c) 6 D",
+      "d) 10 D"
+    ],
+    "userAnswer": "a",
+    "correctAnswer": "b",
+    "isCorrect": false
+  },
+  {
+    "questionNo": 31,
+    "question": "An ant moves toward a plane mirror at 2 m/s while the mirror moves toward the ant at 2 m/s. What is the relative velocity between the ant and its image?",
+    "options": [
+      "a) 2 m/s",
+      "b) 4 m/s",
+      "c) 8 m/s",
+      "d) 16 m/s"
+    ],
+    "userAnswer": "b",
+    "correctAnswer": "c",
+    "isCorrect": false
+  },
+  {
+    "questionNo": 32,
+    "question": "Potential difference is related to electric current in the same way as _____ is related to heat flow.",
+    "options": [
+      "a) Temperature",
+      "b) Volume",
+      "c) Material type",
+      "d) Pressure"
+    ],
+    "userAnswer": "a",
+    "correctAnswer": "a",
+    "isCorrect": true
+  },
+  {
+    "questionNo": 33,
+    "question": "For which temperature rise is the required heat minimum?",
+    "options": [
+      "a) 1 K",
+      "b) 1°C",
+      "c) 1°F",
+      "d) Equal for all"
+    ],
+    "userAnswer": "a",
+    "correctAnswer": "c",
+    "isCorrect": false
+  },
+  {
+    "questionNo": 34,
+    "question": "The relative humidity at which humans generally feel most comfortable is:",
+    "options": [
+      "a) 30–40%",
+      "b) 40–45%",
+      "c) 60–65%",
+      "d) 80–85%"
+    ],
+    "userAnswer": null,
+    "correctAnswer": "c",
+    "isCorrect": false
+  },
+  {
+    "questionNo": 35,
+    "question": "A clock keeps correct time at 20°C. Its metallic pendulum has coefficient of linear expansion $2\\times10^{-5},^\\circ\\mathrm{C}^{-1}$. If temperature drops to 10°C, how much time does the clock gain or lose per day?",
+    "options": [
+      "a) Loses 8.64 s",
+      "b) Gains 8.64 s",
+      "c) Loses 19.28 s",
+      "d) Gains 19.28 s"
+    ],
+    "userAnswer": null,
+    "correctAnswer": "b",
+    "isCorrect": false
+  },
+  {
+    "questionNo": 36,
+    "question": "A copper disc has a circular hole at its center. When the disc is heated uniformly, what happens to the hole?",
+    "options": [
+      "a) It expands with the same coefficient as copper",
+      "b) It contracts with a different coefficient",
+      "c) It expands with a different coefficient",
+      "d) It remains unchanged"
+    ],
+    "userAnswer": "a",
+    "correctAnswer": "a",
+    "isCorrect": true
+  },
+  {
+    "questionNo": 37,
+    "question": "The acceleration of a particle moving in a circle is:",
+    "options": [
+      "a) Constant and tangential",
+      "b) Variable and radial",
+      "c) Zero",
+      "d) Along circumference"
+    ],
+    "userAnswer": "a",
+    "correctAnswer": "b",
+    "isCorrect": false
+  },
+  {
+    "questionNo": 38,
+    "question": "Two bodies A and B have the same momentum. If A is lighter, its kinetic energy will be:",
+    "options": [
+      "a) Greater than B",
+      "b) Less than B",
+      "c) Same as B",
+      "d) Zero"
+    ],
+    "userAnswer": "b",
+    "correctAnswer": "a",
+    "isCorrect": false
+  },
+  {
+    "questionNo": 39,
+    "question": "When a bicycle moves without pedaling, the frictional force on:",
+    "options": [
+      "a) Front wheel forward, back wheel backward",
+      "b) Front backward, back forward",
+      "c) Both forward",
+      "d) Both backward"
+    ],
+    "userAnswer": "d",
+    "correctAnswer": "d",
+    "isCorrect": true
+  },
+  {
+    "questionNo": 40,
+    "question": "In the absence of any external force, which quantity remains conserved?",
+    "options": [
+      "a) Linear momentum",
+      "b) Angular momentum",
+      "c) Torque",
+      "d) Time period"
+    ],
+    "userAnswer": "a",
+    "correctAnswer": "a",
+    "isCorrect": true
+  },
+  {
+    "questionNo": 41,
+    "question": "A stone is dropped from a cliff while a constant horizontal wind force acts on it. Its path will be:",
+    "options": [
+      "a) Straight line",
+      "b) Parabola",
+      "c) Circle",
+      "d) Irregular curve"
+    ],
+    "userAnswer": "b",
+    "correctAnswer": "a",
+    "isCorrect": false
+  },
+  {
+    "questionNo": 42,
+    "question": "If displacement is given by: $\\mathbf{x}=\\mathbf{a}\\cos\\mathbf{t}$, what is the acceleration?",
+    "options": [
+      "a) a cos t",
+      "b) -a cos t",
+      "c) a sin t",
+      "d) -a sin t"
+    ],
+    "userAnswer": "b",
+    "correctAnswer": "b",
+    "isCorrect": true
+  },
+  {
+    "questionNo": 43,
+    "question": "A train 200 m long moves at 30 m/s and overtakes another train 300 m long moving at 20 m/s. Find the time taken.",
+    "options": [
+      "a) 30 s",
+      "b) 10 s",
+      "c) 50 s",
+      "d) 40 s"
+    ],
+    "userAnswer": "b",
+    "correctAnswer": "c",
+    "isCorrect": false
+  },
+  {
+    "questionNo": 44,
+    "question": "Which of the following mathematical operations is not defined for vectors?",
+    "options": [
+      "[a)] Addition",
+      "[b)] Subtraction",
+      "[c)] Division",
+      "[d)] Multiplication"
+    ],
+    "userAnswer": "c",
+    "correctAnswer": "c",
+    "isCorrect": true
+  },
+  {
+    "questionNo": 45,
+    "question": "If the units of length and force are each increased four times, how will the unit of energy change?",
+    "options": [
+      "[a)] Increases 4 times",
+      "[b)] Decreases 16 times",
+      "[c)] Increases 16 times",
+      "[d)] Remains unchanged"
+    ],
+    "userAnswer": "c",
+    "correctAnswer": "c",
+    "isCorrect": true
+  },
+  {
+    "questionNo": 46,
+    "question": "Two thermometers, one Celsius and other fahrenheit are dipped in boiling water. Then both are dipped in another water both. If fahrenheit thermometer registers 140°F the fall in temperature in centi grade scale will be:",
+    "options": [
+      "a. 25°C",
+      "b. 30°C",
+      "c. 35°C",
+      "d. 40°C"
+    ],
+    "userAnswer": "d",
+    "correctAnswer": "d",
+    "isCorrect": true
+  },
+  {
+    "questionNo": 47,
+    "question": "The escape speed of a body on the Earth&#39;s surface is 11.2 km/s. A body is projected with thrice of this speed. The speed of the body when it escapes the gravitational pull of Earth is:",
+    "options": [
+      "a) 11.2 km/s",
+      "b) $22.4\\sqrt{2}\\mathrm{~km}/\\mathrm{s}$",
+      "c) $\\frac{22.4}{\\sqrt{2}}\\mathrm{~km}/\\mathrm{s}$",
+      "d) 22.4 km/s"
+    ],
+    "userAnswer": null,
+    "correctAnswer": "b",
+    "isCorrect": false
+  },
+  {
+    "questionNo": 48,
+    "question": "A ball is thrown vertically upwards with a velocity of 20 m/s from the top of a multistorey building 25 m high. The time taken by the ball to reach the ground is:",
+    "options": [
+      "a) 2s",
+      "b) 3s",
+      "c) 5s",
+      "d) 7s"
+    ],
+    "userAnswer": "c",
+    "correctAnswer": "b",
+    "isCorrect": false
+  },
+  {
+    "questionNo": 49,
+    "question": "A body is sliding down an inclined plane having coefficient of friction 0.5. If the normal reaction is twice that of the resultant downward force along the incline, the angle between the inclined plane and the horizontal is:",
+    "options": [
+      "a) 30°",
+      "b) 60°",
+      "c) 45°",
+      "d) 90°"
+    ],
+    "userAnswer": null,
+    "correctAnswer": "c",
+    "isCorrect": false
+  },
+  {
+    "questionNo": 50,
+    "question": "Two parallel rail tracks run north-south. On one track, train A moves north with a speed of 54 km/hr and on the other track, train B moves south with a speed of 90 km/hr. The velocity (in m/s) of train A with respect to train B is:",
+    "options": [
+      "a) 10",
+      "b) 15",
+      "c) 25",
+      "d) 40"
+    ],
+    "userAnswer": "d",
+    "correctAnswer": "d",
+    "isCorrect": true
+  },
+  {
+    "questionNo": 51,
+    "question": "She $\\_\\_\\_\\_$ her pen when she was walking to school.",
+    "options": [
+      "a) dropped",
+      "b) has dropped",
+      "c) had dropped",
+      "d) was dropping"
+    ],
+    "userAnswer": "c",
+    "correctAnswer": "a",
+    "isCorrect": false
+  },
+  {
+    "questionNo": 52,
+    "question": "He talked about the competition as if he $\\_\\_\\_\\_$ part in it.",
+    "options": [
+      "a) had taken",
+      "b) took",
+      "c) takes",
+      "d) has taken"
+    ],
+    "userAnswer": "a",
+    "correctAnswer": "a",
+    "isCorrect": true
+  },
+  {
+    "questionNo": 53,
+    "question": "Hold the object $\\_\\_\\_\\_$ arm&#39;s length.",
+    "options": [
+      "a) at",
+      "b) in",
+      "c) by",
+      "d) on"
+    ],
+    "userAnswer": "a",
+    "correctAnswer": "a",
+    "isCorrect": true
+  },
+  {
+    "questionNo": 54,
+    "question": "Diminutive (Synonym):",
+    "options": [
+      "a) immense",
+      "b) colossal",
+      "c) obstinate",
+      "d) miniature"
+    ],
+    "userAnswer": null,
+    "correctAnswer": "d",
+    "isCorrect": false
+  },
+  {
+    "questionNo": 55,
+    "question": "The correct passive form of the following sentence is: &quot;They have spotted me in the crowd.&quot;",
+    "options": [
+      "a)] I am spotted by them in the crowd.",
+      "b)] I will have been spotted by them in the crowd.",
+      "c)] I would have been spotted by them in the crowd.",
+      "d)] I have been spotted by them in the crowd."
+    ],
+    "userAnswer": "d",
+    "correctAnswer": "d",
+    "isCorrect": true
+  },
+  {
+    "questionNo": 56,
+    "question": "He didn&#39;t come to the party $\\_\\_\\_\\_$ he was not invited.",
+    "options": [
+      "a. because",
+      "b. that",
+      "c. for",
+      "d. since"
+    ],
+    "userAnswer": "a",
+    "correctAnswer": "d",
+    "isCorrect": false
+  },
+  {
+    "questionNo": 57,
+    "question": "I couldn&#39;t get into the house because $\\_\\_\\_\\_$ .",
+    "options": [
+      "a. I lost my key",
+      "b. My key was lost",
+      "c. I had lost my key",
+      "d. Somebody lost my key"
+    ],
+    "userAnswer": "c",
+    "correctAnswer": "c",
+    "isCorrect": true
+  },
+  {
+    "questionNo": 58,
+    "question": "We called the doctor because Nisha was complaining $\\_\\_\\_\\_$ a pain in her stomach.",
+    "options": [
+      "a. of",
+      "b. about",
+      "c. off",
+      "d. from"
+    ],
+    "userAnswer": "b",
+    "correctAnswer": "a",
+    "isCorrect": false
+  },
+  {
+    "questionNo": 59,
+    "question": "We travelled $\\_\\_\\_\\_$ the 5:30 train.",
+    "options": [
+      "a. in",
+      "b. by",
+      "c. on",
+      "d. from"
+    ],
+    "userAnswer": "c",
+    "correctAnswer": "c",
+    "isCorrect": true
+  },
+  {
+    "questionNo": 60,
+    "question": "Oh so, no one has a bath here $\\_\\_\\_\\_$ ?",
+    "options": [
+      "a. have they",
+      "b. do they",
+      "c. haven&#39;t they",
+      "d. don&#39;t they"
+    ],
+    "userAnswer": "b",
+    "correctAnswer": "d",
+    "isCorrect": false
+  },
+  {
+    "questionNo": 61,
+    "question": "Let p and q be the statements:p: Rakshit gets 100% marks in mathematicsq: Rakshit is a good dancer.The verbal form of $\\sim\\mathbf{p}\\rightarrow\\mathbf{q}$ will be:",
+    "options": [
+      "[a.] If Rakshit does not get 100% marks in mathematics, then Rakshit is a good dancer.",
+      "[b.] If Rakshit gets 100% marks in mathematics then Rakshit is a good dancer.",
+      "[c.] Mathematics is good for dancing",
+      "[d.] Rakshit is good in mathematics and dance."
+    ],
+    "userAnswer": "a",
+    "correctAnswer": "a",
+    "isCorrect": true
+  },
+  {
+    "questionNo": 62,
+    "question": "Set A has 5 elements and set B has 3 elements then the minimum number of elements in $(\\mathrm{A}\\cup\\mathrm{B})$ is:",
+    "options": [
+      "a. 4",
+      "b. 5",
+      "c. 6",
+      "d. 7"
+    ],
+    "userAnswer": "b",
+    "correctAnswer": "a",
+    "isCorrect": false
+  },
+  {
+    "questionNo": 63,
+    "question": "The equation $4\\mathrm{x}^{2}+12\\mathrm{xy}+9\\mathrm{y}^{2}+2\\mathrm{gx}+2\\mathrm{fy}+\\mathrm{c}=0$ will represents two parallel st. line is",
+    "options": [
+      "[a.] $\\mathrm{g}=4,\\mathrm{f}=9,\\mathrm{c}=0$",
+      "[b.] $\\mathrm{g}=2,\\mathrm{f}=3,\\mathrm{c}=1$",
+      "[c.] $\\mathrm{g}=2,\\mathrm{f}=3,\\mathrm{c}=$ any number",
+      "[d.] g=4, f=9, c=0"
+    ],
+    "userAnswer": null,
+    "correctAnswer": "c",
+    "isCorrect": false
+  },
+  {
+    "questionNo": 64,
+    "question": "If 3, 4 are intercepts of a line $\\mathrm{L}=0$, then the distance of $\\mathrm{L}=0$ from origin is",
+    "options": [
+      "a. 5 units",
+      "b. 12 units",
+      "c. $\\frac{5}{12}$ units",
+      "d. $\\frac{12}{5}$ units"
+    ],
+    "userAnswer": "d",
+    "correctAnswer": "d",
+    "isCorrect": true
+  },
+  {
+    "questionNo": 65,
+    "question": "$\\lim_{x\\rightarrow0}\\frac{\\mathrm{e}^{2\\mathrm{x}}-1}{\\mathrm{x}}$ equals:",
+    "options": [
+      "a. -1",
+      "b. 1",
+      "c. 2",
+      "d. $\\infty$"
+    ],
+    "userAnswer": null,
+    "correctAnswer": "c",
+    "isCorrect": false
+  },
+  {
+    "questionNo": 66,
+    "question": "Value of $\\int_{-1}^{1}x\\sin^{2}xdx$ is",
+    "options": [
+      "a. $\\frac{2}{3}$",
+      "b. $\\frac{3}{2}$",
+      "c. 0",
+      "d. 1"
+    ],
+    "userAnswer": "c",
+    "correctAnswer": "c",
+    "isCorrect": true
+  },
+  {
+    "questionNo": 67,
+    "question": "The locus of the equation $\\mathrm{xy}=0$ is",
+    "options": [
+      "a. a st. line",
+      "b. a pair of ⟂ lines",
+      "c. a hyperbola",
+      "d. none of these"
+    ],
+    "userAnswer": "a",
+    "correctAnswer": "b",
+    "isCorrect": false
+  },
+  {
+    "questionNo": 68,
+    "question": "If K is a scalar and I is a unit matrix of order 3, then adj (KI) equals:",
+    "options": [
+      "a. K ${}^{3}$ I",
+      "b. K2I",
+      "c. $-\\mathrm{K}^{3}\\mathrm{I}$",
+      "d. -K2I"
+    ],
+    "userAnswer": null,
+    "correctAnswer": "b",
+    "isCorrect": false
+  },
+  {
+    "questionNo": 69,
+    "question": "The lines represented by $\\mathrm{Ax}^{2}+2\\mathrm{Bxy}+\\mathrm{Hy}^{2}=0$ are perpendicular if",
+    "options": [
+      "a. $\\mathrm{A}+\\mathrm{B}=0$",
+      "b. $\\mathrm{A}+\\mathrm{H}=0$",
+      "c. $\\mathrm{A}-\\mathrm{B}=0$",
+      "d. $\\mathrm{A}-\\mathrm{H}=0$"
+    ],
+    "userAnswer": "a",
+    "correctAnswer": "b",
+    "isCorrect": false
+  },
+  {
+    "questionNo": 70,
+    "question": "If f and g are two functions which are inverse of each other, then $\\mathrm{fog}(\\mathrm{x})$ will be:",
+    "options": [
+      "a. $\\frac{1}{\\mathrm{x}}$",
+      "b. x",
+      "c. $\\frac{1}{\\mathrm{x}^{2}}$",
+      "d. $x^{2}$"
+    ],
+    "userAnswer": "b",
+    "correctAnswer": "b",
+    "isCorrect": true
+  },
+  {
+    "questionNo": 71,
+    "question": "The equation of bisector of the angle between the line$2x^{2}-7xy+6y^{2}=0$ will be:",
+    "options": [
+      "[a.] $3x^{2}+4xy+7y^{2}=0$",
+      "b.] $7x^{2}-8xy-7y^{2}=0$",
+      "[c.] $2x^{2}+10xy+5y^{2}=0$",
+      "[d.] $6x^{2}+xy-6y^{2}=0$"
+    ],
+    "userAnswer": "d",
+    "correctAnswer": "b",
+    "isCorrect": false
+  },
+  {
+    "questionNo": 72,
+    "question": "If $\\alpha,\\beta\\&amp;\\gamma$ are the angles made by the line with coordinate axes then the value of $\\sin^{2}\\alpha-\\cos^{2}\\beta+\\sin^{2}\\gamma$ equals:",
+    "options": [
+      "a. 1",
+      "b. 2",
+      "c. 0",
+      "d. 3"
+    ],
+    "userAnswer": null,
+    "correctAnswer": "a",
+    "isCorrect": false
+  },
+  {
+    "questionNo": 73,
+    "question": "The angle between the vectors $\\vec{a}\\times\\vec{b}$ and $\\vec{b}\\times\\vec{a}$ is:",
+    "options": [
+      "a. 0",
+      "b. $\\frac{\\pi}{4}$",
+      "c. $\\frac{\\pi}{2}$",
+      "d. $\\pi$"
+    ],
+    "userAnswer": "d",
+    "correctAnswer": "d",
+    "isCorrect": true
+  },
+  {
+    "questionNo": 74,
+    "question": "$\\int2\\mathrm{x}\\sin\\mathrm{x}^{2}\\cos\\mathrm{x}^{2}\\mathrm{dx}$ will be:",
+    "options": [
+      "a. $-\\frac{1}{4}\\sin2\\mathrm{x}^{2}+\\mathrm{c}$",
+      "b. $-\\frac{1}{4}\\cos2x^{2}+c$",
+      "c. $\\frac{1}{4}\\sin4\\mathrm{x}+\\mathrm{c}$",
+      "d. $\\frac{1}{4}\\cos4\\mathrm{x}+\\mathrm{c}$"
+    ],
+    "userAnswer": null,
+    "correctAnswer": "b",
+    "isCorrect": false
+  },
+  {
+    "questionNo": 75,
+    "question": "If $\\mathrm{y}=\\cos^{-1}\\left(\\frac{\\mathrm{x}-1}{\\mathrm{x}+1}\\right)+\\operatorname{cosec}^{-1}\\left(\\frac{\\mathrm{x}+1}{\\mathrm{x}-1}\\right)$ then $\\frac{\\mathrm{dy}}{\\mathrm{dx}}$ will be:",
+    "options": [
+      "a. 0",
+      "b. 1",
+      "c. $\\frac{\\mathrm{x}-1}{\\mathrm{x}+1}$",
+      "d. $\\frac{x+1}{x-1}$"
+    ],
+    "userAnswer": null,
+    "correctAnswer": "a",
+    "isCorrect": false
+  },
+  {
+    "questionNo": 76,
+    "question": "$\\lim_{x\\rightarrow0}\\frac{|x|}{x}$ will be:",
+    "options": [
+      "a. 1",
+      "b. -1",
+      "c. 0",
+      "d. does not exist"
+    ],
+    "userAnswer": "d",
+    "correctAnswer": "d",
+    "isCorrect": true
+  },
+  {
+    "questionNo": 77,
+    "question": "",
+    "options": [
+      "a. 0",
+      "b. 60",
+      "c. -60",
+      "d. 120"
+    ],
+    "userAnswer": "b",
+    "correctAnswer": "b",
+    "isCorrect": true
+  },
+  {
+    "questionNo": 78,
+    "question": "The range of the function $\\mathrm{f}(\\mathrm{x})=\\frac{|\\mathrm{x}-1|}{\\mathrm{x}-1}$ is:",
+    "options": [
+      "a. $(-\\infty,\\infty)$",
+      "b. (-1, 1)",
+      "c. [-1, 1]",
+      "d. {-1, 1}"
+    ],
+    "userAnswer": "c",
+    "correctAnswer": "d",
+    "isCorrect": false
+  },
+  {
+    "questionNo": 79,
+    "question": "If p and q are the roots of the equation $\\mathrm{x}^{2}+\\mathrm{px}+\\mathrm{q}=0$ then",
+    "options": [
+      "a. $\\mathrm{p}=1,\\mathrm{q}=-2$",
+      "b. $\\mathrm{p}=-2,\\mathrm{q}=1$",
+      "c. $p=1,q=0$",
+      "d. $p=-2,q=0$"
+    ],
+    "userAnswer": "a",
+    "correctAnswer": "a",
+    "isCorrect": true
+  },
+  {
+    "questionNo": 80,
+    "question": "The area of the region bounded by the curve $\\mathrm{y}=\\mathrm{e}^{\\mathrm{x}}$ and the lines $\\mathrm{x}=0$ and $\\mathrm{y}=\\mathrm{e}$ will be:",
+    "options": [
+      "a. 1",
+      "b. $\\frac{1}{2}$",
+      "c. e -1",
+      "d. e"
+    ],
+    "userAnswer": "d",
+    "correctAnswer": "a",
+    "isCorrect": false
+  },
+  {
+    "questionNo": 81,
+    "question": "If $\\alpha,\\beta$ are roots of $x^{2}-p(x+1)-q=0$, then the value of $(\\alpha+1)(\\beta+1)$ equals to:",
+    "options": [
+      "a) $q-1$",
+      "b) $4+q$",
+      "c) $1+q$",
+      "d) $1-q$"
+    ],
+    "userAnswer": "d",
+    "correctAnswer": "d",
+    "isCorrect": true
+  },
+  {
+    "questionNo": 82,
+    "question": "",
+    "options": [
+      "a) 3",
+      "b) -5",
+      "c) -7",
+      "d) -2"
+    ],
+    "userAnswer": "c",
+    "correctAnswer": "c",
+    "isCorrect": true
+  },
+  {
+    "questionNo": 83,
+    "question": "A and B are any two non-empty sets, then $(A\\cap\\bar{B})$ equals:",
+    "options": [
+      "a) $A \\cup B$",
+      "b) $A$",
+      "c) $B-A$",
+      "d) $A-B$"
+    ],
+    "userAnswer": "d",
+    "correctAnswer": "d",
+    "isCorrect": true
+  },
+  {
+    "questionNo": 84,
+    "question": "The general value of x if $\\cos^{2}\\mathrm{x}=\\frac{1}{4}$ is:",
+    "options": [
+      "a) $\\mathrm{n}\\pi+\\frac{\\pi}{3}$",
+      "b) $n\\pi\\pm\\frac{2\\pi}{3}$",
+      "c) $\\mathrm{n}\\pi\\pm\\frac{\\pi}{3}$",
+      "d) $2\\mathrm{n}\\pi\\pm\\frac{\\pi}{3}$"
+    ],
+    "userAnswer": null,
+    "correctAnswer": "c",
+    "isCorrect": false
+  },
+  {
+    "questionNo": 85,
+    "question": "$\\lim_{x\\rightarrow0}\\frac{\\sin7x}{\\sin5x}$ will be:",
+    "options": [
+      "a) $7/5$",
+      "b) 5/7",
+      "c) 0",
+      "d) $\\infty$"
+    ],
+    "userAnswer": null,
+    "correctAnswer": "a",
+    "isCorrect": false
+  },
+  {
+    "questionNo": 86,
+    "question": "$\\int\\frac{1}{\\mathrm{x}\\log\\mathrm{x}}\\mathrm{dx}$ will be:",
+    "options": [
+      "a) $\\log\\mathrm{x}+\\mathrm{c}$",
+      "b) $\\log\\log\\mathrm{x}+\\mathrm{c}$",
+      "c) $\\log\\mathrm{x}^{2}+\\mathrm{c}$",
+      "d) $2\\log{}x+c$"
+    ],
+    "userAnswer": null,
+    "correctAnswer": "b",
+    "isCorrect": false
+  },
+  {
+    "questionNo": 87,
+    "question": "The value of k for which $\\mathrm{x}^{2}-\\mathrm{kxy}+4\\mathrm{y}^{2}=0$ represents a pair of coincident lines will be:",
+    "options": [
+      "a) $\\mathrm{k}=1$",
+      "b) k=2",
+      "c) $\\mathrm{k}=3$",
+      "d) $\\mathrm{k}=4$"
+    ],
+    "userAnswer": "d",
+    "correctAnswer": "d",
+    "isCorrect": true
+  },
+  {
+    "questionNo": 88,
+    "question": "The sum of squares of deviations of 10 observations taken from their mean 50 is 250. Its coefficient of variance is:",
+    "options": [
+      "a) 10",
+      "b) 25",
+      "c) 50",
+      "d) 5"
+    ],
+    "userAnswer": null,
+    "correctAnswer": "a",
+    "isCorrect": false
+  },
+  {
+    "questionNo": 89,
+    "question": "The complex number $\\frac{1+2\\mathrm{i}}{1-\\mathrm{i}}$ lies in :",
+    "options": [
+      "a) first quadrant",
+      "b) second quadrant",
+      "c) third quadrant",
+      "d) fourth quadrant"
+    ],
+    "userAnswer": "a",
+    "correctAnswer": "b",
+    "isCorrect": false
+  },
+  {
+    "questionNo": 90,
+    "question": "If $x=\\frac{2at}{1+t^{3}}$ and $y=\\frac{2at^{2}}{\\left(1+t^{3}\\right)^{2}}$,then $\\frac{dy}{dx}$ will be:",
+    "options": [
+      "a) $ax$",
+      "b) $\\frac{x}{a}$",
+      "c) $\\frac{a}{x}$",
+      "d) $-ax$"
+    ],
+    "userAnswer": null,
+    "correctAnswer": "b",
+    "isCorrect": false
+  },
+  {
+    "questionNo": 91,
+    "question": "The area of triangle formed by the lines $4x^{2}-9xy-9y^{2}=0$ and $x=2$ is:",
+    "options": [
+      "a) $10/3$",
+      "b) $20/3$",
+      "c) 2",
+      "d) 3"
+    ],
+    "userAnswer": null,
+    "correctAnswer": "a",
+    "isCorrect": false
+  },
+  {
+    "questionNo": 92,
+    "question": "If $\\cos^{-1}x+\\cos^{-1}y=\\frac{\\pi}{2}$, and $\\tan^{-1}x-\\tan^{-1}y=0$, then $x^{2}+xy+y^{2}$ equals",
+    "options": [
+      "a) 0",
+      "b) $\\frac{1}{\\sqrt{2}}$",
+      "c) $\\frac{3}{2}$",
+      "d) $\\frac{1}{8}$"
+    ],
+    "userAnswer": null,
+    "correctAnswer": "c",
+    "isCorrect": false
+  },
+  {
+    "questionNo": 93,
+    "question": "The range of $f(x)=\\sin^{-1}\\left(\\sqrt{x^{2}+x+1}\\right)$ is:",
+    "options": [
+      "a) $\\left(0,\\frac{\\pi}{2}\\right]$",
+      "b) $\\left(0,\\frac{\\pi}{3}\\right]$",
+      "c) $\\left[\\frac{\\pi}{3},\\frac{\\pi}{2}\\right]$",
+      "d) $\\left[\\frac{\\pi}{6},\\frac{\\pi}{3}\\right]$"
+    ],
+    "userAnswer": "a",
+    "correctAnswer": "c",
+    "isCorrect": false
+  },
+  {
+    "questionNo": 94,
+    "question": "If a, b, c are in G.P., a, x, b are in A.P. and b, y, c are in A.P., then $\\frac{1}{x}+\\frac{1}{y}$ equals:",
+    "options": [
+      "a) 2b",
+      "b) $\\frac{2}{b}$",
+      "c) $a+c$",
+      "d) $2b-a$"
+    ],
+    "userAnswer": null,
+    "correctAnswer": "b",
+    "isCorrect": false
+  },
+  {
+    "questionNo": 95,
+    "question": "$\\lim_{x\\rightarrow1}\\frac{1-x^{2}}{\\sin2\\pi{}x}$ is equal to:",
+    "options": [
+      "a) $\\frac{1}{2\\pi}$",
+      "b) $-\\frac{1}{\\pi}$",
+      "c) $-\\frac{2}{\\pi}$",
+      "d) $-\\pi$"
+    ],
+    "userAnswer": null,
+    "correctAnswer": "b",
+    "isCorrect": false
+  },
+  {
+    "questionNo": 96,
+    "question": "The equation of a line passing through $(1,2)$ and making an angle of $45^{\\circ}$ with the line $\\mathrm{x}-\\mathrm{y}+3=0$ is:",
+    "options": [
+      "a. $x-1=0$",
+      "b. $\\mathrm{y}-2=0$",
+      "c. both",
+      "d. none"
+    ],
+    "userAnswer": null,
+    "correctAnswer": "c",
+    "isCorrect": false
+  },
+  {
+    "questionNo": 97,
+    "question": "A line makes angles $\\alpha,\\beta,\\gamma$ with coordinate axes. If $\\alpha+\\beta=90^{\\circ}$, then $\\gamma$ will be:",
+    "options": [
+      "a. 0°",
+      "b. 45°",
+      "c. 90°",
+      "d. 180°"
+    ],
+    "userAnswer": "c",
+    "correctAnswer": "c",
+    "isCorrect": true
+  },
+  {
+    "questionNo": 98,
+    "question": "The line $\\frac{\\mathrm{x}}{\\mathrm{a}}+\\frac{\\mathrm{y}}{\\mathrm{b}}=1$ touches the curve $\\mathrm{y}=\\mathrm{b}\\mathrm{e}^{\\mathrm{x}/\\mathrm{a}}$ at the point:",
+    "options": [
+      "a. $\\left(0,\\frac{b}{a}\\right)$",
+      "b. (0, a)",
+      "c. $\\left(\\mathrm{a},-\\frac{\\mathrm{b}}{\\mathrm{a}}\\right)$",
+      "d. (0, b)"
+    ],
+    "userAnswer": null,
+    "correctAnswer": "d",
+    "isCorrect": false
+  },
+  {
+    "questionNo": 99,
+    "question": "If $\\mathrm{y}=\\mathrm{x}^{\\mathrm{x}}$, then $\\frac{\\mathrm{dy}}{\\mathrm{dx}}$ equals:",
+    "options": [
+      "a. $\\mathrm{x}^{\\mathrm{x}}\\log_{\\mathrm{e}\\mathrm{a}}$",
+      "b. $\\mathrm{x}^{\\mathrm{x}}\\log\\mathrm{x}$",
+      "c. $\\mathrm{x}^{\\mathrm{x}}\\log_{\\mathrm{e}}(\\mathrm{ex})$",
+      "d. $1+\\log_{\\mathrm{e}}\\mathrm{a}$"
+    ],
+    "userAnswer": "b",
+    "correctAnswer": "c",
+    "isCorrect": false
+  },
+  {
+    "questionNo": 100,
+    "question": "$\\int\\sqrt{\\frac{1+\\mathrm{x}}{1-\\mathrm{x}}}\\mathrm{dx}$ equals:",
+    "options": [
+      "a. $2\\sin^{-1}\\mathrm{x}-\\sqrt{1-\\mathrm{x}^{2}}+\\mathrm{c}$",
+      "b. $\\frac{1}{2}\\sin^{-1}\\mathrm{x}-\\sqrt{1-\\mathrm{x}^{2}}+\\mathrm{c}$",
+      "c. $\\sin^{-1}x-\\sqrt{1-x^{2}}+c$",
+      "d. $\\sin^{-1}x-2\\sqrt{1-x^{2}}+c$"
+    ],
+    "userAnswer": null,
+    "correctAnswer": "c",
+    "isCorrect": false
+  }
+]
