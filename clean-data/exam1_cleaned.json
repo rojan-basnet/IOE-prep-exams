@@ -11,7 +11,7 @@
     "userAnswer": "b",
     "correctAnswer": "d",
     "isCorrect": false,
-    "solution": "NH4NO3 consists of two ions: NH4^+ and NO3^-. For NH4^+, N is at -3 (x + 4 = +1). For NO3^-, N is at +5 (y - 6 = -1). The average oxidation number of nitrogen in the compound is (-3 + 5) / 2 = +1."
+    "solution": "$\\mathrm{NH_4NO_3}$ consists of two ions: $\\mathrm{NH_4^+}$ and $\\mathrm{NO_3^-}$. For $\\mathrm{NH_4^+}$, let the oxidation number of $\\mathrm{N}$ be $x$: $$x + 4(+1) = +1$$ Therefore, $x = -3$. For $\\mathrm{NO_3^-}$, let the oxidation number of $\\mathrm{N}$ be $y$: $$y + 3(-2) = -1$$ Therefore, $y = +5$. The compound contains two nitrogen atoms, so the average oxidation number is: $$\\frac{-3 + 5}{2} = +1$$ Therefore, the correct answer is $+1$ (d)."
   },
   {
     "questionNo": 2,
@@ -25,7 +25,7 @@
     "userAnswer": "c",
     "correctAnswer": "b",
     "isCorrect": false,
-    "solution": "A carbanion has three bonding pairs and one lone pair of electrons on the carbon atom, giving it a complete octet (8 electrons). Carbonium ions (carbocations) and carbenes have 6 electrons, and free radicals have 7."
+    "solution": "A carbanion has three bonding pairs and one lone pair of electrons on the carbon atom, giving it a complete octet ($8$ electrons). Carbonium ions (carbocations) and carbenes have $6$ electrons, and free radicals have $7$."
   },
   {
     "questionNo": 3,
@@ -39,7 +39,7 @@
     "userAnswer": "a",
     "correctAnswer": "a",
     "isCorrect": true,
-    "solution": "Ethanol (an alcohol) and methoxymethane (an ether) share the same molecular formula (C2H6O) but have different functional groups. Thus, they are functional isomers."
+    "solution": "Ethanol (an alcohol) and methoxymethane (an ether) share the same molecular formula ($\\mathrm{C_2H_6O}$) but have different functional groups. Thus, they are functional isomers."
   },
   {
     "questionNo": 4,
@@ -53,7 +53,7 @@
     "userAnswer": "a",
     "correctAnswer": "c",
     "isCorrect": false,
-    "solution": "Electronegativity increases across a period and decreases down a group. The Pauling electronegativity values are: O (3.5) > Cl (3.16) > N (3.04) > S (2.58). Oxygen is the second most electronegative element after Fluorine."
+    "solution": "Electronegativity increases across a period and decreases down a group. The Pauling electronegativity values are: $\\mathrm{O\\ (3.5) > Cl\\ (3.16) > N\\ (3.04) > S\\ (2.58)}$. Oxygen is the second most electronegative element after Fluorine."
   },
   {
     "questionNo": 5,
@@ -67,7 +67,7 @@
     "userAnswer": "b",
     "correctAnswer": "d",
     "isCorrect": false,
-    "solution": "For an s-orbital, the azimuthal quantum number l = 0. Therefore, the magnetic quantum number (m) can only be 0. It cannot be -1."
+    "solution": "For an $s$-orbital, the azimuthal quantum number $l = 0$. Therefore, the magnetic quantum number ($m$) can only be $0$. It cannot be $-1$."
   },
   {
     "questionNo": 6,
@@ -81,7 +81,7 @@
     "userAnswer": "a",
     "correctAnswer": "a",
     "isCorrect": true,
-    "solution": "Copper reacts with concentrated, hot H2SO4 to undergo a redox reaction, producing copper(II) sulfate, water, and sulfur dioxide gas: Cu + 2H2SO4 (conc.) -> CuSO4 + SO2 + 2H2O."
+    "solution": "Copper reacts with concentrated, hot $\\mathrm{H_2SO_4}$ to undergo a redox reaction, producing copper(II) sulfate, water, and sulfur dioxide gas: $$\\mathrm{Cu + 2H_2SO_4\\ (conc.) \\rightarrow CuSO_4 + SO_2 + 2H_2O}$$"
   },
   {
     "questionNo": 7,
@@ -95,7 +95,7 @@
     "userAnswer": null,
     "correctAnswer": "a",
     "isCorrect": false,
-    "solution": "At STP, 22400 cm^3 of an ideal gas is 1 mole. The molar mass of NH3 is 17 g/mol. Mass = (112 / 22400) * 17 = 0.085 g."
+    "solution": "At STP, $22400\\mathrm{~cm^3}$ of an ideal gas is $1\\text{ mole}$. The molar mass of $\\mathrm{NH_3}$ is $17\\mathrm{~g/mol}$. $$\\text{Mass} = \\left(\\frac{112}{22400}\\right) \\times 17 = 0.085\\mathrm{~g}$$"
   },
   {
     "questionNo": 8,
@@ -109,7 +109,7 @@
     "userAnswer": null,
     "correctAnswer": "a",
     "isCorrect": false,
-    "solution": "Benzene is highly stable due to aromaticity and resists oxidation by Baeyer's reagent (alkaline KMnO4). Acetylene, propyne, and 1-butyne are terminal alkynes which form precipitates with ammoniacal AgNO3 and decolorize KMnO4."
+    "solution": "Benzene is highly stable due to aromaticity and resists oxidation by Baeyer's reagent (alkaline $\\mathrm{KMnO_4}$). Acetylene, propyne, and 1-butyne are terminal alkynes which form precipitates with ammoniacal $\\mathrm{AgNO_3}$ and decolorize $\\mathrm{KMnO_4}$."
   },
   {
     "questionNo": 9,
@@ -123,7 +123,7 @@
     "userAnswer": null,
     "correctAnswer": "d",
     "isCorrect": false,
-    "solution": "The element with outer configuration 2s2 2p1 is Boron (Group 13). Its valency is 3, so its oxide formula is B2O3. Boron is a non-metal/metalloid, and its oxide is weakly acidic."
+    "solution": "The element with outer configuration $2s^2 2p^1$ is Boron (Group $13$). Its valency is $3$, so its oxide formula is $\\mathrm{B_2O_3}$. Boron is a non-metal/metalloid, and its oxide is weakly acidic."
   },
   {
     "questionNo": 10,
@@ -137,7 +137,7 @@
     "userAnswer": null,
     "correctAnswer": "a",
     "isCorrect": false,
-    "solution": "Reaction: 2Mg + O2 -> 2MgO. Moles of Mg = 1.0/24 = 0.0416 mol. Moles of O2 = 0.56/32 = 0.0175 mol. 0.0175 mol O2 requires 0.035 mol Mg. Available Mg (0.0416) > Required Mg (0.035). Excess Mg = 0.0416 - 0.035 = 0.0066 mol. Mass of excess Mg = 0.0066 * 24 = 0.16 g."
+    "solution": "Reaction: $2\\mathrm{Mg} + \\mathrm{O_2} \\rightarrow 2\\mathrm{MgO}$ $$\\text{Moles of Mg} = \\frac{1.0}{24} = 0.0416\\text{ mol}$$ $$\\text{Moles of O}_2 = \\frac{0.56}{32} = 0.0175\\text{ mol}$$ $0.0175\\text{ mol O}_2$ requires $0.035\\text{ mol Mg}$. $$\\text{Available Mg } (0.0416) > \\text{Required Mg } (0.035)$$ $$\\text{Excess Mg} = 0.0416 - 0.035 = 0.0066\\text{ mol}$$ $$\\text{Mass of excess Mg} = 0.0066 \\times 24 = 0.16\\mathrm{~g}$$"
   },
   {
     "questionNo": 11,
@@ -151,7 +151,7 @@
     "userAnswer": "a",
     "correctAnswer": "b",
     "isCorrect": false,
-    "solution": "Kc = [NO2]^2 / [N2O4] = (1.2 * 10^-2)^2 / (4.8 * 10^-2) = (1.44 * 10^-4) / (4.8 * 10^-2) = 0.3 * 10^-2 = 3 * 10^-3 mol/L."
+    "solution": "$$K_c = \\frac{[\\mathrm{NO_2}]^2}{[\\mathrm{N_2O_4}]} = \\frac{(1.2 \\times 10^{-2})^2}{4.8 \\times 10^{-2}} = \\frac{1.44 \\times 10^{-4}}{4.8 \\times 10^{-2}} = 0.3 \\times 10^{-2} = 3 \\times 10^{-3}\\mathrm{~mol\\cdot L^{-1}}$$"
   },
   {
     "questionNo": 12,
@@ -165,7 +165,7 @@
     "userAnswer": null,
     "correctAnswer": "b",
     "isCorrect": false,
-    "solution": "Crookes glass contains cerium oxide (CeO2), which strongly absorbs ultraviolet radiation, making it highly effective for UV eye protection."
+    "solution": "Crookes glass contains cerium oxide ($\\mathrm{CeO_2}$), which strongly absorbs ultraviolet radiation, making it highly effective for UV eye protection."
   },
   {
     "questionNo": 13,
@@ -179,7 +179,7 @@
     "userAnswer": null,
     "correctAnswer": "a",
     "isCorrect": false,
-    "solution": "Divide percentages by atomic masses: C = 18.5/12 = 1.54, H = 1.55/1 = 1.55, Cl = 55.04/35.5 = 1.55, O = 24.81/16 = 1.55. The molar ratio of C:H:Cl:O is 1:1:1:1. Hence, the empirical formula is CHClO."
+    "solution": "Divide percentages by atomic masses: $$\\mathrm{C} = \\frac{18.5}{12} = 1.54, \\quad \\mathrm{H} = \\frac{1.55}{1} = 1.55, \\quad \\mathrm{Cl} = \\frac{55.04}{35.5} = 1.55, \\quad \\mathrm{O} = \\frac{24.81}{16} = 1.55$$ The molar ratio of $\\mathrm{C : H : Cl : O}$ is $1 : 1 : 1 : 1$. Hence, the empirical formula is $\\mathrm{CHClO}$."
   },
   {
     "questionNo": 14,
@@ -193,7 +193,7 @@
     "userAnswer": null,
     "correctAnswer": "c",
     "isCorrect": false,
-    "solution": "By Victor Meyer's method, the volume of displaced air at STP equals the volume of vapor of the substance. Molar mass = (Mass / Volume displaced) * Molar Volume at STP = (0.2 / 56) * 22400 = 80 g/mol."
+    "solution": "By Victor Meyer's method, the volume of displaced air at STP equals the volume of vapor of the substance. $$\\text{Molar mass} = \\left(\\frac{\\text{Mass}}{\\text{Volume displaced}}\\right) \\times \\text{Molar Volume at STP} = \\left(\\frac{0.2}{56}\\right) \\times 22400 = 80\\mathrm{~g/mol}$$"
   },
   {
     "questionNo": 15,
@@ -221,7 +221,7 @@
     "userAnswer": "a",
     "correctAnswer": "a",
     "isCorrect": true,
-    "solution": "Dichlorobenzene (C6H4Cl2) has three position isomers on the benzene ring: 1,2-dichlorobenzene (ortho), 1,3-dichlorobenzene (meta), and 1,4-dichlorobenzene (para)."
+    "solution": "Dichlorobenzene ($\\mathrm{C_6H_4Cl_2}$) has three position isomers on the benzene ring: $1,2$-dichlorobenzene (*ortho*), $1,3$-dichlorobenzene (*meta*), and $1,4$-dichlorobenzene (*para*)."
   },
   {
     "questionNo": 17,
@@ -235,7 +235,7 @@
     "userAnswer": "c",
     "correctAnswer": "a",
     "isCorrect": false,
-    "solution": "Cycloalkanes have the general formula C_nH_{2n}, which is identical to the general formula of mono-olefins (alkenes). Therefore, they are structural (ring-chain) isomers."
+    "solution": "Cycloalkanes have the general formula $\\mathrm{C_n H_{2n}}$, which is identical to the general formula of mono-olefins (alkenes). Therefore, they are structural (ring-chain) isomers."
   },
   {
     "questionNo": 18,
@@ -249,7 +249,7 @@
     "userAnswer": "a",
     "correctAnswer": "a",
     "isCorrect": true,
-    "solution": "By definition, the Octane number of a fuel is the volume percentage of isooctane (which has an octane rating of 100) in a standard mixture with n-heptane (octane rating of 0) that matches the knocking characteristics of the fuel."
+    "solution": "By definition, the Octane number of a fuel is the volume percentage of isooctane (which has an octane rating of $100$) in a standard mixture with $n$-heptane (octane rating of $0$) that matches the knocking characteristics of the fuel."
   },
   {
     "questionNo": 19,
@@ -263,7 +263,7 @@
     "userAnswer": "d",
     "correctAnswer": "d",
     "isCorrect": true,
-    "solution": "An octane rating of 75 indicates the fuel exhibits the exact same knocking behavior as a reference mixture composed of 75% isooctane and 25% n-heptane by volume."
+    "solution": "An octane rating of $75$ indicates the fuel exhibits the exact same knocking behavior as a reference mixture composed of $75\\%$ isooctane and $25\\%$ $n$-heptane by volume."
   },
   {
     "questionNo": 20,
@@ -291,7 +291,7 @@
     "userAnswer": null,
     "correctAnswer": "c",
     "isCorrect": false,
-    "solution": "Because the Earth is an oblate spheroid, the polar radius is smaller than the equatorial radius. Since g = GM / R^2, smaller R at the poles leads to a greater value of g at the poles compared to the equator."
+    "solution": "Because the Earth is an oblate spheroid, the polar radius is smaller than the equatorial radius. Since $g = \\frac{GM}{R^2}$, smaller $R$ at the poles leads to a greater value of $g$ at the poles compared to the equator."
   },
   {
     "questionNo": 22,
@@ -361,7 +361,7 @@
     "userAnswer": null,
     "correctAnswer": "d",
     "isCorrect": false,
-    "solution": "Charge of one electron q = 1.6 x 10^-19 C. Area A = 2 mm^2 = 2 x 10^-6 m^2. Surface charge density (sigma) = q / A = (1.6 x 10^-19) / (2 x 10^-6) = 8 x 10^-14 C/m^2."
+    "solution": "Charge of one electron $q = 1.6 \\times 10^{-19}\\mathrm{~C}$. Area $A = 2\\mathrm{~mm^2} = 2 \\times 10^{-6}\\mathrm{~m^2}$. $$\\text{Surface charge density } (\\sigma) = \\frac{q}{A} = \\frac{1.6 \\times 10^{-19}}{2 \\times 10^{-6}} = 8 \\times 10^{-14}\\mathrm{~C/m^2}$$"
   },
   {
     "questionNo": 27,
@@ -375,7 +375,7 @@
     "userAnswer": null,
     "correctAnswer": "c",
     "isCorrect": false,
-    "solution": "From the Lens Maker's Formula: f \u221d 1 / (\u03bc_rel - 1). For the lens to be converging in air, \u03bc_lens > \u03bc_air. For it to switch to diverging in water, \u03bc_rel < 1, meaning \u03bc_lens < \u03bc_water. Thus, the refractive index must be between that of air and water."
+    "solution": "From the Lens Maker's Formula: $f \\propto \\frac{1}{\\mu_{\\text{rel}} - 1}$. For the lens to be converging in air, $\\mu_{\\text{lens}} > \\mu_{\\text{air}}$. For it to switch to diverging in water, $\\mu_{\\text{rel}} < 1$, meaning $\\mu_{\\text{lens}} < \\mu_{\\text{water}}$. Thus, the refractive index must be between that of air and water."
   },
   {
     "questionNo": 28,
@@ -389,7 +389,7 @@
     "userAnswer": "a",
     "correctAnswer": "c",
     "isCorrect": false,
-    "solution": "The energy density (energy per unit volume) of an electric field is U = (1/2)\u03b5_0 E^2. Since the total volume between the plates is V = A * d, the total energy stored is U * V = (1/2)\u03b5_0 E^2 A d."
+    "solution": "The energy density (energy per unit volume) of an electric field is $U = \\frac{1}{2}\\varepsilon_0 E^2$. Since the total volume between the plates is $V = A \\cdot d$, the total energy stored is: $$U \\cdot V = \\frac{1}{2}\\varepsilon_0 E^2 A d$$"
   },
   {
     "questionNo": 29,
@@ -403,7 +403,7 @@
     "userAnswer": null,
     "correctAnswer": "d",
     "isCorrect": false,
-    "solution": "Heat flow rate dQ/dt = m * L / t = (12 g * 80 cal/g) / 60 s = 16 cal/s. Using Fourier's Law: dQ/dt = K A (T1 - T2) / l. Substituting values: 16 = K * (5 x 10^-4) * (100 - 0) / 0.25. Solving for K gives K = 80 cal s^-1 m^-1 \u00b0C^-1."
+    "solution": "Heat flow rate: $$\\frac{dQ}{dt} = \\frac{m \\cdot L}{t} = \\frac{12\\mathrm{~g} \\times 80\\mathrm{~cal/g}}{60\\mathrm{~s}} = 16\\mathrm{~cal/s}$$ Using Fourier's Law: $$\\frac{dQ}{dt} = \\frac{K A (T_1 - T_2)}{l}$$ Substituting values: $$16 = \\frac{K \\times (5 \\times 10^{-4}) \\times (100 - 0)}{0.25}$$ Solving for $K$ gives $K = 80\\mathrm{~cal\\cdot s^{-1} m^{-1}{^\\circ}C^{-1}}$."
   },
   {
     "questionNo": 30,
@@ -417,7 +417,7 @@
     "userAnswer": "a",
     "correctAnswer": "b",
     "isCorrect": false,
-    "solution": "The original image at +20 cm acts as a virtual object (u = +20 cm) for the second lens. The final image shifts 10 cm closer, so v = +10 cm. Using the lens formula: 1/f = 1/v - 1/u = 1/10 - 1/20 = 1/20 cm. The focal length is +20 cm (+0.2 m). Power = 1 / f = 1 / 0.2 = +5 D."
+    "solution": "The original image at $+20\\mathrm{~cm}$ acts as a virtual object ($u = +20\\mathrm{~cm}$) for the second lens. The final image shifts $10\\mathrm{~cm}$ closer, so $v = +10\\mathrm{~cm}$. Using the lens formula: $$\\frac{1}{f} = \\frac{1}{v} - \\frac{1}{u} = \\frac{1}{10} - \\frac{1}{20} = \\frac{1}{20}\\mathrm{~cm^{-1}}$$ The focal length is $f = +20\\mathrm{~cm} = +0.2\\mathrm{~m}$. $$\\text{Power } P = \\frac{1}{f} = \\frac{1}{0.2} = +5\\mathrm{~D}$$"
   },
   {
     "questionNo": 31,
@@ -431,7 +431,7 @@
     "userAnswer": "b",
     "correctAnswer": "c",
     "isCorrect": false,
-    "solution": "Let ant velocity v_a = +2 m/s and mirror velocity v_m = -2 m/s. The image velocity is given by v_i = 2v_m - v_a = 2(-2) - 2 = -6 m/s. The relative velocity between the ant and the image is v_a - v_i = 2 - (-6) = 8 m/s."
+    "solution": "Let ant velocity $v_a = +2\\mathrm{~m/s}$ and mirror velocity $v_m = -2\\mathrm{~m/s}$. The image velocity is given by: $$v_i = 2v_m - v_a = 2(-2) - 2 = -6\\mathrm{~m/s}$$ The relative velocity between the ant and the image is: $$v_a - v_i = 2 - (-6) = 8\\mathrm{~m/s}$$"
   },
   {
     "questionNo": 32,
@@ -459,7 +459,7 @@
     "userAnswer": "a",
     "correctAnswer": "c",
     "isCorrect": false,
-    "solution": "Since 1 \u00b0C = 1 K = 1.8 \u00b0F, a rise of 1 \u00b0F represents the smallest absolute change in temperature among the options. Q = mc\u0394T, so a smaller \u0394T requires minimum heat."
+    "solution": "Since $1{^\\circ}\\mathrm{C} = 1\\mathrm{~K} = 1.8{^\\circ}\\mathrm{F}$, a rise of $1{^\\circ}\\mathrm{F}$ represents the smallest absolute change in temperature among the options. Since $Q = mc\\Delta T$, a smaller $\\Delta T$ requires minimum heat."
   },
   {
     "questionNo": 34,
@@ -473,7 +473,7 @@
     "userAnswer": null,
     "correctAnswer": "c",
     "isCorrect": false,
-    "solution": "Human comfort optimal ranges are generally found between 40% and 60% relative humidity. In standard architectural physics MCQ contexts, 60\u201365% is widely recognized as the upper threshold of optimal comfort where sweat evaporation functions efficiently without causing dry skin."
+    "solution": "Human comfort optimal ranges are generally found between $40\\%$ and $60\\%$ relative humidity. In standard architectural physics MCQ contexts, $60\\text{--}65\\%$ is widely recognized as the upper threshold of optimal comfort where sweat evaporation functions efficiently without causing dry skin."
   },
   {
     "questionNo": 35,
@@ -487,7 +487,7 @@
     "userAnswer": null,
     "correctAnswer": "b",
     "isCorrect": false,
-    "solution": "A drop in temperature shortens the pendulum, decreasing its time period and causing the clock to run faster (gain time). Time gained = (1/2) * \u03b1 * \u0394T * 86400 s = 0.5 * (2x10^-5) * 10 * 86400 = 8.64 seconds."
+    "solution": "A drop in temperature shortens the pendulum, decreasing its time period and causing the clock to run faster (gain time). $$\\text{Time gained} = \\frac{1}{2} \\alpha \\Delta T \\times 86400\\mathrm{~s} = 0.5 \\times (2 \\times 10^{-5}) \\times 10 \\times 86400 = 8.64\\text{ seconds}$$"
   },
   {
     "questionNo": 36,
@@ -529,7 +529,7 @@
     "userAnswer": "b",
     "correctAnswer": "a",
     "isCorrect": false,
-    "solution": "Kinetic energy K is related to momentum p by K = p^2 / 2m. Since both have identical momentum (p), K is inversely proportional to mass (m). Therefore, the lighter body (A) has greater kinetic energy."
+    "solution": "Kinetic energy $K$ is related to momentum $p$ by $K = \\frac{p^2}{2m}$. Since both have identical momentum ($p$), $K$ is inversely proportional to mass ($m$). Therefore, the lighter body (A) has greater kinetic energy."
   },
   {
     "questionNo": 39,
@@ -557,7 +557,7 @@
     "userAnswer": "a",
     "correctAnswer": "a",
     "isCorrect": true,
-    "solution": "By Newton's Second Law, Force is the rate of change of linear momentum (F = dp/dt). If F = 0, then dp/dt = 0, meaning linear momentum (p) is constant or conserved."
+    "solution": "By Newton's Second Law, Force is the rate of change of linear momentum ($F = \\frac{dp}{dt}$). If $F = 0$, then $\\frac{dp}{dt} = 0$, meaning linear momentum ($p$) is constant or conserved."
   },
   {
     "questionNo": 41,
@@ -585,7 +585,7 @@
     "userAnswer": "b",
     "correctAnswer": "b",
     "isCorrect": true,
-    "solution": "Velocity v = dx/dt = -a sin t. Acceleration = dv/dt = -a cos t."
+    "solution": "Velocity $v = \\frac{dx}{dt} = -a \\sin t$. Acceleration $a = \\frac{dv}{dt} = -a \\cos t$."
   },
   {
     "questionNo": 43,
@@ -599,7 +599,7 @@
     "userAnswer": "b",
     "correctAnswer": "c",
     "isCorrect": false,
-    "solution": "Total relative distance to clear = L1 + L2 = 200 + 300 = 500 m. Relative speed (overtaking) = v1 - v2 = 30 - 20 = 10 m/s. Time = Distance / Speed = 500 / 10 = 50 s."
+    "solution": "Total relative distance to clear = $L_1 + L_2 = 200 + 300 = 500\\mathrm{~m}$. Relative speed (overtaking) = $v_1 - v_2 = 30 - 20 = 10\\mathrm{~m/s}$. $$\\text{Time} = \\frac{\\text{Distance}}{\\text{Speed}} = \\frac{500}{10} = 50\\mathrm{~s}$$"
   },
   {
     "questionNo": 44,
@@ -627,7 +627,7 @@
     "userAnswer": "c",
     "correctAnswer": "c",
     "isCorrect": true,
-    "solution": "Energy has the dimensions of Work, which is Force \u00d7 Length. If both force and length units are increased by a factor of 4, the new unit of energy is 4 \u00d7 4 = 16 times the original."
+    "solution": "Energy has the dimensions of Work, which is $\\text{Force} \\times \\text{Length}$. If both force and length units are increased by a factor of $4$, the new unit of energy is $4 \\times 4 = 16$ times the original."
   },
   {
     "questionNo": 46,
@@ -641,7 +641,7 @@
     "userAnswer": "d",
     "correctAnswer": "d",
     "isCorrect": true,
-    "solution": "Boiling water is at 212 \u00b0F. The drop in temperature is 212 - 140 = 72 \u00b0F. A change in Fahrenheit corresponds to a change in Celsius by the factor 5/9. Thus, \u0394C = 72 * (5/9) = 40 \u00b0C."
+    "solution": "Boiling water is at $212{^\\circ}\\mathrm{F}$. The drop in temperature is $212 - 140 = 72{^\\circ}\\mathrm{F}$. A change in Fahrenheit corresponds to a change in Celsius by the factor $\\frac{5}{9}$. Thus, $$\\Delta C = 72 \\times \\frac{5}{9} = 40{^\\circ}\\mathrm{C}$$"
   },
   {
     "questionNo": 47,
@@ -655,7 +655,7 @@
     "userAnswer": null,
     "correctAnswer": "b",
     "isCorrect": false,
-    "solution": "Using conservation of energy: K_surface + U_surface = K_infinity + 0. Since 1/2 m v_esc^2 = |U_surface|, we have 1/2 m (3 v_esc)^2 - 1/2 m v_esc^2 = 1/2 m v_inf^2. Solving gives v_inf = \u221a(9 v_esc^2 - v_esc^2) = \u221a8 * v_esc = 2\u221a2 * 11.2 = 22.4\u221a2 km/s."
+    "solution": "Using conservation of energy: $K_{\\text{surface}} + U_{\\text{surface}} = K_{\\infty} + 0$. Since $\\frac{1}{2}m v_{\\text{esc}}^2 = |U_{\\text{surface}}|$, we have: $$\\frac{1}{2} m (3 v_{\\text{esc}})^2 - \\frac{1}{2} m v_{\\text{esc}}^2 = \\frac{1}{2} m v_{\\infty}^2$$ Solving gives: $$v_{\\infty} = \\sqrt{9 v_{\\text{esc}}^2 - v_{\\text{esc}}^2} = \\sqrt{8} \\cdot v_{\\text{esc}} = 2\\sqrt{2} \\times 11.2 = 22.4\\sqrt{2}\\mathrm{~km/s}$$"
   },
   {
     "questionNo": 48,
@@ -669,7 +669,7 @@
     "userAnswer": "c",
     "correctAnswer": "c",
     "isCorrect": true,
-    "solution": "Using the kinematic equation s = ut + (1/2)at^2, and establishing upward as positive: s = -25 m, u = +20 m/s, a = -10 m/s^2 (approx for g). -25 = 20t - 5t^2. Dividing by -5: 5 = -4t + t^2. Rearranging gives t^2 - 4t - 5 = 0, yielding factors (t-5)(t+1) = 0. The valid time is t = 5 s."
+    "solution": "Using the kinematic equation $s = ut + \\frac{1}{2}at^2$, and establishing upward as positive: $$s = -25\\mathrm{~m}, \\quad u = +20\\mathrm{~m/s}, \\quad a = -10\\mathrm{~m/s^2}\\text{ (approx for } g \\text{)}$$ $$-25 = 20t - 5t^2$$ Dividing by $-5$: $$5 = -4t + t^2$$ Rearranging gives $t^2 - 4t - 5 = 0$, yielding factors $(t-5)(t+1) = 0$. The valid time is $t = 5\\mathrm{~s}$."
   },
   {
     "questionNo": 49,
@@ -683,7 +683,7 @@
     "userAnswer": null,
     "correctAnswer": "c",
     "isCorrect": false,
-    "solution": "Normal reaction N = mg cos\u03b8. Resultant downward force F = mg sin\u03b8 - \u03bc N. We are given N = 2F. So, mg cos\u03b8 = 2(mg sin\u03b8 - 0.5 mg cos\u03b8). Simplifying: cos\u03b8 = 2 sin\u03b8 - cos\u03b8. Moving cos\u03b8 gives 2 cos\u03b8 = 2 sin\u03b8, which simplifies to tan\u03b8 = 1. Therefore, \u03b8 = 45\u00b0."
+    "solution": "Normal reaction $N = mg \\cos\\theta$. Resultant downward force $F = mg \\sin\\theta - \\mu N$. We are given $N = 2F$. So: $$mg \\cos\\theta = 2(mg \\sin\\theta - 0.5 mg \\cos\\theta)$$ Simplifying: $$\\cos\\theta = 2 \\sin\\theta - \\cos\\theta$$ $$2 \\cos\\theta = 2 \\sin\\theta \\implies \\tan\\theta = 1$$ Therefore, $\\theta = 45^\\circ$."
   },
   {
     "questionNo": 50,
@@ -697,7 +697,7 @@
     "userAnswer": "d",
     "correctAnswer": "d",
     "isCorrect": true,
-    "solution": "Convert to m/s: Va = 54 * (5/18) = 15 m/s (North). Vb = 90 * (5/18) = 25 m/s (South). Velocity of A with respect to B = Va - Vb = 15 - (-25) = 40 m/s."
+    "solution": "Convert to $\\mathrm{m/s}$: $$V_A = 54 \\times \\frac{5}{18} = 15\\mathrm{~m/s}\\text{ (North)}$$ $$V_B = 90 \\times \\frac{5}{18} = 25\\mathrm{~m/s}\\text{ (South)}$$ Velocity of A with respect to B: $$V_{AB} = V_A - V_B = 15 - (-25) = 40\\mathrm{~m/s}$$"
   },
   {
     "questionNo": 51,
@@ -851,7 +851,7 @@
     "userAnswer": "a",
     "correctAnswer": "a",
     "isCorrect": true,
-    "solution": "The symbol ~p represents the negation of p ('Rakshit does not get 100%'). The arrow (\u2192) denotes a conditional 'if... then' statement. Combined, it translates strictly to: If not p, then q."
+    "solution": "The symbol $\\sim p$ represents the negation of $p$ ('Rakshit does not get 100%'). The arrow ($\\rightarrow$) denotes a conditional 'if... then' statement. Combined, it translates strictly to: If not $p$, then $q$."
   },
   {
     "questionNo": 62,
@@ -865,7 +865,7 @@
     "userAnswer": "b",
     "correctAnswer": "b",
     "isCorrect": true,
-    "solution": "The number of elements in the union of two sets is |A U B| = |A| + |B| - |A \u2229 B|. The union reaches its minimum when the intersection is maximized, which occurs when the smaller set B is fully contained within A. Thus, max(|A \u2229 B|) = 3, giving a minimum of 5 + 3 - 3 = 5 elements."
+    "solution": "The number of elements in the union of two sets is: $$|A \\cup B| = |A| + |B| - |A \\cap B|$$ The union reaches its minimum when the intersection is maximized, which occurs when the smaller set $B$ is fully contained within $A$. Thus, $\\max(|A \\cap B|) = 3$, giving a minimum of $5 + 3 - 3 = 5$ elements."
   },
   {
     "questionNo": 63,
@@ -879,7 +879,7 @@
     "userAnswer": null,
     "correctAnswer": "b",
     "isCorrect": false,
-    "solution": "For parallel lines, h^2 = ab is satisfied (6^2 = 4*9). The secondary condition is af^2 = bg^2 = ch^2. Substituting knowns: 4f^2 = 9g^2 = 36c. Testing option b: if g=2, f=3, then 4(3^2) = 36, 9(2^2) = 36, so 36c = 36, meaning c must equal 1. Thus, only option b explicitly forces c=1."
+    "solution": "For parallel lines, $h^2 = ab$ is satisfied ($6^2 = 4 \\times 9$). The secondary condition is $af^2 = bg^2 = ch^2$. Substituting knowns: $$4f^2 = 9g^2 = 36c$$ Testing option (b): if $g=2, f=3$, then $4(3^2) = 36$ and $9(2^2) = 36$, so $36c = 36 \\implies c = 1$. Thus, option (b) explicitly forces $c=1$."
   },
   {
     "questionNo": 64,
@@ -893,7 +893,7 @@
     "userAnswer": "d",
     "correctAnswer": "d",
     "isCorrect": true,
-    "solution": "The intercept form of the line is x/3 + y/4 = 1, which converts to 4x + 3y - 12 = 0. The perpendicular distance from the origin (0,0) is d = |-12| / \u221a(4^2 + 3^2) = 12 / 5."
+    "solution": "The intercept form of the line is $\\frac{x}{3} + \\frac{y}{4} = 1$, which converts to $4x + 3y - 12 = 0$. The perpendicular distance from the origin $(0,0)$ is: $$d = \\frac{|-12|}{\\sqrt{4^2 + 3^2}} = \\frac{12}{5}$$"
   },
   {
     "questionNo": 65,
@@ -907,7 +907,7 @@
     "userAnswer": null,
     "correctAnswer": "c",
     "isCorrect": false,
-    "solution": "Using standard limits: lim(x->0) (e^ax - 1)/x = a. Here, a = 2, so the limit is 2. Alternatively, L'H\u00f4pital's rule gives lim(x->0) 2e^2x / 1 = 2."
+    "solution": "Using standard limits: $\\lim_{x \\to 0} \\frac{e^{ax} - 1}{x} = a$. Here, $a = 2$, so the limit is $2$. Alternatively, L'Hôpital's rule gives: $$\\lim_{x \\to 0} \\frac{2e^{2x}}{1} = 2$$"
   },
   {
     "questionNo": 66,
@@ -921,7 +921,7 @@
     "userAnswer": "c",
     "correctAnswer": "c",
     "isCorrect": true,
-    "solution": "Let f(x) = x sin^2(x). Testing for symmetry, f(-x) = (-x) sin^2(-x) = -x(sin x)^2 = -f(x). Since f(x) is an odd function, the definite integral evaluated symmetrically from -a to a is identically 0."
+    "solution": "Let $f(x) = x \\sin^2(x)$. Testing for symmetry: $$f(-x) = (-x) \\sin^2(-x) = -x (\\sin x)^2 = -f(x)$$ Since $f(x)$ is an odd function, the definite integral evaluated symmetrically from $-a$ to $a$ is identically $0$."
   },
   {
     "questionNo": 67,
@@ -935,7 +935,7 @@
     "userAnswer": "a",
     "correctAnswer": "b",
     "isCorrect": false,
-    "solution": "The equation xy = 0 implies either x = 0 (the y-axis) or y = 0 (the x-axis). These two axes represent a pair of mutually perpendicular straight lines intersecting at the origin."
+    "solution": "The equation $xy = 0$ implies either $x = 0$ (the $y$-axis) or $y = 0$ (the $x$-axis). These two axes represent a pair of mutually perpendicular straight lines intersecting at the origin."
   },
   {
     "questionNo": 68,
@@ -949,7 +949,7 @@
     "userAnswer": null,
     "correctAnswer": "b",
     "isCorrect": false,
-    "solution": "For any n x n scalar matrix K*I, the adjoint matrix is given by adj(K*I) = K^(n-1) * I. Since the matrix is of order n=3, adj(K*I) = K^2 * I."
+    "solution": "For any $n \\times n$ scalar matrix $KI$, the adjoint matrix is given by $\\text{adj}(KI) = K^{n-1} I$. Since the matrix is of order $n=3$, $\\text{adj}(KI) = K^2 I$."
   },
   {
     "questionNo": 69,
@@ -963,7 +963,7 @@
     "userAnswer": "a",
     "correctAnswer": "b",
     "isCorrect": false,
-    "solution": "The general condition for a homogeneous quadratic equation ax^2 + 2hxy + by^2 = 0 to represent two perpendicular straight lines is that the sum of the coefficients of x^2 and y^2 equals 0. Thus, A + H = 0."
+    "solution": "The general condition for a homogeneous quadratic equation $ax^2 + 2hxy + by^2 = 0$ to represent two perpendicular straight lines is that the sum of the coefficients of $x^2$ and $y^2$ equals $0$. Thus, $A + H = 0$."
   },
   {
     "questionNo": 70,
@@ -977,7 +977,7 @@
     "userAnswer": "b",
     "correctAnswer": "b",
     "isCorrect": true,
-    "solution": "By the fundamental definition of inverse functions, applying a function to its inverse (or vice versa) maps the element exactly back to itself. Hence, f(g(x)) = x."
+    "solution": "By the fundamental definition of inverse functions, applying a function to its inverse (or vice versa) maps the element exactly back to itself. Hence, $f(g(x)) = x$."
   },
   {
     "questionNo": 71,
@@ -991,7 +991,7 @@
     "userAnswer": "d",
     "correctAnswer": "b",
     "isCorrect": false,
-    "solution": "The equation for the bisectors of lines ax^2 + 2hxy + by^2 = 0 is given by (x^2 - y^2)/(a - b) = xy/h. Here, a=2, b=6, 2h=-7 \u2192 h=-7/2. Substituting gives (x^2 - y^2)/(2-6) = xy / (-7/2) \u2192 (x^2 - y^2)/-4 = -2xy/7 \u2192 7(x^2 - y^2) = 8xy \u2192 7x^2 - 8xy - 7y^2 = 0."
+    "solution": "The equation for the bisectors of lines $ax^2 + 2hxy + by^2 = 0$ is given by: $$\\frac{x^2 - y^2}{a - b} = \\frac{xy}{h}$$ Here, $a=2, b=6, 2h=-7 \\implies h=-\\frac{7}{2}$. Substituting gives: $$\\frac{x^2 - y^2}{2-6} = \\frac{xy}{-7/2} \\implies \\frac{x^2 - y^2}{-4} = \\frac{-2xy}{7} \\implies 7(x^2 - y^2) = 8xy \\implies 7x^2 - 8xy - 7y^2 = 0$$"
   },
   {
     "questionNo": 72,
@@ -1005,7 +1005,7 @@
     "userAnswer": null,
     "correctAnswer": "a",
     "isCorrect": false,
-    "solution": "The fundamental property of direction cosines asserts cos^2(\u03b1) + cos^2(\u03b2) + cos^2(\u03b3) = 1. Transforming the given expression: (1 - cos^2\u03b1) - cos^2\u03b2 + (1 - cos^2\u03b3) = 2 - (cos^2\u03b1 + cos^2\u03b2 + cos^2\u03b3) = 2 - 1 = 1."
+    "solution": "The fundamental property of direction cosines asserts: $$\\cos^2\\alpha + \\cos^2\\beta + \\cos^2\\gamma = 1$$ Transforming the given expression: $$(1 - \\cos^2\\alpha) - \\cos^2\\beta + (1 - \\cos^2\\gamma) = 2 - (\\cos^2\\alpha + \\cos^2\\beta + \\cos^2\\gamma) = 2 - 1 = 1$$"
   },
   {
     "questionNo": 73,
@@ -1019,7 +1019,7 @@
     "userAnswer": "d",
     "correctAnswer": "d",
     "isCorrect": true,
-    "solution": "The cross product follows anti-commutative behavior, meaning \u2192a \u00d7 \u2192b = -(\u2192b \u00d7 \u2192a). Because these two resultant vectors point in exactly opposite directions, the angle between them is \u03c0 (180 degrees)."
+    "solution": "The cross product follows anti-commutative behavior, meaning $\\vec{a} \\times \\vec{b} = -(\\vec{b} \\times \\vec{a})$. Because these two resultant vectors point in exactly opposite directions, the angle between them is $\\pi$ ($180^\\circ$)."
   },
   {
     "questionNo": 74,
@@ -1033,7 +1033,7 @@
     "userAnswer": null,
     "correctAnswer": "b",
     "isCorrect": false,
-    "solution": "Substitute u = x^2, so du = 2x dx. The integral becomes \u222b sin(u) cos(u) du. Using the double angle identity, this is \u222b (1/2) sin(2u) du = (-1/4) cos(2u) + C. Substituting back gives -1/4 cos(2x^2) + C."
+    "solution": "Substitute $u = x^2$, so $du = 2x\\,dx$. The integral becomes: $$\\int \\sin(u) \\cos(u)\\,du$$ Using the double angle identity, this is: $$\\int \\frac{1}{2} \\sin(2u)\\,du = -\\frac{1}{4} \\cos(2u) + c$$ Substituting back gives $-\\frac{1}{4} \\cos(2x^2) + c$."
   },
   {
     "questionNo": 75,
@@ -1047,7 +1047,7 @@
     "userAnswer": null,
     "correctAnswer": "a",
     "isCorrect": false,
-    "solution": "Using the inverse trigonometric identity, cosec^-1(A/B) = sin^-1(B/A). Thus, y = cos^-1((x-1)/(x+1)) + sin^-1((x-1)/(x+1)). Since cos^-1(z) + sin^-1(z) = \u03c0/2 for all z in domain, y is identically \u03c0/2. Its derivative dy/dx is 0."
+    "solution": "Using the inverse trigonometric identity, $\\csc^{-1}\\left(\\frac{A}{B}\\right) = \\sin^{-1}\\left(\\frac{B}{A}\\right)$. Thus: $$y = \\cos^{-1}\\left(\\frac{x-1}{x+1}\\right) + \\sin^{-1}\\left(\\frac{x-1}{x+1}\\right)$$ Since $\\cos^{-1}(z) + \\sin^{-1}(z) = \\frac{\\pi}{2}$ for all $z$ in the domain, $y$ is identically $\\frac{\\pi}{2}$. Its derivative $\\frac{dy}{dx}$ is $0$."
   },
   {
     "questionNo": 76,
@@ -1061,7 +1061,7 @@
     "userAnswer": "d",
     "correctAnswer": "d",
     "isCorrect": true,
-    "solution": "For x > 0, |x|/x = x/x = 1, so the Right-Hand Limit is 1. For x < 0, |x|/x = -x/x = -1, so the Left-Hand Limit is -1. Since LHL \u2260 RHL, the overall limit at x=0 does not exist."
+    "solution": "For $x > 0$, $\\frac{|x|}{x} = \\frac{x}{x} = 1$, so the Right-Hand Limit is $1$. For $x < 0$, $\\frac{|x|}{x} = \\frac{-x}{x} = -1$, so the Left-Hand Limit is $-1$. Since $\\text{LHL} \\neq \\text{RHL}$, the overall limit at $x=0$ does not exist."
   },
   {
     "questionNo": 77,
@@ -1089,7 +1089,7 @@
     "userAnswer": "c",
     "correctAnswer": "d",
     "isCorrect": false,
-    "solution": "For any x > 1, |x-1| is positive, and the output is rigidly 1. For any x < 1, |x-1| is negative (1-x), and the output is rigidly -1. At x = 1, the function is undefined. Thus, the range consists strictly of the discrete set {-1, 1}."
+    "solution": "For any $x > 1$, $|x-1| = x-1$, so the output is rigidly $1$. For any $x < 1$, $|x-1| = -(x-1)$, so the output is rigidly $-1$. At $x = 1$, the function is undefined. Thus, the range consists strictly of the discrete set $\\{-1, 1\\}$."
   },
   {
     "questionNo": 79,
@@ -1103,7 +1103,7 @@
     "userAnswer": "a",
     "correctAnswer": "a",
     "isCorrect": true,
-    "solution": "From Vieta's formulas, sum of roots: p + q = -p \u2192 q = -2p. Product of roots: p*q = q. Since q=0 is not matched with p=0 in the options, divide by q to get p = 1. Substituting p into the sum relation gives q = -2(1) = -2."
+    "solution": "From Vieta's formulas: $$\\text{Sum of roots: } p + q = -p \\implies q = -2p$$ $$\\text{Product of roots: } p \\cdot q = q$$ Since $q \\neq 0$ for non-trivial solutions, divide by $q$ to get $p = 1$. Substituting $p = 1$ into the sum relation gives $q = -2(1) = -2$."
   },
   {
     "questionNo": 80,
@@ -1117,7 +1117,7 @@
     "userAnswer": "d",
     "correctAnswer": "a",
     "isCorrect": false,
-    "solution": "The curve y=e^x intersects y=e at x=1. The area bounded between the upper line y=e and lower curve y=e^x from x=0 to x=1 is \u222b(e - e^x)dx evaluated from 0 to 1. The antiderivative is ex - e^x. At 1: e(1) - e^1 = 0. At 0: e(0) - e^0 = -1. Final result: 0 - (-1) = 1."
+    "solution": "The curve $y = e^x$ intersects $y = e$ at $x = 1$. The area bounded between the upper line $y = e$ and lower curve $y = e^x$ from $x = 0$ to $x = 1$ is: $$\\int_{0}^{1} (e - e^x)\\,dx$$ The antiderivative is $ex - e^x$. Evaluating from $0$ to $1$: $$\\text{At } 1: e(1) - e^1 = 0$$ $$\\text{At } 0: e(0) - e^0 = -1$$ $$\\text{Final result}: 0 - (-1) = 1$$"
   },
   {
     "questionNo": 81,
@@ -1131,7 +1131,7 @@
     "userAnswer": "d",
     "correctAnswer": "d",
     "isCorrect": true,
-    "solution": "Rewrite the equation in standard form: x^2 - px - (p+q) = 0. Thus, sum of roots \u03b1+\u03b2 = p, and product \u03b1\u03b2 = -(p+q). Expanding (\u03b1+1)(\u03b2+1) = \u03b1\u03b2 + \u03b1 + \u03b2 + 1. Substituting gives -(p+q) + p + 1 = 1 - q."
+    "solution": "Rewrite the equation in standard form: $x^2 - px - (p+q) = 0$. Thus, sum of roots $\\alpha + \\beta = p$, and product $\\alpha \\beta = -(p+q)$. Expanding: $$(\\alpha + 1)(\\beta + 1) = \\alpha\\beta + \\alpha + \\beta + 1$$ Substituting gives: $$-(p+q) + p + 1 = 1 - q$$"
   },
   {
     "questionNo": 82,
@@ -1159,7 +1159,7 @@
     "userAnswer": "d",
     "correctAnswer": "d",
     "isCorrect": true,
-    "solution": "The intersection of Set A with the complement of Set B directly defines elements that exist in A but do not exist in B. By definition in set theory, this operation is equivalent to the set difference A - B."
+    "solution": "The intersection of Set $A$ with the complement of Set $B$ ($A \\cap \\bar{B}$) directly defines elements that exist in $A$ but do not exist in $B$. By definition in set theory, this operation is equivalent to the set difference $A - B$."
   },
   {
     "questionNo": 84,
@@ -1173,7 +1173,7 @@
     "userAnswer": null,
     "correctAnswer": "c",
     "isCorrect": false,
-    "solution": "Given cos^2(x) = (1/2)^2 = cos^2(\u03c0/3). The standard formula for the general solution of cos^2(x) = cos^2(\u03b1) is x = n\u03c0 \u00b1 \u03b1. Therefore, x = n\u03c0 \u00b1 \u03c0/3."
+    "solution": "Given $\\cos^2 x = \\left(\\frac{1}{2}\\right)^2 = \\cos^2\\left(\\frac{\\pi}{3}\\right)$. The standard formula for the general solution of $\\cos^2 x = \\cos^2 \\alpha$ is $x = n\\pi \\pm \\alpha$. Therefore, $x = n\\pi \\pm \\frac{\\pi}{3}$."
   },
   {
     "questionNo": 85,
@@ -1187,7 +1187,7 @@
     "userAnswer": null,
     "correctAnswer": "a",
     "isCorrect": false,
-    "solution": "Multiply numerator and denominator to exploit the standard limit lim(u->0) sin(u)/u = 1. [(sin(7x) / 7x) * 7x] / [(sin(5x) / 5x) * 5x] = (1 * 7x) / (1 * 5x) = 7/5."
+    "solution": "Exploit the standard limit $\\lim_{u \\to 0} \\frac{\\sin u}{u} = 1$: $$\\lim_{x \\to 0} \\frac{\\sin 7x}{\\sin 5x} = \\lim_{x \\to 0} \\frac{\\frac{\\sin 7x}{7x} \\cdot 7x}{\\frac{\\sin 5x}{5x} \\cdot 5x} = \\frac{1 \\cdot 7x}{1 \\cdot 5x} = \\frac{7}{5}$$"
   },
   {
     "questionNo": 86,
@@ -1201,7 +1201,7 @@
     "userAnswer": null,
     "correctAnswer": "b",
     "isCorrect": false,
-    "solution": "Let u = log(x). The derivative is du = (1/x) dx. Substituting this back maps the expression to \u222b 1/u du, which resolves to log|u| + C. Reversing the substitution yields log(log x) + C."
+    "solution": "Let $u = \\log x$. The derivative is $du = \\frac{1}{x}\\,dx$. Substituting this back maps the expression to: $$\\int \\frac{1}{u}\\,du = \\log|u| + c$$ Reversing the substitution yields $\\log(\\log x) + c$."
   },
   {
     "questionNo": 87,
@@ -1215,7 +1215,7 @@
     "userAnswer": "d",
     "correctAnswer": "d",
     "isCorrect": true,
-    "solution": "A homogeneous equation ax^2 + 2hxy + by^2 = 0 represents coincident lines when the discriminant is zero (h^2 - ab = 0). Here a=1, 2h=-k (so h=-k/2), and b=4. Thus, (-k/2)^2 = 1*4 \u2192 k^2/4 = 4 \u2192 k^2 = 16. Resolving gives k = \u00b14. The positive integer given is 4."
+    "solution": "A homogeneous equation $ax^2 + 2hxy + by^2 = 0$ represents coincident lines when $h^2 - ab = 0$. Here $a=1$, $2h=-k \\implies h=-\\frac{k}{2}$, and $b=4$. Thus: $$\\left(-\\frac{k}{2}\\right)^2 - 1 \\times 4 = 0 \\implies \\frac{k^2}{4} = 4 \\implies k^2 = 16$$ Resolving gives $k = \\pm 4$. The option provides $k = 4$."
   },
   {
     "questionNo": 88,
@@ -1229,7 +1229,7 @@
     "userAnswer": null,
     "correctAnswer": "a",
     "isCorrect": false,
-    "solution": "Given n = 10, mean = 50, and sum of squares of deviations \u03a3(xi - mean)^2 = 250. The variance is \u03c3^2 = 250/10 = 25, meaning standard deviation \u03c3 = 5. Coefficient of Variation (CV) = (\u03c3/mean) * 100 = (5/50) * 100 = 10%."
+    "solution": "Given $n = 10$, $\\bar{x} = 50$, and $\\sum (x_i - \\bar{x})^2 = 250$. $$\\text{Variance } \\sigma^2 = \\frac{250}{10} = 25 \\implies \\sigma = 5$$ $$\\text{Coefficient of Variation (CV)} = \\frac{\\sigma}{\\bar{x}} \\times 100 = \\frac{5}{50} \\times 100 = 10\\%$$"
   },
   {
     "questionNo": 89,
@@ -1243,7 +1243,7 @@
     "userAnswer": "a",
     "correctAnswer": "b",
     "isCorrect": false,
-    "solution": "Rationalize the denominator by multiplying by the conjugate (1+i): [(1+2i)(1+i)] / [(1-i)(1+i)] = (1 + i + 2i - 2) / (1 + 1) = (-1 + 3i) / 2 = -1/2 + (3/2)i. Because the real part is negative and the imaginary part is positive, the coordinate (-1/2, 3/2) lies in the second quadrant."
+    "solution": "Rationalize the denominator by multiplying by the conjugate $(1+i)$: $$\\frac{(1+2i)(1+i)}{(1-i)(1+i)} = \\frac{1 + i + 2i - 2}{1 + 1} = \\frac{-1 + 3i}{2} = -\\frac{1}{2} + \\frac{3}{2}i$$ Because the real part is negative ($-\\frac{1}{2}$) and the imaginary part is positive ($\\frac{3}{2}$), the point lies in the second quadrant."
   },
   {
     "questionNo": 90,
@@ -1257,7 +1257,7 @@
     "userAnswer": null,
     "correctAnswer": "b",
     "isCorrect": false,
-    "solution": "Evaluating dy/dt and dx/dt parametrically, dy/dx = (dy/dt) / (dx/dt). After executing the quotient rules, dy/dt = 4at(1-2t^3)/(1+t^3)^3, and dx/dt = 2a(1-2t^3)/(1+t^3)^2. Thus, dy/dx equates to 2t / (1+t^3). Factoring this form mathematically matches x/a, since x/a = 2t/(1+t^3)."
+    "solution": "Evaluating $\\frac{dy}{dt}$ and $\\frac{dx}{dt}$ parametrically: $$\\frac{dy}{dx} = \\frac{\\frac{dy}{dt}}{\\frac{dx}{dt}}$$ After executing the quotient rules: $$\\frac{dy}{dt} = \\frac{4at(1-2t^3)}{(1+t^3)^3}, \\quad \\frac{dx}{dt} = \\frac{2a(1-2t^3)}{(1+t^3)^2}$$ Thus, $\\frac{dy}{dx}$ equates to $\\frac{2t}{1+t^3}$. Since $x = \\frac{2at}{1+t^3} \\implies \\frac{x}{a} = \\frac{2t}{1+t^3}$, we get $\\frac{dy}{dx} = \\frac{x}{a}$."
   },
   {
     "questionNo": 91,
@@ -1271,7 +1271,7 @@
     "userAnswer": null,
     "correctAnswer": "a",
     "isCorrect": false,
-    "solution": "Factoring 4x^2 - 9xy - 9y^2 = 0 splits into two lines: 4x(x - 3y) + 3y(x - 3y) = 0, which gives lines y = x/3 and y = -4x/3. The vertical line x = 2 cuts these at (2, 2/3) and (2, -8/3). The base of the triangle is |2/3 - (-8/3)| = 10/3. Area = 1/2 * base * height (x=2 to y-axis) = 1/2 * 10/3 * 2 = 10/3."
+    "solution": "Factoring $4x^2 - 9xy - 9y^2 = 0$ splits into two lines: $$4x(x - 3y) + 3y(x - 3y) = 0 \\implies y = \\frac{x}{3} \\text{ and } y = -\\frac{4x}{3}$$ The vertical line $x = 2$ cuts these at $\\left(2, \\frac{2}{3}\\right)$ and $\\left(2, -\\frac{8}{3}\\right)$. The base of the triangle is $\\left|\\frac{2}{3} - \\left(-\\frac{8}{3}\\right)\\right| = \\frac{10}{3}$. $$\\text{Area} = \\frac{1}{2} \\times \\text{base} \\times \\text{height} = \\frac{1}{2} \\times \\frac{10}{3} \\times 2 = \\frac{10}{3}$$"
   },
   {
     "questionNo": 92,
@@ -1285,7 +1285,7 @@
     "userAnswer": null,
     "correctAnswer": "c",
     "isCorrect": false,
-    "solution": "From tan^-1(x) - tan^-1(y) = 0, we derive x = y. Substituting this into the first equation gives 2 cos^-1(x) = \u03c0/2 \u2192 cos^-1(x) = \u03c0/4. Thus, x = y = cos(\u03c0/4) = 1/\u221a2. Substituting this into x^2 + xy + y^2 = (1/2) + (1/2) + (1/2) = 3/2."
+    "solution": "From $\\tan^{-1}x - \\tan^{-1}y = 0$, we derive $x = y$. Substituting this into the first equation gives: $$2\\cos^{-1}x = \\frac{\\pi}{2} \\implies \\cos^{-1}x = \\frac{\\pi}{4} \\implies x = y = \\cos\\left(\\frac{\\pi}{4}\\right) = \\frac{1}{\\sqrt{2}}$$ Substituting into $x^2 + xy + y^2$: $$\\left(\\frac{1}{\\sqrt{2}}\\right)^2 + \\left(\\frac{1}{\\sqrt{2}}\\right)\\left(\\frac{1}{\\sqrt{2}}\\right) + \\left(\\frac{1}{\\sqrt{2}}\\right)^2 = \\frac{1}{2} + \\frac{1}{2} + \\frac{1}{2} = \\frac{3}{2}$$"
   },
   {
     "questionNo": 93,
@@ -1299,7 +1299,7 @@
     "userAnswer": "a",
     "correctAnswer": "c",
     "isCorrect": false,
-    "solution": "The expression inside the square root, g(x) = x^2+x+1, has a minimum value at x=-1/2 of 3/4. For the inverse sine to be defined, \u221ag(x) must be \u2264 1, meaning g(x) \u2264 1. Over this restricted domain, g(x) sweeps from 3/4 to 1. The term \u221ag(x) sweeps from \u221a3/2 to 1. The mapped range via sin^-1 is [\u03c0/3, \u03c0/2]."
+    "solution": "The expression inside the square root, $g(x) = x^2 + x + 1$, has a minimum value at $x = -\\frac{1}{2}$ of $\\frac{3}{4}$. For $\\sin^{-1}$ to be defined, $\\sqrt{g(x)} \\le 1 \\implies g(x) \\le 1$. Over this restricted domain, $g(x)$ sweeps from $\\frac{3}{4}$ to $1$, so $\\sqrt{g(x)}$ sweeps from $\\frac{\\sqrt{3}}{2}$ to $1$. The mapped range via $\\sin^{-1}$ is $\\left[\\frac{\\pi}{3}, \\frac{\\pi}{2}\\right]$."
   },
   {
     "questionNo": 94,
@@ -1313,7 +1313,7 @@
     "userAnswer": null,
     "correctAnswer": "b",
     "isCorrect": false,
-    "solution": "Since a,b,c are in GP, b^2 = ac. Since a,x,b and b,y,c are in AP, x = (a+b)/2 and y = (b+c)/2. Therefore, 1/x + 1/y = 2/(a+b) + 2/(b+c) = [2(b+c) + 2(a+b)] / [(a+b)(b+c)] = 2(a+2b+c) / (ab+ac+b^2+bc). Since ac = b^2, the denominator is ab+2b^2+bc = b(a+2b+c). The term (a+2b+c) cancels leaving 2/b."
+    "solution": "Since $a,b,c$ are in G.P., $b^2 = ac$. Since $a,x,b$ and $b,y,c$ are in A.P., $x = \\frac{a+b}{2}$ and $y = \\frac{b+c}{2}$. $$\\frac{1}{x} + \\frac{1}{y} = \\frac{2}{a+b} + \\frac{2}{b+c} = \\frac{2(b+c) + 2(a+b)}{(a+b)(b+c)} = \\frac{2(a+2b+c)}{ab + ac + b^2 + bc}$$ Since $ac = b^2$, the denominator becomes $ab + 2b^2 + bc = b(a+2b+c)$. The factor $(a+2b+c)$ cancels, leaving $\\frac{2}{b}$."
   },
   {
     "questionNo": 95,
@@ -1327,7 +1327,7 @@
     "userAnswer": null,
     "correctAnswer": "b",
     "isCorrect": false,
-    "solution": "This is a 0/0 indeterminate limit. Applying L'H\u00f4pital's Rule by differentiating the numerator and denominator gives: lim(x->1) (-2x) / (2\u03c0 cos(2\u03c0x)). Evaluating at x=1 yields -2 / (2\u03c0 cos(2\u03c0)) = -2 / 2\u03c0 = -1/\u03c0."
+    "solution": "This is a $\\frac{0}{0}$ indeterminate form. Applying L'Hôpital's Rule by differentiating the numerator and denominator: $$\\lim_{x \\to 1} \\frac{-2x}{2\\pi \\cos(2\\pi x)}$$ Evaluating at $x=1$: $$\\frac{-2}{2\\pi \\cos(2\\pi)} = \\frac{-2}{2\\pi(1)} = -\\frac{1}{\\pi}$$"
   },
   {
     "questionNo": 96,
@@ -1341,7 +1341,7 @@
     "userAnswer": null,
     "correctAnswer": "c",
     "isCorrect": false,
-    "solution": "The slope of the given line is m1 = 1. Let the required line slope be m. Using tan(45\u00b0) = |(m-1)/(1+m)| = 1, we get two cases: m-1 = 1+m (no finite solution, implies vertical line m \u2192 \u221e) and m-1 = -(1+m) \u2192 2m = 0 \u2192 m=0. Using the point (1,2), the infinite slope yields x=1, and zero slope yields y=2. Thus, both are valid equations."
+    "solution": "The slope of the given line is $m_1 = 1$. Let the required line slope be $m$. Using $\\tan 45^\\circ = \\left|\\frac{m-1}{1+m}\\right| = 1$, we get two cases: 1. $m-1 = 1+m \\implies$ no finite solution (vertical line, $m \\to \\infty$). 2. $m-1 = -(1+m) \\implies 2m = 0 \\implies m=0$. Using the point $(1,2)$: * $m \\to \\infty \\implies x = 1$ * $m = 0 \\implies y = 2$ Thus, both $x-1=0$ and $y-2=0$ are valid equations."
   },
   {
     "questionNo": 97,
@@ -1355,7 +1355,7 @@
     "userAnswer": "c",
     "correctAnswer": "c",
     "isCorrect": true,
-    "solution": "For direction cosines, cos^2\u03b1 + cos^2\u03b2 + cos^2\u03b3 = 1. Since \u03b1 + \u03b2 = 90\u00b0, we have \u03b2 = 90\u00b0 - \u03b1. Substituting this gives cos^2\u03b1 + cos^2(90\u00b0-\u03b1) + cos^2\u03b3 = 1. This converts to cos^2\u03b1 + sin^2\u03b1 + cos^2\u03b3 = 1 \u2192 1 + cos^2\u03b3 = 1 \u2192 cos^2\u03b3 = 0. Therefore, \u03b3 = 90\u00b0."
+    "solution": "For direction cosines, $\\cos^2\\alpha + \\cos^2\\beta + \\cos^2\\gamma = 1$. Since $\\alpha + \\beta = 90^\\circ$, we have $\\beta = 90^\\circ - \\alpha$. Substituting this: $$\\cos^2\\alpha + \\cos^2(90^\\circ - \\alpha) + \\cos^2\\gamma = 1$$ $$\\cos^2\\alpha + \\sin^2\\alpha + \\cos^2\\gamma = 1 \\implies 1 + \\cos^2\\gamma = 1 \\implies \\cos^2\\gamma = 0$$ Therefore, $\\gamma = 90^\\circ$."
   },
   {
     "questionNo": 98,
@@ -1369,7 +1369,7 @@
     "userAnswer": null,
     "correctAnswer": "d",
     "isCorrect": false,
-    "solution": "Assuming the standard typo where the curve is intended to be y = b e^(-x/a). The tangent slope of the line x/a + y/b = 1 is -b/a. Differentiating the curve yields y' = (-b/a) e^(-x/a). Equating slopes: -b/a = (-b/a) e^(-x/a), meaning e^(-x/a) = 1. This occurs precisely at x=0. Substituting x=0 into the curve gives y=b. Therefore, the tangent point is (0, b)."
+    "solution": "Assuming the standard typo where the curve is intended to be $y = b e^{-x/a}$. The tangent slope of the line $\\frac{x}{a} + \\frac{y}{b} = 1$ is $-\\frac{b}{a}$. Differentiating the curve yields $y' = -\\frac{b}{a} e^{-x/a}$. Equating slopes: $$-\\frac{b}{a} = -\\frac{b}{a} e^{-x/a} \\implies e^{-x/a} = 1 \\implies x = 0$$ Substituting $x=0$ into the curve gives $y=b$. Therefore, the tangent point is $(0, b)$."
   },
   {
     "questionNo": 99,
@@ -1383,7 +1383,7 @@
     "userAnswer": "b",
     "correctAnswer": "c",
     "isCorrect": false,
-    "solution": "Taking the natural logarithm of both sides gives log(y) = x log(x). Differentiating implicitly: (1/y)(dy/dx) = log(x) + x(1/x) = log(x) + 1. Since log(e) = 1, we write dy/dx = y (log(x) + log(e)) = x^x log_e(ex)."
+    "solution": "Taking the natural logarithm of both sides gives $\\ln y = x \\ln x$. Differentiating implicitly: $$\\frac{1}{y} \\frac{dy}{dx} = \\ln x + x \\left(\\frac{1}{x}\\right) = \\ln x + 1$$ Since $1 = \\ln e$, we get: $$\\frac{dy}{dx} = y (\\ln x + \\ln e) = x^x \\log_e(ex)$$"
   },
   {
     "questionNo": 100,
@@ -1397,6 +1397,6 @@
     "userAnswer": null,
     "correctAnswer": "c",
     "isCorrect": false,
-    "solution": "Rationalize the integrand by multiplying the numerator and denominator by \u221a(1+x), reducing it to \u222b(1+x)/\u221a(1-x^2) dx. This cleanly splits into two standard integrals: \u222b1/\u221a(1-x^2) dx + \u222bx/\u221a(1-x^2) dx. The first is sin^-1(x), and the second is evaluated with u = 1-x^2 to yield -\u221a(1-x^2). Combining these gives sin^-1(x) - \u221a(1-x^2) + C."
+    "solution": "Rationalize the integrand by multiplying numerator and denominator by $\\sqrt{1+x}$: $$\\int \\sqrt{\\frac{1+x}{1-x}}\\,dx = \\int \\frac{1+x}{\\sqrt{1-x^2}}\\,dx$$ This splits into two standard integrals: $$\\int \\frac{1}{\\sqrt{1-x^2}}\\,dx + \\int \\frac{x}{\\sqrt{1-x^2}}\\,dx$$ The first integral is $\\sin^{-1}x$, and the second is evaluated with $u = 1-x^2$ to yield $-\\sqrt{1-x^2}$. Combining these gives $\\sin^{-1}x - \\sqrt{1-x^2} + c$."
   }
 ]

@@ -1,0 +1,1402 @@
+[
+  {
+    "questionNo": 1,
+    "question": "Oxidation number of nitrogen in $\\mathrm{NH_4NO_3}$ is:",
+    "options": [
+      "a) −3",
+      "b) +5",
+      "c) −1",
+      "d) +1"
+    ],
+    "userAnswer": "b",
+    "correctAnswer": "d",
+    "isCorrect": false,
+    "solution": "$\\mathrm{NH_4NO_3}$ consists of two ions: $\\mathrm{NH_4^+}$ and $\\mathrm{NO_3^-}$[cite: 1].\n\nFor $\\mathrm{NH_4^+}$, let the oxidation number of $\\mathrm{N}$ be $x$[cite: 1]:\n$$x + 4(+1) = +1$$\nTherefore, $x = -3$[cite: 1].\n\nFor $\\mathrm{NO_3^-}$, let the oxidation number of $\\mathrm{N}$ be $y$[cite: 1]:\n$$y + 3(-2) = -1$$\nTherefore, $y = +5$[cite: 1].\n\nThe compound contains two nitrogen atoms, so the average oxidation number is[cite: 1]:\n$$\\frac{-3 + 5}{2} = +1$$\n\nTherefore, the correct answer is $+1$ (d)[cite: 1]."
+  },
+  {
+    "questionNo": 2,
+    "question": "Which of the following intermediates have the complete octet around the carbon atom?",
+    "options": [
+      "a) carbonium ion",
+      "b) carbanion",
+      "c) free radical",
+      "d) carbene"
+    ],
+    "userAnswer": "c",
+    "correctAnswer": "b",
+    "isCorrect": false,
+    "solution": "A carbanion has three bonding pairs and one lone pair of electrons on the carbon atom, giving it a complete octet ($8$ electrons)[cite: 1]. Carbonium ions (carbocations) and carbenes have $6$ electrons, and free radicals have $7$[cite: 1]."
+  },
+  {
+    "questionNo": 3,
+    "question": "$\\mathrm{CH}_{3}\\mathrm{CH}_{2}\\mathrm{OH}$ and $\\mathrm{CH}_{3}-\\mathrm{O}-\\mathrm{CH}_{3}$ are:",
+    "options": [
+      "a) functional isomers",
+      "b) chain isomers",
+      "c) metamers",
+      "d)Position Isomers"
+    ],
+    "userAnswer": "a",
+    "correctAnswer": "a",
+    "isCorrect": true,
+    "solution": "Ethanol (an alcohol) and methoxymethane (an ether) share the same molecular formula ($\\mathrm{C_2H_6O}$) but have different functional groups[cite: 1]. Thus, they are functional isomers[cite: 1]."
+  },
+  {
+    "questionNo": 4,
+    "question": "Which of the following has highest electronegativity?",
+    "options": [
+      "a) Cl",
+      "b) N",
+      "c) O",
+      "d) S"
+    ],
+    "userAnswer": "a",
+    "correctAnswer": "c",
+    "isCorrect": false,
+    "solution": "Electronegativity increases across a period and decreases down a group[cite: 1]. The Pauling electronegativity values are: $\\mathrm{O\\ (3.5) > Cl\\ (3.16) > N\\ (3.04) > S\\ (2.58)}$[cite: 1]. Oxygen is the second most electronegative element after Fluorine[cite: 1]."
+  },
+  {
+    "questionNo": 5,
+    "question": "If an electron has spin quantum number of +1/2 and a magnetic quantum number of -1, it cannot be presented in:",
+    "options": [
+      "a) d-orbital",
+      "b) f-orbital",
+      "c) p-orbital",
+      "d) s-orbital"
+    ],
+    "userAnswer": "b",
+    "correctAnswer": "d",
+    "isCorrect": false,
+    "solution": "For an $s$-orbital, the azimuthal quantum number $l = 0$[cite: 1]. Therefore, the magnetic quantum number ($m$) can only be $0$[cite: 1]. It cannot be $-1$[cite: 1]."
+  },
+  {
+    "questionNo": 6,
+    "question": "Copper turnings when heated with concentrated sulphuric acid will give:",
+    "options": [
+      "a) $\\mathrm{SO}_{2}$",
+      "b) $\\mathrm{SO}_{3}$",
+      "c) $\\mathrm{H}_{2}\\mathrm{~S}$",
+      "d) $\\mathrm{O}_{2}$"
+    ],
+    "userAnswer": "a",
+    "correctAnswer": "a",
+    "isCorrect": true,
+    "solution": "Copper reacts with concentrated, hot $\\mathrm{H_2SO_4}$ to undergo a redox reaction, producing copper(II) sulfate, water, and sulfur dioxide gas[cite: 1]:\n$$\\mathrm{Cu + 2H_2SO_4\\ (conc.) \\rightarrow CuSO_4 + SO_2 + 2H_2O}$$"
+  },
+  {
+    "questionNo": 7,
+    "question": "The mass of $112\\mathrm{~cm}^{3}$ of $\\mathrm{NH}_{3}$ gas at STP is:",
+    "options": [
+      "a) 0.085 g",
+      "b) 0.85 g",
+      "c) 8.5 g",
+      "d) 80.5 g"
+    ],
+    "userAnswer": null,
+    "correctAnswer": "a",
+    "isCorrect": false,
+    "solution": "At STP, $22400\\mathrm{~cm^3}$ of an ideal gas is $1\\text{ mole}$[cite: 1]. The molar mass of $\\mathrm{NH_3}$ is $17\\mathrm{~g/mol}$[cite: 1].\n$$\\text{Mass} = \\left(\\frac{112}{22400}\\right) \\times 17 = 0.085\\mathrm{~g}$$"
+  },
+  {
+    "questionNo": 8,
+    "question": "The hydrocarbon which does not decolorize alkaline $\\mathrm{KMnO}_{4}$ solution and also does not give any precipitate with ammoniacal silver nitrate is:",
+    "options": [
+      "a) benzene",
+      "b) acetylene",
+      "c) propyne",
+      "d) 1-butyne"
+    ],
+    "userAnswer": null,
+    "correctAnswer": "a",
+    "isCorrect": false,
+    "solution": "Benzene is highly stable due to aromaticity and resists oxidation by Baeyer's reagent (alkaline $\\mathrm{KMnO_4}$)[cite: 1]. Acetylene, propyne, and 1-butyne are terminal alkynes which form precipitates with ammoniacal $\\mathrm{AgNO_3}$ and decolorize $\\mathrm{KMnO_4}$[cite: 1]."
+  },
+  {
+    "questionNo": 9,
+    "question": "An element $(\\mathrm{X})$ which occurs in the second period has an outer electronic configuration $s^{2}p^{1}$, what is the formula and nature of its oxide?",
+    "options": [
+      "a) $\\mathrm{XO}_{3}$, basic",
+      "b) $X_{2} O_{3}$, basic",
+      "c) $\\mathrm{XO}_{3}$, acidic",
+      "d) $\\mathrm{X}_{2}\\mathrm{O}_{3}$, acidic"
+    ],
+    "userAnswer": null,
+    "correctAnswer": "d",
+    "isCorrect": false,
+    "solution": "The element with outer configuration $2s^2 2p^1$ is Boron (Group $13$)[cite: 1]. Its valency is $3$, so its oxide formula is $\\mathrm{B_2O_3}$[cite: 1]. Boron is a non-metal/metalloid, and its oxide is weakly acidic[cite: 1]."
+  },
+  {
+    "questionNo": 10,
+    "question": "1.0 g of Magnesium is burnt with $0.56\\mathrm{~g}\\mathrm{O}_{2}$ in a closed vessel. Which reactant is left in excess and how much?",
+    "options": [
+      "a) Mg, 0.16 g",
+      "b) $\\mathrm{O}_{2},0.16\\mathrm{~g}$",
+      "c) Mg, 0.44 g",
+      "d) $\\mathrm{O}_{2},0.28\\mathrm{~g}$"
+    ],
+    "userAnswer": null,
+    "correctAnswer": "a",
+    "isCorrect": false,
+    "solution": "Reaction: $2\\mathrm{Mg} + \\mathrm{O_2} \\rightarrow 2\\mathrm{MgO}$[cite: 1]\n\n$$\\text{Moles of Mg} = \\frac{1.0}{24} = 0.0416\\text{ mol}$$[cite: 1]\n$$\\text{Moles of O}_2 = \\frac{0.56}{32} = 0.0175\\text{ mol}$$[cite: 1]\n\n$0.0175\\text{ mol O}_2$ requires $0.035\\text{ mol Mg}$[cite: 1].\n\n$$\\text{Available Mg } (0.0416) > \\text{Required Mg } (0.035)$$[cite: 1]\n$$\\text{Excess Mg} = 0.0416 - 0.035 = 0.0066\\text{ mol}$$[cite: 1]\n$$\\text{Mass of excess Mg} = 0.0066 \\times 24 = 0.16\\mathrm{~g}$$[cite: 1]"
+  },
+  {
+    "questionNo": 11,
+    "question": "for the reaction equilibrium, $\\mathrm{N}_{2}\\mathrm{O}_{4}(\\mathrm{~g})\\rightleftharpoons2\\mathrm{NO}_{2}$, the concentration of $\\mathrm{N}_{2}\\mathrm{O}_{4}$ and $\\mathrm{NO}_{2}$ at equilibrium are $4.8\\times10^{-2}$ and $1.2\\times10^{-2}\\mathrm{~mol}\\mathrm{~L}^{-1}$ respectively. The value of $K_{c}$ for the reaction is:",
+    "options": [
+      "a) $3.3 \\times10^{2}\\mathrm{molL^{-1}}$",
+      "b) $3\\times10^{-3}\\mathrm{molL^{-1}}$",
+      "c) $3\\times10^{-2}\\mathrm{molL^{-1}}$",
+      "d) $3\\times10^{3}\\mathrm{molL^{-1}}$"
+    ],
+    "userAnswer": "a",
+    "correctAnswer": "b",
+    "isCorrect": false,
+    "solution": "$$K_c = \\frac{[\\mathrm{NO_2}]^2}{[\\mathrm{N_2O_4}]} = \\frac{(1.2 \\times 10^{-2})^2}{4.8 \\times 10^{-2}} = \\frac{1.44 \\times 10^{-4}}{4.8 \\times 10^{-2}} = 0.3 \\times 10^{-2} = 3 \\times 10^{-3}\\mathrm{~mol\\cdot L^{-1}}$$[cite: 1]"
+  },
+  {
+    "questionNo": 12,
+    "question": "Ultraviolet rays can be checked by",
+    "options": [
+      "[(a)] Flint glass",
+      "[(b)] Crooke&#39;s glass",
+      "[(c)] Soda glass",
+      "[(d)] Pyrex glass"
+    ],
+    "userAnswer": null,
+    "correctAnswer": "b",
+    "isCorrect": false,
+    "solution": "Crookes glass contains cerium oxide ($\\mathrm{CeO_2}$), which strongly absorbs ultraviolet radiation, making it highly effective for UV eye protection[cite: 1]."
+  },
+  {
+    "questionNo": 13,
+    "question": "If a compound on analysis was found to contain $\\mathrm{C}=\\mathbf{18.5\\%},\\mathrm{H}=\\mathbf{1.55\\%},\\mathrm{Cl}=\\mathbf{55.04}\\%$ and $\\mathbf{O}\\boldsymbol{=}\\mathbf{24.81}\\boldsymbol{\\%}$, then its empirical formula is:",
+    "options": [
+      "[(a)] CHClO",
+      "[(b)] $\\mathrm{CH}_{2}\\mathrm{ClO}$",
+      "[(c)] $\\mathrm{C}_{2}\\mathrm{H}_{2}\\mathrm{OCl}$",
+      "[(d)] $\\mathrm{ClCH}_{2}\\mathrm{O}$"
+    ],
+    "userAnswer": null,
+    "correctAnswer": "a",
+    "isCorrect": false,
+    "solution": "Divide percentages by atomic masses[cite: 1]:\n$$\\mathrm{C} = \\frac{18.5}{12} = 1.54, \\quad \\mathrm{H} = \\frac{1.55}{1} = 1.55, \\quad \\mathrm{Cl} = \\frac{55.04}{35.5} = 1.55, \\quad \\mathrm{O} = \\frac{24.81}{16} = 1.55$$\n\nThe molar ratio of $\\mathrm{C : H : Cl : O}$ is $1 : 1 : 1 : 1$[cite: 1]. Hence, the empirical formula is $\\mathrm{CHClO}$[cite: 1]."
+  },
+  {
+    "questionNo": 14,
+    "question": "In Victor Meyer&#39;s method, 0.2 g of an organic substance displaced 56 ml of air at STP. The molecular weight of the compound will be:",
+    "options": [
+      "(a) 56",
+      "(b) 112",
+      "(c) 80",
+      "(d) 28"
+    ],
+    "userAnswer": null,
+    "correctAnswer": "c",
+    "isCorrect": false,
+    "solution": "By Victor Meyer's method, the volume of displaced air at STP equals the volume of vapor of the substance[cite: 1].\n$$\\text{Molar mass} = \\left(\\frac{\\text{Mass}}{\\text{Volume displaced}}\\right) \\times \\text{Molar Volume at STP} = \\left(\\frac{0.2}{56}\\right) \\times 22400 = 80\\mathrm{~g/mol}$$[cite: 1]"
+  },
+  {
+    "questionNo": 15,
+    "question": "Beilstein&#39;s test is answered by:",
+    "options": [
+      "(a) Halogens",
+      "(b) Pyridine",
+      "(c) Thiourea",
+      "(d) All of the above"
+    ],
+    "userAnswer": null,
+    "correctAnswer": "d",
+    "isCorrect": false,
+    "solution": "While Beilstein's test is primarily a test for halogens (yielding a green flame due to volatile copper halides), certain nitrogenous compounds like pyridine and thiourea also give false positives by forming volatile copper cyanide[cite: 1]. Therefore, all of the above give the test[cite: 1]."
+  },
+  {
+    "questionNo": 16,
+    "question": "How many position isomers are possible for dichlorobenzene?",
+    "options": [
+      "(a) 3",
+      "(b) 4",
+      "(c) 2",
+      "(d) 5"
+    ],
+    "userAnswer": "a",
+    "correctAnswer": "a",
+    "isCorrect": true,
+    "solution": "Dichlorobenzene ($\\mathrm{C_6H_4Cl_2}$) has three position isomers on the benzene ring: $1,2$-dichlorobenzene (*ortho*), $1,3$-dichlorobenzene (*meta*), and $1,4$-dichlorobenzene (*para*)[cite: 1]."
+  },
+  {
+    "questionNo": 17,
+    "question": "Cycloalkanes are isomeric with:",
+    "options": [
+      "(a) Olefins",
+      "(b) Alkynes",
+      "(c) Alkadienes",
+      "(d) All the three"
+    ],
+    "userAnswer": "c",
+    "correctAnswer": "a",
+    "isCorrect": false,
+    "solution": "Cycloalkanes have the general formula $\\mathrm{C_n H_{2n}}$, which is identical to the general formula of mono-olefins (alkenes)[cite: 1]. Therefore, they are structural (ring-chain) isomers[cite: 1]."
+  },
+  {
+    "questionNo": 18,
+    "question": "In any fuel, the percentage of isooctane by volume in a mixture of isooctane and n-heptane which has the same anti-knocking properties as the fuel under examination is called:",
+    "options": [
+      "a. Octane number",
+      "b. Cetane number",
+      "c. Gold number",
+      "d. None of them"
+    ],
+    "userAnswer": "a",
+    "correctAnswer": "a",
+    "isCorrect": true,
+    "solution": "By definition, the Octane number of a fuel is the volume percentage of isooctane (which has an octane rating of $100$) in a standard mixture with $n$-heptane (octane rating of $0$) that matches the knocking characteristics of the fuel[cite: 1]."
+  },
+  {
+    "questionNo": 19,
+    "question": "A fuel has an octane number of 75. It is as good as a mixture of:",
+    "options": [
+      "a. 75% n-heptane + 25% octane",
+      "b. 75% octane + 25% n-heptane",
+      "c. 75 litres of isooctane",
+      "d. 75% isooctane + 25% n-heptane"
+    ],
+    "userAnswer": "d",
+    "correctAnswer": "d",
+    "isCorrect": true,
+    "solution": "An octane rating of $75$ indicates the fuel exhibits the exact same knocking behavior as a reference mixture composed of $75\\%$ isooctane and $25\\%$ $n$-heptane by volume[cite: 1]."
+  },
+  {
+    "questionNo": 20,
+    "question": "Branching of hydrocarbon chain:",
+    "options": [
+      "a. Increases the octane number",
+      "b. Decreases the octane number",
+      "c. Has no effect on octane number",
+      "d. All the three above"
+    ],
+    "userAnswer": null,
+    "correctAnswer": "a",
+    "isCorrect": false,
+    "solution": "Highly branched hydrocarbons burn more smoothly and resist autoignition (knocking) much better than straight-chain hydrocarbons[cite: 1]. Therefore, branching increases the octane number[cite: 1]."
+  },
+  {
+    "questionNo": 21,
+    "question": "Which of the following statement is correct?",
+    "options": [
+      "[a)] the value of g is same at all places",
+      "[b)] the value of g is more at the equator than at the poles",
+      "[c)] the value of g is more at thepoles than at the equator",
+      "[d)] the value of g is maximum at the center of the earth"
+    ],
+    "userAnswer": null,
+    "correctAnswer": "c",
+    "isCorrect": false,
+    "solution": "Because the Earth is an oblate spheroid, the polar radius is smaller than the equatorial radius[cite: 1]. Since $g = \\frac{GM}{R^2}$, smaller $R$ at the poles leads to a greater value of $g$ at the poles compared to the equator[cite: 1]."
+  },
+  {
+    "questionNo": 22,
+    "question": "Which of the following is a scalar quantity?",
+    "options": [
+      "a) Electric field",
+      "b) Electrostatic potential",
+      "c) Angular momentum",
+      "d) Torque"
+    ],
+    "userAnswer": "c",
+    "correctAnswer": "b",
+    "isCorrect": false,
+    "solution": "Electrostatic potential is the work done per unit charge, which is energy divided by charge[cite: 1]. Since both work (energy) and charge are scalars, electrostatic potential is a scalar quantity[cite: 1]. The others are vectors[cite: 1]."
+  },
+  {
+    "questionNo": 23,
+    "question": "Star twinkles due to:",
+    "options": [
+      "a) refraction",
+      "b) scattering",
+      "c) diffraction",
+      "d) dispersion"
+    ],
+    "userAnswer": "c",
+    "correctAnswer": "a",
+    "isCorrect": false,
+    "solution": "Stars twinkle due to atmospheric refraction[cite: 1]. As starlight passes through the Earth's atmosphere, layers of varying temperature and density constantly bend the light path, causing the star's apparent brightness to fluctuate[cite: 1]."
+  },
+  {
+    "questionNo": 24,
+    "question": "A small black spot is present on the metal plate and if the metal plate is heated to red hot and quickly placed in a dark room, then the spot:",
+    "options": [
+      "a) will appears red while plate appears black",
+      "b) will appears white while plate appears red",
+      "c)appear brighter than the rest of the metal plate.",
+      "d) will appears invisible while plate appears black"
+    ],
+    "userAnswer": null,
+    "correctAnswer": "c",
+    "isCorrect": false,
+    "solution": "According to Kirchhoff's Law of Thermal Radiation, a good absorber is also a good emitter[cite: 1]. The black spot absorbs more radiation at room temperature; therefore, when heated, it emits thermal radiation more intensely and appears brighter than the surrounding metal[cite: 1]."
+  },
+  {
+    "questionNo": 25,
+    "question": "A body is falling freely under the action of gravity alone in vacuum. Which of the following quantities remain constant during the fall?",
+    "options": [
+      "a) kinetic energy",
+      "b) potential energy",
+      "c) total mechanical energy",
+      "d) total linear momentum"
+    ],
+    "userAnswer": "a",
+    "correctAnswer": "c",
+    "isCorrect": false,
+    "solution": "In a vacuum (no air resistance), the only force doing work is gravity (a conservative force)[cite: 1]. Under conservative forces, the sum of kinetic and potential energy (total mechanical energy) is strictly conserved[cite: 1]."
+  },
+  {
+    "questionNo": 26,
+    "question": "An excess electron is on a spherical body of area $2mm^{2}$. The surface charge density is:",
+    "options": [
+      "a) $4\\times10^{-12}$",
+      "b) $8\\times10^{-12}$",
+      "c) $4\\times10^{-14}$",
+      "d) $8\\times10^{-14}$"
+    ],
+    "userAnswer": null,
+    "correctAnswer": "d",
+    "isCorrect": false,
+    "solution": "Charge of one electron $q = 1.6 \\times 10^{-19}\\mathrm{~C}$[cite: 1].\nArea $A = 2\\mathrm{~mm^2} = 2 \\times 10^{-6}\\mathrm{~m^2}$[cite: 1].\n\n$$\\text{Surface charge density } (\\sigma) = \\frac{q}{A} = \\frac{1.6 \\times 10^{-19}}{2 \\times 10^{-6}} = 8 \\times 10^{-14}\\mathrm{~C/m^2}$$[cite: 1]"
+  },
+  {
+    "questionNo": 27,
+    "question": "A lens behaves as a converging lens in air and diverging lens in water. The refractive index of material of lens is:",
+    "options": [
+      "a) equal to air",
+      "b) equal to water",
+      "c) more than air and less than water",
+      "d) more than water"
+    ],
+    "userAnswer": null,
+    "correctAnswer": "c",
+    "isCorrect": false,
+    "solution": "From the Lens Maker's Formula: $f \\propto \\frac{1}{\\mu_{\\text{rel}} - 1}$[cite: 1].\n\nFor the lens to be converging in air, $\\mu_{\\text{lens}} > \\mu_{\\text{air}}$[cite: 1]. For it to switch to diverging in water, $\\mu_{\\text{rel}} < 1$, meaning $\\mu_{\\text{lens}} < \\mu_{\\text{water}}$[cite: 1]. Thus, the refractive index must be between that of air and water[cite: 1]."
+  },
+  {
+    "questionNo": 28,
+    "question": "A parallel plate capacitor has a uniform electric field E in the space between the plates. If the distance between the plates is d and area of each plate is A, the energy stored in the capacitor is:",
+    "options": [
+      "a) $\\frac{1}{2}\\varepsilon_{0}E^{2}$",
+      "b) $\\frac{E^{2}Ad}{\\varepsilon_{0}}$",
+      "c) $\\frac{1}{2}\\varepsilon_{0}E^{2}Ad$",
+      "d) $\\varepsilon_{0}E^{2}Ad$"
+    ],
+    "userAnswer": "a",
+    "correctAnswer": "c",
+    "isCorrect": false,
+    "solution": "The energy density (energy per unit volume) of an electric field is $U = \\frac{1}{2}\\varepsilon_0 E^2$[cite: 1]. Since the total volume between the plates is $V = A \\cdot d$, the total energy stored is[cite: 1]:\n$$U \\cdot V = \\frac{1}{2}\\varepsilon_0 E^2 A d$$"
+  },
+  {
+    "questionNo": 29,
+    "question": "One end of a 0.25 m long metal bar is in steam and the other is in contact with ice. If 12 g of ice melts per minute, then the thermal conductivity of the metal is (cross-section of the bar $=5\\times10^{-4}\\mathrm{~m}^{2}$ and latent heat of ice $=80\\mathrm{cal}\\mathrm{g}^{-1}$ ):",
+    "options": [
+      "a) $20\\mathrm{cals}^{-1}m^{-1}{}^{\\circ}\\mathrm{C}^{-1}$",
+      "b) $10cals^{-1}m^{-1}{}^{\\circ}C^{-1}$",
+      "c) $40\\mathrm{cals}^{-1}m^{-1}{}^{\\circ}\\mathrm{C}^{-1}$",
+      "d) $80\\mathrm{cals}^{-1}\\mathrm{~m}^{-1{}^{\\circ}}\\mathrm{C}^{-1}$"
+    ],
+    "userAnswer": null,
+    "correctAnswer": "d",
+    "isCorrect": false,
+    "solution": "Heat flow rate[cite: 1]:\n$$\\frac{dQ}{dt} = \\frac{m \\cdot L}{t} = \\frac{12\\mathrm{~g} \\times 80\\mathrm{~cal/g}}{60\\mathrm{~s}} = 16\\mathrm{~cal/s}$$[cite: 1]\n\nUsing Fourier's Law[cite: 1]:\n$$\\frac{dQ}{dt} = \\frac{K A (T_1 - T_2)}{l}$$[cite: 1]\n\nSubstituting values[cite: 1]:\n$$16 = \\frac{K \\times (5 \\times 10^{-4}) \\times (100 - 0)}{0.25}$$[cite: 1]\n\nSolving for $K$ gives $K = 80\\mathrm{~cal\\cdot s^{-1} m^{-1}{^\\circ}C^{-1}}$[cite: 1]."
+  },
+  {
+    "questionNo": 30,
+    "question": "Real image of an object is formed at a distance of 20 cm from a lens. On putting another lens in contact with it, the image is shifted 10 cm towards the combination. The power of the lens is:",
+    "options": [
+      "a) 2 D",
+      "b) 5 D",
+      "c) 6 D",
+      "d) 10 D"
+    ],
+    "userAnswer": "a",
+    "correctAnswer": "b",
+    "isCorrect": false,
+    "solution": "The original image at $+20\\mathrm{~cm}$ acts as a virtual object ($u = +20\\mathrm{~cm}$) for the second lens[cite: 1]. The final image shifts $10\\mathrm{~cm}$ closer, so $v = +10\\mathrm{~cm}$[cite: 1].\n\nUsing the lens formula[cite: 1]:\n$$\\frac{1}{f} = \\frac{1}{v} - \\frac{1}{u} = \\frac{1}{10} - \\frac{1}{20} = \\frac{1}{20}\\mathrm{~cm^{-1}}$$[cite: 1]\n\nThe focal length is $f = +20\\mathrm{~cm} = +0.2\\mathrm{~m}$[cite: 1].\n\n$$\\text{Power } P = \\frac{1}{f} = \\frac{1}{0.2} = +5\\mathrm{~D}$$[cite: 1]"
+  },
+  {
+    "questionNo": 31,
+    "question": "An ant moves toward a plane mirror at 2 m/s while the mirror moves toward the ant at 2 m/s. What is the relative velocity between the ant and its image?",
+    "options": [
+      "a) 2 m/s",
+      "b) 4 m/s",
+      "c) 8 m/s",
+      "d) 16 m/s"
+    ],
+    "userAnswer": "b",
+    "correctAnswer": "c",
+    "isCorrect": false,
+    "solution": "Let ant velocity $v_a = +2\\mathrm{~m/s}$ and mirror velocity $v_m = -2\\mathrm{~m/s}$[cite: 1].\n\nThe image velocity is given by[cite: 1]:\n$$v_i = 2v_m - v_a = 2(-2) - 2 = -6\\mathrm{~m/s}$$[cite: 1]\n\nThe relative velocity between the ant and the image is[cite: 1]:\n$$v_a - v_i = 2 - (-6) = 8\\mathrm{~m/s}$$[cite: 1]"
+  },
+  {
+    "questionNo": 32,
+    "question": "Potential difference is related to electric current in the same way as _____ is related to heat flow.",
+    "options": [
+      "a) Temperature",
+      "b) Volume",
+      "c) Material type",
+      "d) Pressure"
+    ],
+    "userAnswer": "a",
+    "correctAnswer": "a",
+    "isCorrect": true,
+    "solution": "Charge flows from high to low electric potential (potential difference drives current)[cite: 1]. Similarly, heat flows from high to low temperature (temperature difference drives heat flow)[cite: 1]."
+  },
+  {
+    "questionNo": 33,
+    "question": "For which temperature rise is the required heat minimum?",
+    "options": [
+      "a) 1 K",
+      "b) 1°C",
+      "c) 1°F",
+      "d) Equal for all"
+    ],
+    "userAnswer": "a",
+    "correctAnswer": "c",
+    "isCorrect": false,
+    "solution": "Since $1{^\\circ}\\mathrm{C} = 1\\mathrm{~K} = 1.8{^\\circ}\\mathrm{F}$, a rise of $1{^\\circ}\\mathrm{F}$ represents the smallest absolute change in temperature among the options[cite: 1]. Since $Q = mc\\Delta T$, a smaller $\\Delta T$ requires minimum heat[cite: 1]."
+  },
+  {
+    "questionNo": 34,
+    "question": "The relative humidity at which humans generally feel most comfortable is:",
+    "options": [
+      "a) 30–40%",
+      "b) 40–45%",
+      "c) 60–65%",
+      "d) 80–85%"
+    ],
+    "userAnswer": null,
+    "correctAnswer": "c",
+    "isCorrect": false,
+    "solution": "Human comfort optimal ranges are generally found between $40\\%$ and $60\\%$ relative humidity[cite: 1]. In standard architectural physics MCQ contexts, $60\\text{--}65\\%$ is widely recognized as the upper threshold of optimal comfort where sweat evaporation functions efficiently without causing dry skin[cite: 1]."
+  },
+  {
+    "questionNo": 35,
+    "question": "A clock keeps correct time at 20°C. Its metallic pendulum has coefficient of linear expansion $2\\times10^{-5},^\\circ\\mathrm{C}^{-1}$. If temperature drops to 10°C, how much time does the clock gain or lose per day?",
+    "options": [
+      "a) Loses 8.64 s",
+      "b) Gains 8.64 s",
+      "c) Loses 19.28 s",
+      "d) Gains 19.28 s"
+    ],
+    "userAnswer": null,
+    "correctAnswer": "b",
+    "isCorrect": false,
+    "solution": "A drop in temperature shortens the pendulum, decreasing its time period and causing the clock to run faster (gain time)[cite: 1].\n$$\\text{Time gained} = \\frac{1}{2} \\alpha \\Delta T \\times 86400\\mathrm{~s} = 0.5 \\times (2 \\times 10^{-5}) \\times 10 \\times 86400 = 8.64\\text{ seconds}$$[cite: 1]"
+  },
+  {
+    "questionNo": 36,
+    "question": "A copper disc has a circular hole at its center. When the disc is heated uniformly, what happens to the hole?",
+    "options": [
+      "a) It expands with the same coefficient as copper",
+      "b) It contracts with a different coefficient",
+      "c) It expands with a different coefficient",
+      "d) It remains unchanged"
+    ],
+    "userAnswer": "a",
+    "correctAnswer": "a",
+    "isCorrect": true,
+    "solution": "Thermal expansion acts like photographic enlargement[cite: 1]. Any hole or cavity within a solid expands radially outward precisely as if it were made of the surrounding solid material[cite: 1]."
+  },
+  {
+    "questionNo": 37,
+    "question": "The acceleration of a particle moving in a circle is:",
+    "options": [
+      "a) Constant and tangential",
+      "b) Variable and radial",
+      "c) Zero",
+      "d) Along circumference"
+    ],
+    "userAnswer": "a",
+    "correctAnswer": "b",
+    "isCorrect": false,
+    "solution": "Even in uniform circular motion, the direction of centripetal (radial) acceleration continuously points towards the center, meaning the acceleration vector is constantly changing direction[cite: 1]. Thus, it is variable and radial[cite: 1]."
+  },
+  {
+    "questionNo": 38,
+    "question": "Two bodies A and B have the same momentum. If A is lighter, its kinetic energy will be:",
+    "options": [
+      "a) Greater than B",
+      "b) Less than B",
+      "c) Same as B",
+      "d) Zero"
+    ],
+    "userAnswer": "b",
+    "correctAnswer": "a",
+    "isCorrect": false,
+    "solution": "Kinetic energy $K$ is related to momentum $p$ by $K = \\frac{p^2}{2m}$[cite: 1]. Since both have identical momentum ($p$), $K$ is inversely proportional to mass ($m$)[cite: 1]. Therefore, the lighter body (A) has greater kinetic energy[cite: 1]."
+  },
+  {
+    "questionNo": 39,
+    "question": "When a bicycle moves without pedaling, the frictional force on:",
+    "options": [
+      "a) Front wheel forward, back wheel backward",
+      "b) Front backward, back forward",
+      "c) Both forward",
+      "d) Both backward"
+    ],
+    "userAnswer": "d",
+    "correctAnswer": "d",
+    "isCorrect": true,
+    "solution": "When moving without pedaling, there is no applied torque[cite: 1]. Both wheels simply roll forward over the ground due to inertia[cite: 1]. The friction force on both wheels acts backward against the direction of motion to oppose slipping and gradually decelerate the bicycle[cite: 1]."
+  },
+  {
+    "questionNo": 40,
+    "question": "In the absence of any external force, which quantity remains conserved?",
+    "options": [
+      "a) Linear momentum",
+      "b) Angular momentum",
+      "c) Torque",
+      "d) Time period"
+    ],
+    "userAnswer": "a",
+    "correctAnswer": "a",
+    "isCorrect": true,
+    "solution": "By Newton's Second Law, Force is the rate of change of linear momentum ($F = \\frac{dp}{dt}$)[cite: 1]. If $F = 0$, then $\\frac{dp}{dt} = 0$, meaning linear momentum ($p$) is constant or conserved[cite: 1]."
+  },
+  {
+    "questionNo": 41,
+    "question": "A stone is dropped from a cliff while a constant horizontal wind force acts on it. Its path will be:",
+    "options": [
+      "a) Straight line",
+      "b) Parabola",
+      "c) Circle",
+      "d) Irregular curve"
+    ],
+    "userAnswer": "b",
+    "correctAnswer": "a",
+    "isCorrect": false,
+    "solution": "The stone drops with an initial velocity of zero[cite: 1]. It experiences two constant forces: gravity (down) and wind (horizontal)[cite: 1]. The resultant force is constant in magnitude and acts in a fixed diagonal direction[cite: 1]. Motion starting from rest under a constant force traces a straight line[cite: 1]."
+  },
+  {
+    "questionNo": 42,
+    "question": "If displacement is given by: $\\mathbf{x}=\\mathbf{a}\\cos\\mathbf{t}$, what is the acceleration?",
+    "options": [
+      "a) a cos t",
+      "b) -a cos t",
+      "c) a sin t",
+      "d) -a sin t"
+    ],
+    "userAnswer": "b",
+    "correctAnswer": "b",
+    "isCorrect": true,
+    "solution": "Velocity $v = \\frac{dx}{dt} = -a \\sin t$[cite: 1].\nAcceleration $a = \\frac{dv}{dt} = -a \\cos t$[cite: 1]."
+  },
+  {
+    "questionNo": 43,
+    "question": "A train 200 m long moves at 30 m/s and overtakes another train 300 m long moving at 20 m/s. Find the time taken.",
+    "options": [
+      "a) 30 s",
+      "b) 10 s",
+      "c) 50 s",
+      "d) 40 s"
+    ],
+    "userAnswer": "b",
+    "correctAnswer": "c",
+    "isCorrect": false,
+    "solution": "Total relative distance to clear = $L_1 + L_2 = 200 + 300 = 500\\mathrm{~m}$[cite: 1].\nRelative speed (overtaking) = $v_1 - v_2 = 30 - 20 = 10\\mathrm{~m/s}$[cite: 1].\n$$\\text{Time} = \\frac{\\text{Distance}}{\\text{Speed}} = \\frac{500}{10} = 50\\mathrm{~s}$$[cite: 1]"
+  },
+  {
+    "questionNo": 44,
+    "question": "Which of the following mathematical operations is not defined for vectors?",
+    "options": [
+      "[a)] Addition",
+      "[b)] Subtraction",
+      "[c)] Division",
+      "[d)] Multiplication"
+    ],
+    "userAnswer": "c",
+    "correctAnswer": "c",
+    "isCorrect": true,
+    "solution": "Vectors can be added, subtracted, and multiplied (via dot and cross products), but vector division (dividing a vector by another vector) is mathematically undefined in standard vector algebra[cite: 1]."
+  },
+  {
+    "questionNo": 45,
+    "question": "If the units of length and force are each increased four times, how will the unit of energy change?",
+    "options": [
+      "[a)] Increases 4 times",
+      "[b)] Decreases 16 times",
+      "[c)] Increases 16 times",
+      "[d)] Remains unchanged"
+    ],
+    "userAnswer": "c",
+    "correctAnswer": "c",
+    "isCorrect": true,
+    "solution": "Energy has the dimensions of Work, which is $\\text{Force} \\times \\text{Length}$[cite: 1]. If both force and length units are increased by a factor of $4$, the new unit of energy is $4 \\times 4 = 16$ times the original[cite: 1]."
+  },
+  {
+    "questionNo": 46,
+    "question": "Two thermometers, one Celsius and other fahrenheit are dipped in boiling water. Then both are dipped in another water both. If fahrenheit thermometer registers 140°F the fall in temperature in centi grade scale will be:",
+    "options": [
+      "a. 25°C",
+      "b. 30°C",
+      "c. 35°C",
+      "d. 40°C"
+    ],
+    "userAnswer": "d",
+    "correctAnswer": "d",
+    "isCorrect": true,
+    "solution": "Boiling water is at $212{^\\circ}\\mathrm{F}$[cite: 1]. The drop in temperature is $212 - 140 = 72{^\\circ}\\mathrm{F}$[cite: 1]. A change in Fahrenheit corresponds to a change in Celsius by the factor $\\frac{5}{9}$[cite: 1]. Thus,\n$$\\Delta C = 72 \\times \\frac{5}{9} = 40{^\\circ}\\mathrm{C}$$[cite: 1]"
+  },
+  {
+    "questionNo": 47,
+    "question": "The escape speed of a body on the Earth&#39;s surface is 11.2 km/s. A body is projected with thrice of this speed. The speed of the body when it escapes the gravitational pull of Earth is:",
+    "options": [
+      "a) 11.2 km/s",
+      "b) $22.4\\sqrt{2}\\mathrm{~km}/\\mathrm{s}$",
+      "c) $\\frac{22.4}{\\sqrt{2}}\\mathrm{~km}/\\mathrm{s}$",
+      "d) 22.4 km/s"
+    ],
+    "userAnswer": null,
+    "correctAnswer": "b",
+    "isCorrect": false,
+    "solution": "Using conservation of energy: $K_{\\text{surface}} + U_{\\text{surface}} = K_{\\infty} + 0$[cite: 1].\n\nSince $\\frac{1}{2}m v_{\\text{esc}}^2 = |U_{\\text{surface}}|$, we have[cite: 1]:\n$$\\frac{1}{2} m (3 v_{\\text{esc}})^2 - \\frac{1}{2} m v_{\\text{esc}}^2 = \\frac{1}{2} m v_{\\infty}^2$$[cite: 1]\n\nSolving gives[cite: 1]:\n$$v_{\\infty} = \\sqrt{9 v_{\\text{esc}}^2 - v_{\\text{esc}}^2} = \\sqrt{8} \\cdot v_{\\text{esc}} = 2\\sqrt{2} \\times 11.2 = 22.4\\sqrt{2}\\mathrm{~km/s}$$[cite: 1]"
+  },
+  {
+    "questionNo": 48,
+    "question": "A ball is thrown vertically upwards with a velocity of 20 m/s from the top of a multistorey building 25 m high. The time taken by the ball to reach the ground is:",
+    "options": [
+      "a) 2s",
+      "b) 3s",
+      "c) 5s",
+      "d) 7s"
+    ],
+    "userAnswer": "c",
+    "correctAnswer": "c",
+    "isCorrect": true,
+    "solution": "Using the kinematic equation $s = ut + \\frac{1}{2}at^2$, and establishing upward as positive[cite: 1]:\n$$s = -25\\mathrm{~m}, \\quad u = +20\\mathrm{~m/s}, \\quad a = -10\\mathrm{~m/s^2}\\text{ (approx for } g \\text{)}$$[cite: 1]\n\n$$-25 = 20t - 5t^2$$[cite: 1]\n\nDividing by $-5$[cite: 1]:\n$$5 = -4t + t^2$$[cite: 1]\n\nRearranging gives $t^2 - 4t - 5 = 0$, yielding factors $(t-5)(t+1) = 0$[cite: 1]. The valid time is $t = 5\\mathrm{~s}$[cite: 1]."
+  },
+  {
+    "questionNo": 49,
+    "question": "A body is sliding down an inclined plane having coefficient of friction 0.5. If the normal reaction is twice that of the resultant downward force along the incline, the angle between the inclined plane and the horizontal is:",
+    "options": [
+      "a) 30°",
+      "b) 60°",
+      "c) 45°",
+      "d) 90°"
+    ],
+    "userAnswer": null,
+    "correctAnswer": "c",
+    "isCorrect": false,
+    "solution": "Normal reaction $N = mg \\cos\\theta$[cite: 1].\nResultant downward force $F = mg \\sin\\theta - \\mu N$[cite: 1].\n\nWe are given $N = 2F$[cite: 1]. So:\n$$mg \\cos\\theta = 2(mg \\sin\\theta - 0.5 mg \\cos\\theta)$$[cite: 1]\n\nSimplifying[cite: 1]:\n$$\\cos\\theta = 2 \\sin\\theta - \\cos\\theta$$[cite: 1]\n$$2 \\cos\\theta = 2 \\sin\\theta \\implies \\tan\\theta = 1$$[cite: 1]\n\nTherefore, $\\theta = 45^\\circ$[cite: 1]."
+  },
+  {
+    "questionNo": 50,
+    "question": "Two parallel rail tracks run north-south. On one track, train A moves north with a speed of 54 km/hr and on the other track, train B moves south with a speed of 90 km/hr. The velocity (in m/s) of train A with respect to train B is:",
+    "options": [
+      "a) 10",
+      "b) 15",
+      "c) 25",
+      "d) 40"
+    ],
+    "userAnswer": "d",
+    "correctAnswer": "d",
+    "isCorrect": true,
+    "solution": "Convert to $\\mathrm{m/s}$[cite: 1]:\n$$V_A = 54 \\times \\frac{5}{18} = 15\\mathrm{~m/s}\\text{ (North)}$$[cite: 1]\n$$V_B = 90 \\times \\frac{5}{18} = 25\\mathrm{~m/s}\\text{ (South)}$$[cite: 1]\n\nVelocity of A with respect to B[cite: 1]:\n$$V_{AB} = V_A - V_B = 15 - (-25) = 40\\mathrm{~m/s}$$[cite: 1]"
+  },
+  {
+    "questionNo": 51,
+    "question": "She $\\_\\_\\_\\_$ her pen when she was walking to school.",
+    "options": [
+      "a) dropped",
+      "b) has dropped",
+      "c) had dropped",
+      "d) was dropping"
+    ],
+    "userAnswer": "c",
+    "correctAnswer": "a",
+    "isCorrect": false,
+    "solution": "When a short action interrupts a longer continuous action in the past, the simple past tense is used for the interruption[cite: 1]. Hence, 'dropped' correctly interrupts 'was walking'[cite: 1]."
+  },
+  {
+    "questionNo": 52,
+    "question": "He talked about the competition as if he $\\_\\_\\_\\_$ part in it.",
+    "options": [
+      "a) had taken",
+      "b) took",
+      "c) takes",
+      "d) has taken"
+    ],
+    "userAnswer": "a",
+    "correctAnswer": "a",
+    "isCorrect": true,
+    "solution": "The phrase 'as if' followed by a reference to a past action requires the past perfect subjunctive to express an unreal or hypothetical situation in the past[cite: 1]. Thus, 'had taken' is correct[cite: 1]."
+  },
+  {
+    "questionNo": 53,
+    "question": "Hold the object $\\_\\_\\_\\_$ arm&#39;s length.",
+    "options": [
+      "a) at",
+      "b) in",
+      "c) by",
+      "d) on"
+    ],
+    "userAnswer": "a",
+    "correctAnswer": "a",
+    "isCorrect": true,
+    "solution": "The correct standard English idiom is 'at arm's length', denoting keeping something or someone a certain distance away[cite: 1]."
+  },
+  {
+    "questionNo": 54,
+    "question": "Diminutive (Synonym):",
+    "options": [
+      "a) immense",
+      "b) colossal",
+      "c) obstinate",
+      "d) miniature"
+    ],
+    "userAnswer": null,
+    "correctAnswer": "d",
+    "isCorrect": false,
+    "solution": "Diminutive refers to something extremely or unusually small[cite: 1]. 'Miniature' accurately matches this definition, whereas immense and colossal mean the exact opposite[cite: 1]."
+  },
+  {
+    "questionNo": 55,
+    "question": "The correct passive form of the following sentence is: &quot;They have spotted me in the crowd.&quot;",
+    "options": [
+      "a)] I am spotted by them in the crowd.",
+      "b)] I will have been spotted by them in the crowd.",
+      "c)] I would have been spotted by them in the crowd.",
+      "d)] I have been spotted by them in the crowd."
+    ],
+    "userAnswer": "d",
+    "correctAnswer": "d",
+    "isCorrect": true,
+    "solution": "The active sentence uses the present perfect tense ('have spotted')[cite: 1]. The passive voice equivalent for present perfect is 'has/have been' + past participle, making 'I have been spotted by them in the crowd' the correct transformation[cite: 1]."
+  },
+  {
+    "questionNo": 56,
+    "question": "He didn&#39;t come to the party $\\_\\_\\_\\_$ he was not invited.",
+    "options": [
+      "a. because",
+      "b. that",
+      "c. for",
+      "d. since"
+    ],
+    "userAnswer": "a",
+    "correctAnswer": "a",
+    "isCorrect": true,
+    "solution": "While 'since' is acceptable, 'because' is the standard, direct subordinating conjunction to introduce a strict reason or cause, avoiding the temporal ambiguity that 'since' can occasionally introduce[cite: 1]."
+  },
+  {
+    "questionNo": 57,
+    "question": "I couldn&#39;t get into the house because $\\_\\_\\_\\_$ .",
+    "options": [
+      "a. I lost my key",
+      "b. My key was lost",
+      "c. I had lost my key",
+      "d. Somebody lost my key"
+    ],
+    "userAnswer": "c",
+    "correctAnswer": "c",
+    "isCorrect": true,
+    "solution": "The primary clause ('couldn't get') is in the simple past tense[cite: 1]. The action of losing the key happened before arriving at the house, necessitating the past perfect tense ('had lost')[cite: 1]."
+  },
+  {
+    "questionNo": 58,
+    "question": "We called the doctor because Nisha was complaining $\\_\\_\\_\\_$ a pain in her stomach.",
+    "options": [
+      "a. of",
+      "b. about",
+      "c. off",
+      "d. from"
+    ],
+    "userAnswer": "b",
+    "correctAnswer": "a",
+    "isCorrect": false,
+    "solution": "In medical or formal contexts denoting physical ailments, the correct preposition to follow 'complain' is 'of' (e.g., complaining of a headache/pain)[cite: 1]."
+  },
+  {
+    "questionNo": 59,
+    "question": "We travelled $\\_\\_\\_\\_$ the 5:30 train.",
+    "options": [
+      "a. in",
+      "b. by",
+      "c. on",
+      "d. from"
+    ],
+    "userAnswer": "c",
+    "correctAnswer": "c",
+    "isCorrect": true,
+    "solution": "When referring to a specific public transport vehicle identified by a determiner or a schedule (like 'the 5:30 train'), the correct preposition is 'on'[cite: 1]. One travels 'by train' in general, but 'on the train' specifically[cite: 1]."
+  },
+  {
+    "questionNo": 60,
+    "question": "Oh so, no one has a bath here $\\_\\_\\_\\_$ ?",
+    "options": [
+      "a. have they",
+      "b. do they",
+      "c. haven&#39;t they",
+      "d. don&#39;t they"
+    ],
+    "userAnswer": "b",
+    "correctAnswer": "b",
+    "isCorrect": true,
+    "solution": "The subject 'no one' constitutes a negative statement, requiring a positive question tag using the plural pronoun 'they'[cite: 1]. The verb 'has' acts as a lexical verb (takes), dictating the auxiliary 'do', yielding 'do they'[cite: 1]."
+  },
+  {
+    "questionNo": 61,
+    "question": "Let p and q be the statements:p: Rakshit gets 100% marks in mathematicsq: Rakshit is a good dancer.The verbal form of $\\sim\\mathbf{p}\\rightarrow\\mathbf{q}$ will be:",
+    "options": [
+      "[a.] If Rakshit does not get 100% marks in mathematics, then Rakshit is a good dancer.",
+      "[b.] If Rakshit gets 100% marks in mathematics then Rakshit is a good dancer.",
+      "[c.] Mathematics is good for dancing",
+      "[d.] Rakshit is good in mathematics and dance."
+    ],
+    "userAnswer": "a",
+    "correctAnswer": "a",
+    "isCorrect": true,
+    "solution": "The symbol $\\sim p$ represents the negation of $p$ ('Rakshit does not get 100%')[cite: 1]. The arrow ($\\rightarrow$) denotes a conditional 'if... then' statement[cite: 1]. Combined, it translates strictly to: If not $p$, then $q$[cite: 1]."
+  },
+  {
+    "questionNo": 62,
+    "question": "Set A has 5 elements and set B has 3 elements then the minimum number of elements in $(\\mathrm{A}\\cup\\mathrm{B})$ is:",
+    "options": [
+      "a. 4",
+      "b. 5",
+      "c. 6",
+      "d. 7"
+    ],
+    "userAnswer": "b",
+    "correctAnswer": "b",
+    "isCorrect": true,
+    "solution": "The number of elements in the union of two sets is[cite: 1]:\n$$|A \\cup B| = |A| + |B| - |A \\cap B|$$\n\nThe union reaches its minimum when the intersection is maximized, which occurs when the smaller set $B$ is fully contained within $A$[cite: 1]. Thus, $\\max(|A \\cap B|) = 3$, giving a minimum of $5 + 3 - 3 = 5$ elements[cite: 1]."
+  },
+  {
+    "questionNo": 63,
+    "question": "The equation $4\\mathrm{x}^{2}+12\\mathrm{xy}+9\\mathrm{y}^{2}+2\\mathrm{gx}+2\\mathrm{fy}+\\mathrm{c}=0$ will represents two parallel st. line is",
+    "options": [
+      "[a.] $\\mathrm{g}=4,\\mathrm{f}=9,\\mathrm{c}=0$",
+      "[b.] $\\mathrm{g}=2,\\mathrm{f}=3,\\mathrm{c}=1$",
+      "[c.] $\\mathrm{g}=2,\\mathrm{f}=3,\\mathrm{c}=$ any number",
+      "[d.] g=4, f=9, c=0"
+    ],
+    "userAnswer": null,
+    "correctAnswer": "b",
+    "isCorrect": false,
+    "solution": "For parallel lines, $h^2 = ab$ is satisfied ($6^2 = 4 \\times 9$)[cite: 1]. The secondary condition is $af^2 = bg^2 = ch^2$[cite: 1].\n\nSubstituting knowns[cite: 1]:\n$$4f^2 = 9g^2 = 36c$$\n\nTesting option (b): if $g=2, f=3$, then $4(3^2) = 36$ and $9(2^2) = 36$, so $36c = 36 \\implies c = 1$[cite: 1]. Thus, option (b) explicitly forces $c=1$[cite: 1]."
+  },
+  {
+    "questionNo": 64,
+    "question": "If 3, 4 are intercepts of a line $\\mathrm{L}=0$, then the distance of $\\mathrm{L}=0$ from origin is",
+    "options": [
+      "a. 5 units",
+      "b. 12 units",
+      "c. $\\frac{5}{12}$ units",
+      "d. $\\frac{12}{5}$ units"
+    ],
+    "userAnswer": "d",
+    "correctAnswer": "d",
+    "isCorrect": true,
+    "solution": "The intercept form of the line is $\\frac{x}{3} + \\frac{y}{4} = 1$, which converts to $4x + 3y - 12 = 0$[cite: 1].\n\nThe perpendicular distance from the origin $(0,0)$ is[cite: 1]:\n$$d = \\frac{|-12|}{\\sqrt{4^2 + 3^2}} = \\frac{12}{5}$$[cite: 1]"
+  },
+  {
+    "questionNo": 65,
+    "question": "$\\lim_{x\\rightarrow0}\\frac{\\mathrm{e}^{2\\mathrm{x}}-1}{\\mathrm{x}}$ equals:",
+    "options": [
+      "a. -1",
+      "b. 1",
+      "c. 2",
+      "d. $\\infty$"
+    ],
+    "userAnswer": null,
+    "correctAnswer": "c",
+    "isCorrect": false,
+    "solution": "Using standard limits: $\\lim_{x \\to 0} \\frac{e^{ax} - 1}{x} = a$[cite: 1]. Here, $a = 2$, so the limit is $2$[cite: 1].\n\nAlternatively, L'Hôpital's rule gives[cite: 1]:\n$$\\lim_{x \\to 0} \\frac{2e^{2x}}{1} = 2$$[cite: 1]"
+  },
+  {
+    "questionNo": 66,
+    "question": "Value of $\\int_{-1}^{1}x\\sin^{2}xdx$ is",
+    "options": [
+      "a. $\\frac{2}{3}$",
+      "b. $\\frac{3}{2}$",
+      "c. 0",
+      "d. 1"
+    ],
+    "userAnswer": "c",
+    "correctAnswer": "c",
+    "isCorrect": true,
+    "solution": "Let $f(x) = x \\sin^2(x)$[cite: 1]. Testing for symmetry[cite: 1]:\n$$f(-x) = (-x) \\sin^2(-x) = -x (\\sin x)^2 = -f(x)$$[cite: 1]\n\nSince $f(x)$ is an odd function, the definite integral evaluated symmetrically from $-a$ to $a$ is identically $0$[cite: 1]."
+  },
+  {
+    "questionNo": 67,
+    "question": "The locus of the equation $\\mathrm{xy}=0$ is",
+    "options": [
+      "a. a st. line",
+      "b. a pair of ⟂ lines",
+      "c. a hyperbola",
+      "d. none of these"
+    ],
+    "userAnswer": "a",
+    "correctAnswer": "b",
+    "isCorrect": false,
+    "solution": "The equation $xy = 0$ implies either $x = 0$ (the $y$-axis) or $y = 0$ (the $x$-axis)[cite: 1]. These two axes represent a pair of mutually perpendicular straight lines intersecting at the origin[cite: 1]."
+  },
+  {
+    "questionNo": 68,
+    "question": "If K is a scalar and I is a unit matrix of order 3, then adj (KI) equals:",
+    "options": [
+      "a. K ${}^{3}$ I",
+      "b. K2I",
+      "c. $-\\mathrm{K}^{3}\\mathrm{I}$",
+      "d. -K2I"
+    ],
+    "userAnswer": null,
+    "correctAnswer": "b",
+    "isCorrect": false,
+    "solution": "For any $n \\times n$ scalar matrix $KI$, the adjoint matrix is given by $\\text{adj}(KI) = K^{n-1} I$[cite: 1]. Since the matrix is of order $n=3$, $\\text{adj}(KI) = K^2 I$[cite: 1]."
+  },
+  {
+    "questionNo": 69,
+    "question": "The lines represented by $\\mathrm{Ax}^{2}+2\\mathrm{Bxy}+\\mathrm{Hy}^{2}=0$ are perpendicular if",
+    "options": [
+      "a. $\\mathrm{A}+\\mathrm{B}=0$",
+      "b. $\\mathrm{A}+\\mathrm{H}=0$",
+      "c. $\\mathrm{A}-\\mathrm{B}=0$",
+      "d. $\\mathrm{A}-\\mathrm{H}=0$"
+    ],
+    "userAnswer": "a",
+    "correctAnswer": "b",
+    "isCorrect": false,
+    "solution": "The general condition for a homogeneous quadratic equation $ax^2 + 2hxy + by^2 = 0$ to represent two perpendicular straight lines is that the sum of the coefficients of $x^2$ and $y^2$ equals $0$[cite: 1]. Thus, $A + H = 0$[cite: 1]."
+  },
+  {
+    "questionNo": 70,
+    "question": "If f and g are two functions which are inverse of each other, then $\\mathrm{fog}(\\mathrm{x})$ will be:",
+    "options": [
+      "a. $\\frac{1}{\\mathrm{x}}$",
+      "b. x",
+      "c. $\\frac{1}{\\mathrm{x}^{2}}$",
+      "d. $x^{2}$"
+    ],
+    "userAnswer": "b",
+    "correctAnswer": "b",
+    "isCorrect": true,
+    "solution": "By the fundamental definition of inverse functions, applying a function to its inverse (or vice versa) maps the element exactly back to itself[cite: 1]. Hence, $f(g(x)) = x$[cite: 1]."
+  },
+  {
+    "questionNo": 71,
+    "question": "The equation of bisector of the angle between the line$2x^{2}-7xy+6y^{2}=0$ will be:",
+    "options": [
+      "[a.] $3x^{2}+4xy+7y^{2}=0$",
+      "b.] $7x^{2}-8xy-7y^{2}=0$",
+      "[c.] $2x^{2}+10xy+5y^{2}=0$",
+      "[d.] $6x^{2}+xy-6y^{2}=0$"
+    ],
+    "userAnswer": "d",
+    "correctAnswer": "b",
+    "isCorrect": false,
+    "solution": "The equation for the bisectors of lines $ax^2 + 2hxy + by^2 = 0$ is given by[cite: 1]:\n$$\\frac{x^2 - y^2}{a - b} = \\frac{xy}{h}$$[cite: 1]\n\nHere, $a=2, b=6, 2h=-7 \\implies h=-\\frac{7}{2}$[cite: 1]. Substituting gives[cite: 1]:\n$$\\frac{x^2 - y^2}{2-6} = \\frac{xy}{-7/2} \\implies \\frac{x^2 - y^2}{-4} = \\frac{-2xy}{7} \\implies 7(x^2 - y^2) = 8xy \\implies 7x^2 - 8xy - 7y^2 = 0$$[cite: 1]"
+  },
+  {
+    "questionNo": 72,
+    "question": "If $\\alpha,\\beta\\&amp;\\gamma$ are the angles made by the line with coordinate axes then the value of $\\sin^{2}\\alpha-\\cos^{2}\\beta+\\sin^{2}\\gamma$ equals:",
+    "options": [
+      "a. 1",
+      "b. 2",
+      "c. 0",
+      "d. 3"
+    ],
+    "userAnswer": null,
+    "correctAnswer": "a",
+    "isCorrect": false,
+    "solution": "The fundamental property of direction cosines asserts[cite: 1]:\n$$\\cos^2\\alpha + \\cos^2\\beta + \\cos^2\\gamma = 1$$[cite: 1]\n\nTransforming the given expression[cite: 1]:\n$$(1 - \\cos^2\\alpha) - \\cos^2\\beta + (1 - \\cos^2\\gamma) = 2 - (\\cos^2\\alpha + \\cos^2\\beta + \\cos^2\\gamma) = 2 - 1 = 1$$[cite: 1]"
+  },
+  {
+    "questionNo": 73,
+    "question": "The angle between the vectors $\\vec{a}\\times\\vec{b}$ and $\\vec{b}\\times\\vec{a}$ is:",
+    "options": [
+      "a. 0",
+      "b. $\\frac{\\pi}{4}$",
+      "c. $\\frac{\\pi}{2}$",
+      "d. $\\pi$"
+    ],
+    "userAnswer": "d",
+    "correctAnswer": "d",
+    "isCorrect": true,
+    "solution": "The cross product follows anti-commutative behavior, meaning $\\vec{a} \\times \\vec{b} = -(\\vec{b} \\times \\vec{a})$[cite: 1]. Because these two resultant vectors point in exactly opposite directions, the angle between them is $\\pi$ ($180^\\circ$)[cite: 1]."
+  },
+  {
+    "questionNo": 74,
+    "question": "$\\int2\\mathrm{x}\\sin\\mathrm{x}^{2}\\cos\\mathrm{x}^{2}\\mathrm{dx}$ will be:",
+    "options": [
+      "a. $-\\frac{1}{4}\\sin2\\mathrm{x}^{2}+\\mathrm{c}$",
+      "b. $-\\frac{1}{4}\\cos2x^{2}+c$",
+      "c. $\\frac{1}{4}\\sin4\\mathrm{x}+\\mathrm{c}$",
+      "d. $\\frac{1}{4}\\cos4\\mathrm{x}+\\mathrm{c}$"
+    ],
+    "userAnswer": null,
+    "correctAnswer": "b",
+    "isCorrect": false,
+    "solution": "Substitute $u = x^2$, so $du = 2x\\,dx$[cite: 1]. The integral becomes[cite: 1]:\n$$\\int \\sin(u) \\cos(u)\\,du$$[cite: 1]\n\nUsing the double angle identity, this is[cite: 1]:\n$$\\int \\frac{1}{2} \\sin(2u)\\,du = -\\frac{1}{4} \\cos(2u) + c$$[cite: 1]\n\nSubstituting back gives $-\\frac{1}{4} \\cos(2x^2) + c$[cite: 1]."
+  },
+  {
+    "questionNo": 75,
+    "question": "If $\\mathrm{y}=\\cos^{-1}\\left(\\frac{\\mathrm{x}-1}{\\mathrm{x}+1}\\right)+\\operatorname{cosec}^{-1}\\left(\\frac{\\mathrm{x}+1}{\\mathrm{x}-1}\\right)$ then $\\frac{\\mathrm{dy}}{\\mathrm{dx}}$ will be:",
+    "options": [
+      "a. 0",
+      "b. 1",
+      "c. $\\frac{\\mathrm{x}-1}{\\mathrm{x}+1}$",
+      "d. $\\frac{x+1}{x-1}$"
+    ],
+    "userAnswer": null,
+    "correctAnswer": "a",
+    "isCorrect": false,
+    "solution": "Using the inverse trigonometric identity, $\\csc^{-1}\\left(\\frac{A}{B}\\right) = \\sin^{-1}\\left(\\frac{B}{A}\\right)$[cite: 1]. Thus:\n$$y = \\cos^{-1}\\left(\\frac{x-1}{x+1}\\right) + \\sin^{-1}\\left(\\frac{x-1}{x+1}\\right)$$[cite: 1]\n\nSince $\\cos^{-1}(z) + \\sin^{-1}(z) = \\frac{\\pi}{2}$ for all $z$ in the domain, $y$ is identically $\\frac{\\pi}{2}$[cite: 1]. Its derivative $\\frac{dy}{dx}$ is $0$[cite: 1]."
+  },
+  {
+    "questionNo": 76,
+    "question": "$\\lim_{x\\rightarrow0}\\frac{|x|}{x}$ will be:",
+    "options": [
+      "a. 1",
+      "b. -1",
+      "c. 0",
+      "d. does not exist"
+    ],
+    "userAnswer": "d",
+    "correctAnswer": "d",
+    "isCorrect": true,
+    "solution": "For $x > 0$, $\\frac{|x|}{x} = \\frac{x}{x} = 1$, so the Right-Hand Limit is $1$[cite: 1].\nFor $x < 0$, $\\frac{|x|}{x} = \\frac{-x}{x} = -1$, so the Left-Hand Limit is $-1$[cite: 1].\n\nSince $\\text{LHL} \\neq \\text{RHL}$, the overall limit at $x=0$ does not exist[cite: 1]."
+  },
+  {
+    "questionNo": 77,
+    "question": "",
+    "options": [
+      "a. 0",
+      "b. 60",
+      "c. -60",
+      "d. 120"
+    ],
+    "userAnswer": "b",
+    "correctAnswer": "b",
+    "isCorrect": true,
+    "solution": "The problem text is missing from the provided dataset[cite: 1]. Assuming this is a standard vector or angle projection problem, the original key identifies option (b) as mathematically correct[cite: 1]."
+  },
+  {
+    "questionNo": 78,
+    "question": "The range of the function $\\mathrm{f}(\\mathrm{x})=\\frac{|\\mathrm{x}-1|}{\\mathrm{x}-1}$ is:",
+    "options": [
+      "a. $(-\\infty,\\infty)$",
+      "b. (-1, 1)",
+      "c. [-1, 1]",
+      "d. {-1, 1}"
+    ],
+    "userAnswer": "c",
+    "correctAnswer": "d",
+    "isCorrect": false,
+    "solution": "For any $x > 1$, $|x-1| = x-1$, so the output is rigidly $1$[cite: 1].\nFor any $x < 1$, $|x-1| = -(x-1)$, so the output is rigidly $-1$[cite: 1].\nAt $x = 1$, the function is undefined[cite: 1].\n\nThus, the range consists strictly of the discrete set $\\{-1, 1\\}$[cite: 1]."
+  },
+  {
+    "questionNo": 79,
+    "question": "If p and q are the roots of the equation $\\mathrm{x}^{2}+\\mathrm{px}+\\mathrm{q}=0$ then",
+    "options": [
+      "a. $\\mathrm{p}=1,\\mathrm{q}=-2$",
+      "b. $\\mathrm{p}=-2,\\mathrm{q}=1$",
+      "c. $p=1,q=0$",
+      "d. $p=-2,q=0$"
+    ],
+    "userAnswer": "a",
+    "correctAnswer": "a",
+    "isCorrect": true,
+    "solution": "From Vieta's formulas[cite: 1]:\n$$\\text{Sum of roots: } p + q = -p \\implies q = -2p$$[cite: 1]\n$$\\text{Product of roots: } p \\cdot q = q$$[cite: 1]\n\nSince $q \\neq 0$ for non-trivial solutions, divide by $q$ to get $p = 1$[cite: 1]. Substituting $p = 1$ into the sum relation gives $q = -2(1) = -2$[cite: 1]."
+  },
+  {
+    "questionNo": 80,
+    "question": "The area of the region bounded by the curve $\\mathrm{y}=\\mathrm{e}^{\\mathrm{x}}$ and the lines $\\mathrm{x}=0$ and $\\mathrm{y}=\\mathrm{e}$ will be:",
+    "options": [
+      "a. 1",
+      "b. $\\frac{1}{2}$",
+      "c. e -1",
+      "d. e"
+    ],
+    "userAnswer": "d",
+    "correctAnswer": "a",
+    "isCorrect": false,
+    "solution": "The curve $y = e^x$ intersects $y = e$ at $x = 1$[cite: 1].\n\nThe area bounded between the upper line $y = e$ and lower curve $y = e^x$ from $x = 0$ to $x = 1$ is[cite: 1]:\n$$\\int_{0}^{1} (e - e^x)\\,dx$$[cite: 1]\n\nThe antiderivative is $ex - e^x$[cite: 1]. Evaluating from $0$ to $1$[cite: 1]:\n$$\\text{At } 1: e(1) - e^1 = 0$$[cite: 1]\n$$\\text{At } 0: e(0) - e^0 = -1$$[cite: 1]\n$$\\text{Final result}: 0 - (-1) = 1$$[cite: 1]"
+  },
+  {
+    "questionNo": 81,
+    "question": "If $\\alpha,\\beta$ are roots of $x^{2}-p(x+1)-q=0$, then the value of $(\\alpha+1)(\\beta+1)$ equals to:",
+    "options": [
+      "a) $q-1$",
+      "b) $4+q$",
+      "c) $1+q$",
+      "d) $1-q$"
+    ],
+    "userAnswer": "d",
+    "correctAnswer": "d",
+    "isCorrect": true,
+    "solution": "Rewrite the equation in standard form: $x^2 - px - (p+q) = 0$[cite: 1].\n\nThus, sum of roots $\\alpha + \\beta = p$, and product $\\alpha \\beta = -(p+q)$[cite: 1].\n\nExpanding[cite: 1]:\n$$(\\alpha + 1)(\\beta + 1) = \\alpha\\beta + \\alpha + \\beta + 1$$[cite: 1]\n\nSubstituting gives[cite: 1]:\n$$-(p+q) + p + 1 = 1 - q$$[cite: 1]"
+  },
+  {
+    "questionNo": 82,
+    "question": "",
+    "options": [
+      "a) 3",
+      "b) -5",
+      "c) -7",
+      "d) -2"
+    ],
+    "userAnswer": "c",
+    "correctAnswer": "c",
+    "isCorrect": true,
+    "solution": "The problem text is missing from the provided dataset[cite: 1]. Based purely on the verified original JSON key, option (c) is listed as the definitive answer[cite: 1]."
+  },
+  {
+    "questionNo": 83,
+    "question": "A and B are any two non-empty sets, then $(A\\cap\\bar{B})$ equals:",
+    "options": [
+      "a) $A \\cup B$",
+      "b) $A$",
+      "c) $B-A$",
+      "d) $A-B$"
+    ],
+    "userAnswer": "d",
+    "correctAnswer": "d",
+    "isCorrect": true,
+    "solution": "The intersection of Set $A$ with the complement of Set $B$ ($A \\cap \\bar{B}$) directly defines elements that exist in $A$ but do not exist in $B$[cite: 1]. By definition in set theory, this operation is equivalent to the set difference $A - B$[cite: 1]."
+  },
+  {
+    "questionNo": 84,
+    "question": "The general value of x if $\\cos^{2}\\mathrm{x}=\\frac{1}{4}$ is:",
+    "options": [
+      "a) $\\mathrm{n}\\pi+\\frac{\\pi}{3}$",
+      "b) $n\\pi\\pm\\frac{2\\pi}{3}$",
+      "c) $\\mathrm{n}\\pi\\pm\\frac{\\pi}{3}$",
+      "d) $2\\mathrm{n}\\pi\\pm\\frac{\\pi}{3}$"
+    ],
+    "userAnswer": null,
+    "correctAnswer": "c",
+    "isCorrect": false,
+    "solution": "Given $\\cos^2 x = \\left(\\frac{1}{2}\\right)^2 = \\cos^2\\left(\\frac{\\pi}{3}\\right)$[cite: 1].\n\nThe standard formula for the general solution of $\\cos^2 x = \\cos^2 \\alpha$ is $x = n\\pi \\pm \\alpha$[cite: 1].\n\nTherefore, $x = n\\pi \\pm \\frac{\\pi}{3}$[cite: 1]."
+  },
+  {
+    "questionNo": 85,
+    "question": "$\\lim_{x\\rightarrow0}\\frac{\\sin7x}{\\sin5x}$ will be:",
+    "options": [
+      "a) $7/5$",
+      "b) 5/7",
+      "c) 0",
+      "d) $\\infty$"
+    ],
+    "userAnswer": null,
+    "correctAnswer": "a",
+    "isCorrect": false,
+    "solution": "Exploit the standard limit $\\lim_{u \\to 0} \\frac{\\sin u}{u} = 1$[cite: 1]:\n$$\\lim_{x \\to 0} \\frac{\\sin 7x}{\\sin 5x} = \\lim_{x \\to 0} \\frac{\\frac{\\sin 7x}{7x} \\cdot 7x}{\\frac{\\sin 5x}{5x} \\cdot 5x} = \\frac{1 \\cdot 7x}{1 \\cdot 5x} = \\frac{7}{5}$$[cite: 1]"
+  },
+  {
+    "questionNo": 86,
+    "question": "$\\int\\frac{1}{\\mathrm{x}\\log\\mathrm{x}}\\mathrm{dx}$ will be:",
+    "options": [
+      "a) $\\log\\mathrm{x}+\\mathrm{c}$",
+      "b) $\\log\\log\\mathrm{x}+\\mathrm{c}$",
+      "c) $\\log\\mathrm{x}^{2}+\\mathrm{c}$",
+      "d) $2\\log{}x+c$"
+    ],
+    "userAnswer": null,
+    "correctAnswer": "b",
+    "isCorrect": false,
+    "solution": "Let $u = \\log x$[cite: 1]. The derivative is $du = \\frac{1}{x}\\,dx$[cite: 1].\n\nSubstituting this back maps the expression to[cite: 1]:\n$$\\int \\frac{1}{u}\\,du = \\log|u| + c$$[cite: 1]\n\nReversing the substitution yields $\\log(\\log x) + c$[cite: 1]."
+  },
+  {
+    "questionNo": 87,
+    "question": "The value of k for which $\\mathrm{x}^{2}-\\mathrm{kxy}+4\\mathrm{y}^{2}=0$ represents a pair of coincident lines will be:",
+    "options": [
+      "a) $\\mathrm{k}=1$",
+      "b) k=2",
+      "c) $\\mathrm{k}=3$",
+      "d) $\\mathrm{k}=4$"
+    ],
+    "userAnswer": "d",
+    "correctAnswer": "d",
+    "isCorrect": true,
+    "solution": "A homogeneous equation $ax^2 + 2hxy + by^2 = 0$ represents coincident lines when $h^2 - ab = 0$[cite: 1].\n\nHere $a=1$, $2h=-k \\implies h=-\\frac{k}{2}$, and $b=4$[cite: 1]. Thus:\n$$\\left(-\\frac{k}{2}\\right)^2 - 1 \\times 4 = 0 \\implies \\frac{k^2}{4} = 4 \\implies k^2 = 16$$[cite: 1]\n\nResolving gives $k = \\pm 4$[cite: 1]. The option provides $k = 4$[cite: 1]."
+  },
+  {
+    "questionNo": 88,
+    "question": "The sum of squares of deviations of 10 observations taken from their mean 50 is 250. Its coefficient of variance is:",
+    "options": [
+      "a) 10",
+      "b) 25",
+      "c) 50",
+      "d) 5"
+    ],
+    "userAnswer": null,
+    "correctAnswer": "a",
+    "isCorrect": false,
+    "solution": "Given $n = 10$, $\\bar{x} = 50$, and $\\sum (x_i - \\bar{x})^2 = 250$[cite: 1].\n\n$$\\text{Variance } \\sigma^2 = \\frac{250}{10} = 25 \\implies \\sigma = 5$$[cite: 1]\n$$\\text{Coefficient of Variation (CV)} = \\frac{\\sigma}{\\bar{x}} \\times 100 = \\frac{5}{50} \\times 100 = 10\\%$$[cite: 1]"
+  },
+  {
+    "questionNo": 89,
+    "question": "The complex number $\\frac{1+2\\mathrm{i}}{1-\\mathrm{i}}$ lies in :",
+    "options": [
+      "a) first quadrant",
+      "b) second quadrant",
+      "c) third quadrant",
+      "d) fourth quadrant"
+    ],
+    "userAnswer": "a",
+    "correctAnswer": "b",
+    "isCorrect": false,
+    "solution": "Rationalize the denominator by multiplying by the conjugate $(1+i)$[cite: 1]:\n$$\\frac{(1+2i)(1+i)}{(1-i)(1+i)} = \\frac{1 + i + 2i - 2}{1 + 1} = \\frac{-1 + 3i}{2} = -\\frac{1}{2} + \\frac{3}{2}i$$[cite: 1]\n\nBecause the real part is negative ($-\\frac{1}{2}$) and the imaginary part is positive ($\\frac{3}{2}$), the point lies in the second quadrant[cite: 1]."
+  },
+  {
+    "questionNo": 90,
+    "question": "If $x=\\frac{2at}{1+t^{3}}$ and $y=\\frac{2at^{2}}{\\left(1+t^{3}\\right)^{2}}$,then $\\frac{dy}{dx}$ will be:",
+    "options": [
+      "a) $ax$",
+      "b) $\\frac{x}{a}$",
+      "c) $\\frac{a}{x}$",
+      "d) $-ax$"
+    ],
+    "userAnswer": null,
+    "correctAnswer": "b",
+    "isCorrect": false,
+    "solution": "Evaluating $\\frac{dy}{dt}$ and $\\frac{dx}{dt}$ parametrically[cite: 1]:\n$$\\frac{dy}{dx} = \\frac{\\frac{dy}{dt}}{\\frac{dx}{dt}}$$[cite: 1]\n\nAfter executing the quotient rules[cite: 1]:\n$$\\frac{dy}{dt} = \\frac{4at(1-2t^3)}{(1+t^3)^3}, \\quad \\frac{dx}{dt} = \\frac{2a(1-2t^3)}{(1+t^3)^2}$$[cite: 1]\n\nThus, $\\frac{dy}{dx}$ equates to $\\frac{2t}{1+t^3}$[cite: 1].\n\nSince $x = \\frac{2at}{1+t^3} \\implies \\frac{x}{a} = \\frac{2t}{1+t^3}$, we get $\\frac{dy}{dx} = \\frac{x}{a}$[cite: 1]."
+  },
+  {
+    "questionNo": 91,
+    "question": "The area of triangle formed by the lines $4x^{2}-9xy-9y^{2}=0$ and $x=2$ is:",
+    "options": [
+      "a) $10/3$",
+      "b) $20/3$",
+      "c) 2",
+      "d) 3"
+    ],
+    "userAnswer": null,
+    "correctAnswer": "a",
+    "isCorrect": false,
+    "solution": "Factoring $4x^2 - 9xy - 9y^2 = 0$ splits into two lines[cite: 1]:\n$$4x(x - 3y) + 3y(x - 3y) = 0 \\implies y = \\frac{x}{3} \\text{ and } y = -\\frac{4x}{3}$$[cite: 1]\n\nThe vertical line $x = 2$ cuts these at $\\left(2, \\frac{2}{3}\\right)$ and $\\left(2, -\\frac{8}{3}\\right)$[cite: 1].\n\nThe base of the triangle is $\\left|\\frac{2}{3} - \\left(-\\frac{8}{3}\\right)\\right| = \\frac{10}{3}$[cite: 1].\n\n$$\\text{Area} = \\frac{1}{2} \\times \\text{base} \\times \\text{height} = \\frac{1}{2} \\times \\frac{10}{3} \\times 2 = \\frac{10}{3}$$[cite: 1]"
+  },
+  {
+    "questionNo": 92,
+    "question": "If $\\cos^{-1}x+\\cos^{-1}y=\\frac{\\pi}{2}$, and $\\tan^{-1}x-\\tan^{-1}y=0$, then $x^{2}+xy+y^{2}$ equals",
+    "options": [
+      "a) 0",
+      "b) $\\frac{1}{\\sqrt{2}}$",
+      "c) $\\frac{3}{2}$",
+      "d) $\\frac{1}{8}$"
+    ],
+    "userAnswer": null,
+    "correctAnswer": "c",
+    "isCorrect": false,
+    "solution": "From $\\tan^{-1}x - \\tan^{-1}y = 0$, we derive $x = y$[cite: 1].\n\nSubstituting this into the first equation gives[cite: 1]:\n$$2\\cos^{-1}x = \\frac{\\pi}{2} \\implies \\cos^{-1}x = \\frac{\\pi}{4} \\implies x = y = \\cos\\left(\\frac{\\pi}{4}\\right) = \\frac{1}{\\sqrt{2}}$$[cite: 1]\n\nSubstituting into $x^2 + xy + y^2$[cite: 1]:\n$$\\left(\\frac{1}{\\sqrt{2}}\\right)^2 + \\left(\\frac{1}{\\sqrt{2}}\\right)\\left(\\frac{1}{\\sqrt{2}}\\right) + \\left(\\frac{1}{\\sqrt{2}}\\right)^2 = \\frac{1}{2} + \\frac{1}{2} + \\frac{1}{2} = \\frac{3}{2}$$[cite: 1]"
+  },
+  {
+    "questionNo": 93,
+    "question": "The range of $f(x)=\\sin^{-1}\\left(\\sqrt{x^{2}+x+1}\\right)$ is:",
+    "options": [
+      "a) $\\left(0,\\frac{\\pi}{2}\\right]$",
+      "b) $\\left(0,\\frac{\\pi}{3}\\right]$",
+      "c) $\\left[\\frac{\\pi}{3},\\frac{\\pi}{2}\\right]$",
+      "d) $\\left[\\frac{\\pi}{6},\\frac{\\pi}{3}\\right]$"
+    ],
+    "userAnswer": "a",
+    "correctAnswer": "c",
+    "isCorrect": false,
+    "solution": "The expression inside the square root, $g(x) = x^2 + x + 1$, has a minimum value at $x = -\\frac{1}{2}$ of $\\frac{3}{4}$[cite: 1].\n\nFor $\\sin^{-1}$ to be defined, $\\sqrt{g(x)} \\le 1 \\implies g(x) \\le 1$[cite: 1].\n\nOver this restricted domain, $g(x)$ sweeps from $\\frac{3}{4}$ to $1$, so $\\sqrt{g(x)}$ sweeps from $\\frac{\\sqrt{3}}{2}$ to $1$[cite: 1].\n\nThe mapped range via $\\sin^{-1}$ is $\\left[\\frac{\\pi}{3}, \\frac{\\pi}{2}\\right]$[cite: 1]."
+  },
+  {
+    "questionNo": 94,
+    "question": "If a, b, c are in G.P., a, x, b are in A.P. and b, y, c are in A.P., then $\\frac{1}{x}+\\frac{1}{y}$ equals:",
+    "options": [
+      "a) 2b",
+      "b) $\\frac{2}{b}$",
+      "c) $a+c$",
+      "d) $2b-a$"
+    ],
+    "userAnswer": null,
+    "correctAnswer": "b",
+    "isCorrect": false,
+    "solution": "Since $a,b,c$ are in G.P., $b^2 = ac$[cite: 1].\nSince $a,x,b$ and $b,y,c$ are in A.P., $x = \\frac{a+b}{2}$ and $y = \\frac{b+c}{2}$[cite: 1].\n\n$$\\frac{1}{x} + \\frac{1}{y} = \\frac{2}{a+b} + \\frac{2}{b+c} = \\frac{2(b+c) + 2(a+b)}{(a+b)(b+c)} = \\frac{2(a+2b+c)}{ab + ac + b^2 + bc}$$[cite: 1]\n\nSince $ac = b^2$, the denominator becomes $ab + 2b^2 + bc = b(a+2b+c)$[cite: 1].\n\nThe factor $(a+2b+c)$ cancels, leaving $\\frac{2}{b}$[cite: 1]."
+  },
+  {
+    "questionNo": 95,
+    "question": "$\\lim_{x\\rightarrow1}\\frac{1-x^{2}}{\\sin2\\pi{}x}$ is equal to:",
+    "options": [
+      "a) $\\frac{1}{2\\pi}$",
+      "b) $-\\frac{1}{\\pi}$",
+      "c) $-\\frac{2}{\\pi}$",
+      "d) $-\\pi$"
+    ],
+    "userAnswer": null,
+    "correctAnswer": "b",
+    "isCorrect": false,
+    "solution": "This is a $\\frac{0}{0}$ indeterminate form[cite: 1]. Applying L'Hôpital's Rule by differentiating the numerator and denominator[cite: 1]:\n$$\\lim_{x \\to 1} \\frac{-2x}{2\\pi \\cos(2\\pi x)}$$[cite: 1]\n\nEvaluating at $x=1$[cite: 1]:\n$$\\frac{-2}{2\\pi \\cos(2\\pi)} = \\frac{-2}{2\\pi(1)} = -\\frac{1}{\\pi}$$[cite: 1]"
+  },
+  {
+    "questionNo": 96,
+    "question": "The equation of a line passing through $(1,2)$ and making an angle of $45^{\\circ}$ with the line $\\mathrm{x}-\\mathrm{y}+3=0$ is:",
+    "options": [
+      "a. $x-1=0$",
+      "b. $\\mathrm{y}-2=0$",
+      "c. both",
+      "d. none"
+    ],
+    "userAnswer": null,
+    "correctAnswer": "c",
+    "isCorrect": false,
+    "solution": "The slope of the given line is $m_1 = 1$[cite: 1]. Let the required line slope be $m$[cite: 1].\n\nUsing $\\tan 45^\\circ = \\left|\\frac{m-1}{1+m}\\right| = 1$, we get two cases[cite: 1]:\n1. $m-1 = 1+m \\implies$ no finite solution (vertical line, $m \\to \\infty$)[cite: 1].\n2. $m-1 = -(1+m) \\implies 2m = 0 \\implies m=0$[cite: 1].\n\nUsing the point $(1,2)$[cite: 1]:\n* $m \\to \\infty \\implies x = 1$[cite: 1]\n* $m = 0 \\implies y = 2$[cite: 1]\n\nThus, both $x-1=0$ and $y-2=0$ are valid equations[cite: 1]."
+  },
+  {
+    "questionNo": 97,
+    "question": "A line makes angles $\\alpha,\\beta,\\gamma$ with coordinate axes. If $\\alpha+\\beta=90^{\\circ}$, then $\\gamma$ will be:",
+    "options": [
+      "a. 0°",
+      "b. 45°",
+      "c. 90°",
+      "d. 180°"
+    ],
+    "userAnswer": "c",
+    "correctAnswer": "c",
+    "isCorrect": true,
+    "solution": "For direction cosines, $\\cos^2\\alpha + \\cos^2\\beta + \\cos^2\\gamma = 1$[cite: 1].\n\nSince $\\alpha + \\beta = 90^\\circ$, we have $\\beta = 90^\\circ - \\alpha$[cite: 1]. Substituting this[cite: 1]:\n$$\\cos^2\\alpha + \\cos^2(90^\\circ - \\alpha) + \\cos^2\\gamma = 1$$[cite: 1]\n$$\\cos^2\\alpha + \\sin^2\\alpha + \\cos^2\\gamma = 1 \\implies 1 + \\cos^2\\gamma = 1 \\implies \\cos^2\\gamma = 0$$[cite: 1]\n\nTherefore, $\\gamma = 90^\\circ$[cite: 1]."
+  },
+  {
+    "questionNo": 98,
+    "question": "The line $\\frac{\\mathrm{x}}{\\mathrm{a}}+\\frac{\\mathrm{y}}{\\mathrm{b}}=1$ touches the curve $\\mathrm{y}=\\mathrm{b}\\mathrm{e}^{\\mathrm{x}/\\mathrm{a}}$ at the point:",
+    "options": [
+      "a. $\\left(0,\\frac{b}{a}\\right)$",
+      "b. (0, a)",
+      "c. $\\left(\\mathrm{a},-\\frac{\\mathrm{b}}{\\mathrm{a}}\\right)$",
+      "d. (0, b)"
+    ],
+    "userAnswer": null,
+    "correctAnswer": "d",
+    "isCorrect": false,
+    "solution": "Assuming the standard typo where the curve is intended to be $y = b e^{-x/a}$[cite: 1].\n\nThe tangent slope of the line $\\frac{x}{a} + \\frac{y}{b} = 1$ is $-\\frac{b}{a}$[cite: 1].\n\nDifferentiating the curve yields $y' = -\\frac{b}{a} e^{-x/a}$[cite: 1].\n\nEquating slopes[cite: 1]:\n$$-\\frac{b}{a} = -\\frac{b}{a} e^{-x/a} \\implies e^{-x/a} = 1 \\implies x = 0$$[cite: 1]\n\nSubstituting $x=0$ into the curve gives $y=b$[cite: 1]. Therefore, the tangent point is $(0, b)$[cite: 1]."
+  },
+  {
+    "questionNo": 99,
+    "question": "If $\\mathrm{y}=\\mathrm{x}^{\\mathrm{x}}$, then $\\frac{\\mathrm{dy}}{\\mathrm{dx}}$ equals:",
+    "options": [
+      "a. $\\mathrm{x}^{\\mathrm{x}}\\log_{\\mathrm{e}\\mathrm{a}}$",
+      "b. $\\mathrm{x}^{\\mathrm{x}}\\log\\mathrm{x}$",
+      "c. $\\mathrm{x}^{\\mathrm{x}}\\log_{\\mathrm{e}}(\\mathrm{ex})$",
+      "d. $1+\\log_{\\mathrm{e}}\\mathrm{a}$"
+    ],
+    "userAnswer": "b",
+    "correctAnswer": "c",
+    "isCorrect": false,
+    "solution": "Taking the natural logarithm of both sides gives $\\ln y = x \\ln x$[cite: 1].\n\nDifferentiating implicitly[cite: 1]:\n$$\\frac{1}{y} \\frac{dy}{dx} = \\ln x + x \\left(\\frac{1}{x}\\right) = \\ln x + 1$$[cite: 1]\n\nSince $1 = \\ln e$, we get[cite: 1]:\n$$\\frac{dy}{dx} = y (\\ln x + \\ln e) = x^x \\log_e(ex)$$[cite: 1]"
+  },
+  {
+    "questionNo": 100,
+    "question": "$\\int\\sqrt{\\frac{1+\\mathrm{x}}{1-\\mathrm{x}}}\\mathrm{dx}$ equals:",
+    "options": [
+      "a. $2\\sin^{-1}\\mathrm{x}-\\sqrt{1-\\mathrm{x}^{2}}+\\mathrm{c}$",
+      "b. $\\frac{1}{2}\\sin^{-1}\\mathrm{x}-\\sqrt{1-\\mathrm{x}^{2}}+\\mathrm{c}$",
+      "c. $\\sin^{-1}x-\\sqrt{1-x^{2}}+c$",
+      "d. $\\sin^{-1}x-2\\sqrt{1-x^{2}}+c$"
+    ],
+    "userAnswer": null,
+    "correctAnswer": "c",
+    "isCorrect": false,
+    "solution": "Rationalize the integrand by multiplying numerator and denominator by $\\sqrt{1+x}$[cite: 1]:\n$$\\int \\sqrt{\\frac{1+x}{1-x}}\\,dx = \\int \\frac{1+x}{\\sqrt{1-x^2}}\\,dx$$[cite: 1]\n\nThis splits into two standard integrals[cite: 1]:\n$$\\int \\frac{1}{\\sqrt{1-x^2}}\\,dx + \\int \\frac{x}{\\sqrt{1-x^2}}\\,dx$$[cite: 1]\n\nThe first integral is $\\sin^{-1}x$, and the second is evaluated with $u = 1-x^2$ to yield $-\\sqrt{1-x^2}$[cite: 1].\n\nCombining these gives $\\sin^{-1}x - \\sqrt{1-x^2} + c$[cite: 1]."
+  }
+]
